@@ -1,289 +1,289 @@
-car_model,car_brand,car_full_name,registration_year,km_to_date,sale_price,fuel_type,transmission_type,sale_picture_link,car_age,km_age_ratio
-c3,citroen,citroen c3 1.2 puretech c-series,2021,81409,14480,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijludwltyxy4cxj0dditu1revlrmufqifq.ltoaut2-xwxjp2df466v9-sn5f561vx5fitjychm3d8/image;s=320x240,2,40704.5
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,21000,19690,gasolina,manual,none,1,21000.0
-c3,citroen,citroen c3 1.2 puretech c-series,2022,31090,16899,gasolina,manual,none,1,31090.0
-c3,citroen,citroen c3 1.2 puretech feel,2018,50918,11990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imt5b29ub291bhnhni1tverwvexqvcj9.uo0xorpe8irpxjth2ipfhmedc0n4rva_dbay2ysii88/image;s=320x240,5,10183.6
-c3,citroen,citroen c3 1.2 puretech feel,2019,120000,13950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inq1n295zdbzyty1mzitu1revlrmufqifq.bcb1nxttak_mrfpmv-q95zqe2xppf2p77efccohyxhk/image;s=320x240,4,30000.0
-a1,audi,audi a1 sportback 1.4 tdi design,2015,136000,14900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innizwgyow1sb2vzazitu1revlrmufqifq.t248gn3wnee1w6c79zyj1tpjezyadmlwsgfcpamstna/image;s=320x240,8,17000.0
-c3,citroen,citroen c3 1.2 puretech shine,2019,43693,14700,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijfjogfsnjfzzth1ny1tverwvexqvcj9.ficldn0zdvhn3bwnu2hhr0h1htlulxic_yoi0rtg9o8/image;s=320x240,4,10923.25
-c3,citroen,citroen c3 1.2 puretech feel,2019,58478,13490,gasolina,manual,none,4,14619.5
-c3,citroen,citroen c3 picasso,2009,157000,8250,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inp6oxhxngtyamvvdjitu1revlrmufqifq.g4bs_p-ne7qpyca4xfcmhsjpkddi0ersdnltkzhsclc/image;s=320x240,14,11214.285714285714
-a1,audi,audi a1 sportback 25 tfsi advanced,2022,36000,22890,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imv2bzljadm3etz6etetu1revlrmufqifq.d7xiatvngkxk43clutqqzzdvko1vthyzocyj1mv8gp4/image;s=320x240,1,36000.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,38827,17740,gasolina,manual,none,1,38827.0
-a1,audi,audi a1 sportback 1.4 tdi (ultra),2015,146088,15750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imdsdxlnmxzhzhjxmzmtu1revlrmufqifq.cykutqoxe93f2218ht4cvxyyhrcquxq8twkobdydu88/image;s=320x240,8,18261.0
-c3,citroen,citroen c3 1.2 puretech shine,2022,13003,17990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inz2nzd2dzy0bg53mtmtu1revlrmufqifq.rchfo4r4hk5fzzp2r8va2koywyeugijm2ttmqnff9yk/image;s=320x240,1,13003.0
-c3,citroen,citroen c3 1.6 bluehdi feel,2017,153000,12990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infmohhrehdienvhbzmtu1revlrmufqifq.51o9tw7rcyea0qanqgfspcri37nittfnczd5o8omuyw/image;s=320x240,6,25500.0
-a1,audi,audi a1 sportback 1.0 tfsi design,2018,129600,15900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzoy241yxh6ehj1mzmtu1revlrmufqifq.jfr6bx6k-er-hn0pqahuu0_kbb3jsq0bw19u3vbupas/image;s=320x240,5,25920.0
-c3,citroen,citroen c3 1.6 bluehdi feel,2018,97000,14950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inz5b2zvdnbleghlci1tverwvexqvcj9.eq7-k1eypl6s-an49x2shmfkoxch6ceq12vp9zmrpiy/image;s=320x240,5,19400.0
-c3,citroen,citroen c3 1.6 bluehdi shine,2018,160000,14950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijrmm2m5dnc1ynhtetitu1revlrmufqifq.zqfq31c36shl56jxjaqsyxwjeebfpxjd87wimzf9ota/image;s=320x240,5,32000.0
-a1,audi,audi a1 sportback 25 tfsi advanced,2022,35000,22890,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imlzcwzyz25qy3zkddetu1revlrmufqifq.v0uim8d74ttkcbmc_xcvrqf0p4qtrs8l1h5wmllspdm/image;s=320x240,1,35000.0
-c3,citroen,citroen c3 1.2 vti seduction,2012,148000,7900,gasolina,manual,none,11,13454.545454545454
-c3,citroen,citroen c3 1.2 puretech shine,2020,46455,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im9zoxe5dhnjcdjjyi1tverwvexqvcj9.njiuw0-yl4doelaqwn7ha9npstxaus9kerqjpjtkhoa/image;s=320x240,3,15485.0
-c3,citroen,citroen c3 1.2 puretech c-series,2022,26139,16899,gasolina,manual,none,1,26139.0
-a1,audi,audi a1 1.6 tdi ambition,2013,193293,12900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijvidtz3b3f2nhpnbdetu1revlrmufqifq.edbfhmgyhscuoeatot1wdl4py6egh5xh_dlfub1hrcw/image;s=320x240,10,19329.3
-c3,citroen,citroen c3 aircross 1.5 bluehdi shine s&s,2019,123000,17450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infqz3eyehg4ahn0yjitu1revlrmufqifq.kdbb8jqp2inc0sl2u5xfktwmrqiz2kagpsa4tznbcxc/image;s=320x240,4,30750.0
-c3,citroen,citroen c3 1.2 puretech shine,2017,134000,11890,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im10dmnumg5panvhntmtu1revlrmufqifq.hrqxg-ou1ebfmpzi3wpj1gkaqd_rmnguvfnabex-rf8/image;s=320x240,6,22333.333333333332
-c3,citroen,citroen c3 aircross 1.2 puretech shine,2019,86000,15990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imgxbza4cne4dgo4czitu1revlrmufqifq.yapxtyvto1uvc9ousvoddk9i0sssy3ihxjppy1ih2_i/image;s=320x240,4,21500.0
-c3,citroen,citroen c3 1.2 puretech c-series,2023,10764,18750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invnn2jnbdnzzgcycjetu1revlrmufqifq.3gfmtb5v4bxhulgurrruid2bktjyqatcfdpk8evdzp4/image;s=320x240,0,inf
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,15000,20900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzuynm3dgl3dnm4zjetu1revlrmufqifq.vck14op9i5pnso51mgfawbr_v6heqonrgzwjbglrkgo/image;s=320x240,0,inf
-c3,citroen,citroen c3 1.2 puretech shine,2021,58050,15980,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijq2aw9lyzbumxn6ctmtu1revlrmufqifq.ony8rejvxx0iwowttl0i4qq4ey3d_71cid1eqjffgfq/image;s=320x240,2,29025.0
-c3,citroen,citroen c3 1.2 puretech feel,2018,80710,14250,gasolina,manual,none,5,16142.0
-c3,citroen,citroen c3,2014,89760,9900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invzzgpzdgt4b2nyotetu1revlrmufqifq.de0mvje-0qqvv9hvwjiq9buy3bialy4vc5a-b5dxn8a/image;s=320x240,9,9973.333333333334
-c3,citroen,citroen c3 1.2 puretech seduction,2017,135000,13250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbsbhqydhnvyzg5otmtu1revlrmufqifq.fqxohuyn_ypdhsnbxo2vnzwsmczjsie40t8hjm9njj4/image;s=320x240,6,22500.0
-c3,citroen,citroen c3,2022,30418,16380,diesel,manual,none,1,30418.0
-c3,citroen,citroen c3 aircross 1.5 bluehdi c-series,2022,49632,20990,diesel,manual,none,1,49632.0
-c3,citroen,citroen c3 pure tech s&s feel pack,2020,69303,14950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imy5ejqyote1zxn5zzitu1revlrmufqifq.8kass4ee5lfkyfqguibepndsv62rucrlfbsyfzdwfzy/image;s=320x240,3,23101.0
-c3,citroen,citroen c3 1.2 puretech feel pack,2022,29500,15990,gasolina,manual,none,1,29500.0
-c3,citroen,citroen c3 1.5 bluehdi feel,2019,121956,15000,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imfwog5nm29ln2fmdzitu1revlrmufqifq.t8w7hvkqnwlb9efto2tol0loislnoswwbdselxnphwi/image;s=320x240,4,30489.0
-c3,citroen,citroen c3 1.1 attraction,2011,116000,7990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inb1yms2bmr6c2x3zdmtu1revlrmufqifq.58x09kl4ia1rry7s1epxrq-upm28pz0jx5cqwstruhk/image;s=320x240,12,9666.666666666666
-a1,audi,audi a1 sportback 1.0 tfsi s-line,2016,98783,15450,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im5wemr4zmfsenf5cc1tverwvexqvcj9.cctheuqwz0qlh2dgtaavdty-j9g6ygfhasnzovwmodo/image;s=320x240,7,14111.857142857143
-c3,citroen,citroen c3 aircross,2022,28106,16480,gasolina,automatica,none,1,28106.0
-c3,citroen,citroen c3 1.4 hdi attraction,2013,175825,7499,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imvkaw5nbtf0znnymditu1revlrmufqifq.ywz8iqmzpe0bxksjclborfnczdgfl7xc0bvicdupmca/image;s=320x240,10,17582.5
-a1,audi,audi a1 sportback 25 tfsi advanced,2022,12500,22000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inhnzjhvdwsxmgf6bzitu1revlrmufqifq.2xozf3t1_pb7axnnirvy5cvwklvq5-_5a9qnrwbv6cq/image;s=320x240,1,12500.0
-c3,citroen,citroen c3 1.2 puretech c-series,2023,17613,18250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtieg05nxhsn3j6czetu1revlrmufqifq.mdtauefsgxiapz417zsc5arwukdd08ywv0uspzftpxq/image;s=320x240,0,inf
-c3,citroen,citroen c3 1.2 puretech shine,2017,79006,13790,gasolina,manual,none,6,13167.666666666666
-c3,citroen,citroen c3 1.2 puretech feel,2019,38570,13900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijdqnngxbxhuz3jqmdmtu1revlrmufqifq.hr9fcderl-_z_ycwtrlb5ttt0mu1pk8k0b37m1junfk/image;s=320x240,4,9642.5
-c3,citroen,citroen c3 aircross 1.5 bluehdi feel s&s,2020,110000,17500,diesel,manual,none,3,36666.666666666664
-a1,audi,audi a1 sportback 1.4 tdi design,2017,105983,16750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijzqm3vycwdwa2hqmjmtu1revlrmufqifq.c1qxygtc7wdfpgbv89iqh68hbttasguwatoraoke8ci/image;s=320x240,6,17663.833333333332
-c3,citroen,citroen c3 1.2 puretech c-series,2022,62,20250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imixyxhuehnobhzlotmtu1revlrmufqifq.al9p-n_6s0lmevc5jeuhhzsrthjce5htors-dxgdoqm/image;s=320x240,1,62.0
-c3,citroen,citroen c3 1.4 hdi airdream selection 101g,2014,99850,11450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzonjmxywdhnnlszdetu1revlrmufqifq.o3kcsgmy00zuv7b3cwuopvjg-28lr2gpwyliofkoo2a/image;s=320x240,9,11094.444444444445
-c3,citroen,citroen c3 1.2 puretech feel,2018,76455,12250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imxyndn3mnbtemp1mi1tverwvexqvcj9.8hnvckhnzpl3icmvlunutrw9svpyhq6mfdq13z4l5d0/image;s=320x240,5,15291.0
-c3,citroen,citroen c3 1.2 puretech shine,2018,119612,12249,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imv1nhfydgdqc3iwzdetu1revlrmufqifq.s7-tgjschg093uwa0gzgirrrirncjjaa7igjz6sbuou/image;s=320x240,5,23922.4
-a1,audi,audi a1 sportback 25 tfsi advanced,2020,20000,19400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imntzm1rbm0zyjlulvnurfzutfbuin0.uer1tmufo6qck5t9d6rtjopbmcta6plw6n2aozbizuk/image;s=320x240,3,6666.666666666667
-a1,audi,audi a1 sportback 1.4 tdi design,2016,95000,16750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imxrnmrnzxyyn2hues1tverwvexqvcj9.tmiridzihiugamnqlthxhhanlq2lblexbqg5evxddsa/image;s=320x240,7,13571.42857142857
-c3,citroen,citroen c3 1.2 puretech feel,2018,84565,12250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpyeme4mmo2zddondetu1revlrmufqifq.w1fr_vd3qlchhzfpb6j-jb3k54muesmb6wp_jlkt3pi/image;s=320x240,5,16913.0
-c3,citroen,citroen c3 1.2 puretech c-series,2021,32000,18350,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imcwdgpknhr2z2ixzdmtu1revlrmufqifq.wgapgm6xd7wsubg3bfoh6qwkhkkrmbjdhlp4qhfb42a/image;s=320x240,2,16000.0
-c3,citroen,citroen c3 aircross 1.2 puretech origins,2019,66515,17200,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imdnzwv4n3j2dwn4bjetu1revlrmufqifq.00tccxylcj-hxrcjifieqjwl_08vfrx41y5hblc5ras/image;s=320x240,4,16628.75
-c3,citroen,citroen c3 1.2 puretech c-series,2022,36934,16490,gasolina,manual,none,1,36934.0
-c3,citroen,citroen c3 1.2 puretech c-series,2021,42000,16500,gasolina,manual,none,2,21000.0
-c3,citroen,citroen c3 1.2 puretech c-series,2023,400,19250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inz5btfjznjwy2ppbzetu1revlrmufqifq.kvkm2if9cva_ilbbfmzzd4nlyofjquwxgxylqgvagja/image;s=320x240,0,inf
-c3,citroen,citroen c3 1.2 puretech c-series,2022,29275,16700,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iju1bgh1mzl1yzz2zzmtu1revlrmufqifq.iw54pudscfkvzxfunbrobengjmrxvbawh7gc2zjmyta/image;s=320x240,1,29275.0
-c3,citroen,citroen c3 1.2 puretech feel,2019,37000,16900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtzd3bmznnynzdzdjitu1revlrmufqifq.t9mvd2_vitkc00bt_xbrizmjjjetgol-emep2uggxmg/image;s=320x240,4,9250.0
-c3,citroen,citroen c3 1.2 puretech feel,2019,40000,16750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imz1chq3og96nm83cjmtu1revlrmufqifq.5ahb88b6qqcqpykgo6oqnfldclykqkpuzgch4nvvge0/image;s=320x240,4,10000.0
-c3,citroen,citroen c3 1.0 puretech confort,2013,101955,10650,gasolina,manual,none,10,10195.5
-c3,citroen,citroen c3 1.2 puretech shine,2017,142000,12900,gasolina,manual,none,6,23666.666666666668
-c3,citroen,citroen c3 aircross 1.5 bluehdi c-series,2022,35001,24000,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijrxanjxowhndthmmditu1revlrmufqifq.qigfjncwecio-wjo5ei2j6uaclkc43iz8yka0_lhq64/image;s=320x240,1,35001.0
-c3,citroen,citroen c3 aircross puretech 130 stop & start eat6 opf shine pack,2020,79000,18900,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imh4ngmwm3piy2z5bjitu1revlrmufqifq.x3oz3nds2-nb4fgxhfqtrv90pyuhc2dcuzqil-sfvuu/image;s=320x240,3,26333.333333333332
-c3,citroen,citroen c3 1.2 puretech c-series,2023,4500,18000,gasolina,manual,none,0,inf
-a1,audi,audi a1 1.6 tdi s line edition,2011,292700,11500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imxmbtnwbzn0d3e3czetu1revlrmufqifq.b4zbgkl2efnpbfjxmjs-vmqeklhb4pbebgwupb4al3s/image;s=320x240,12,24391.666666666668
-a1,audi,audi a1 sportback 25 tfsi advanced,2021,62000,20900,gasolina,manual,none,2,31000.0
-c3,citroen,citroen c3 1.5 bluehdi feel pack,2022,19622,18990,diesel,manual,none,1,19622.0
-c3,citroen,citroen c3 aircross 1.5 bluehdi c-series,2022,27953,20990,diesel,manual,none,1,27953.0
-c3,citroen,citroen c3 1.5 bluehdi feel pack,2022,45798,18490,diesel,manual,none,1,45798.0
-c3,citroen,citroen c3 aircross 1.2 puretech feel,2018,74522,14900,gasolina,manual,none,5,14904.4
-c3,citroen,citroen c3 1.4 hdi attraction,2015,94917,10750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imszyndjcnqxdmh4ejitu1revlrmufqifq.omqcuwsox17oq16ncqsu8vdbxipdifdsas-0bck_jzq/image;s=320x240,8,11864.625
-c3,citroen,citroen c3 1.2 puretech shine,2022,1437,18480,gasolina,manual,none,1,1437.0
-a1,audi,audi a1 1.6 tdi advance,2011,136374,11500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6indvd3gzn3rryxn4ny1tverwvexqvcj9.os0lgx6wpfhrgrzgzankugel1oefgsnnhmxt3v9myui/image;s=320x240,12,11364.5
-a1,audi,audi a1 1.4 tdi,2010,190400,11990,diesel,manual,none,13,14646.153846153846
-c3,citroen,citroen c3 1.2 puretech c-series,2023,10,18990,gasolina,manual,none,0,inf
-c3,citroen,citroen c3 1.2 puretech c-series,2022,42400,17900,gasolina,manual,none,1,42400.0
-c3,citroen,citroen c3 1.2 puretech attraction,2014,152000,8950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ina1am9jemx0zmj4njmtu1revlrmufqifq.euslapwo5xsyopahykqh-4yzyppz95bt5qcmv5rmukm/image;s=320x240,9,16888.88888888889
-c3,citroen,citroen c3 1.5 bluehdi feel,2019,149896,15900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imdya2vzc2kzbdvrdjmtu1revlrmufqifq.wgxlgnhjsbtobvhmobxjbriiicqsnz5utetlhwebx7c/image;s=320x240,4,37474.0
-c3,citroen,citroen c3 aircross,2019,102355,17990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imo1etj6emf0bg9tcjitu1revlrmufqifq.w9jk27jpepsibsjk0cpkpx8ps-w0fetpqkghk-br7-o/image;s=320x240,4,25588.75
-c3,citroen,citroen c3 aircross 1.2 puretech shine,2019,96000,15750,gasolina,manual,none,4,24000.0
-c3,citroen,citroen c3 aircross 1.2 puretech shine,2019,89000,15740,gasolina,manual,none,4,22250.0
-a1,audi,audi a1 sportback 1.4 tdi design,2015,105000,16000,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ing3em42dhu1c2psds1tverwvexqvcj9.tm8yf_iffjzvpueszcrjdliqyxqphxgwfwfxip06qqk/image;s=320x240,8,13125.0
-a1,audi,audi a1 1.6 tdi sport,2015,93000,17900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtynxnxbtl1zg50as1tverwvexqvcj9.df2ipv8nfu7s7t0p2knblll3svg7zfacuyu1rtmkeg0/image;s=320x240,8,11625.0
-c3,citroen,citroen c3 1.4 hdi seduction,2015,159000,8999,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imn6ajbidzuxnxrkodmtu1revlrmufqifq.ugf28bhs9oscgsysmkveqousknjwjt-8hdqxtvtw7pu/image;s=320x240,8,19875.0
-c3,citroen,citroen c3 1.2 puretech shine,2019,55145,17900,gasolina,manual,none,4,13786.25
-a1,audi,audi a1 sportback 1.0 tfsi sport,2015,121507,15900,gasolina,manual,none,8,15188.375
-c3,citroen,citroen c3 aircross 1.2 puretech feel,2018,53453,16300,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imnom28zcddjehbtoc1tverwvexqvcj9.g8nh_fkhdbhrcpm7pglf2dcxc4tsemtfsxo8rsdlhrw/image;s=320x240,5,10690.6
-c3,citroen,citroen c3 1.2 vti exclusive,2014,133680,10900,gasolina,manual,none,9,14853.333333333334
-c3,citroen,citroen c3 aircross 1.6 bluehdi shine,2018,162000,16900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inc4ywzzawo2dg92bc1tverwvexqvcj9.usbvaeqabx12tndzynnwzjw0vpo9ynrkfrlt_8njnxi/image;s=320x240,5,32400.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,15030,20240,gasolina,manual,none,1,15030.0
-c3,citroen,citroen c3 aircross 1.5 bluehdi c-series s&s,2021,23987,22900,diesel,manual,none,2,11993.5
-a1,audi,audi a1 sportback 1.6 tdi s line edition,2014,109000,16500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inliczrmym8ybwq4bzitu1revlrmufqifq.6lz75l4is5o8r2vzio5yjl094ncoxzjt0ijblrklq_c/image;s=320x240,9,12111.111111111111
-c3,citroen,citroen c3 1.2 puretech c-series,2022,44778,17750,gasolina,manual,none,1,44778.0
-c3,citroen,citroen c3 1.2 puretech c-series,2023,10784,18390,gasolina,manual,none,0,inf
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,12339,19900,gasolina,manual,none,0,inf
-c3,citroen,citroen c3 1.2 puretech shine,2022,13599,16880,gasolina,manual,none,1,13599.0
-c3,citroen,citroen c3 1.2 puretech elle,2018,58795,14850,gasolina,manual,none,5,11759.0
-c3,citroen,citroen c3,2020,63930,14750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzxcjrsndlhdncwos1tverwvexqvcj9.ot6xyx_yrhk6nqvvpgrxpubnp8cktx7cty3k_lq-n0o/image;s=320x240,3,21310.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,19428,19500,gasolina,manual,none,1,19428.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,10479,19500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infiddrmyw9rbmm2bzetu1revlrmufqifq.laahtug5ql16aeyg1gxt5oojnf-piopbhud0bgxbc6c/image;s=320x240,0,inf
-c3,citroen,citroen c3 1.5 bluehdi shine,2023,7013,21480,diesel,manual,none,0,inf
-c3,citroen,citroen c3 1.4 hdi attraction,2015,130000,9900,diesel,manual,none,8,16250.0
-c3,citroen,citroen c3 aircross 1.2 puretech shine,2023,2094,21900,gasolina,manual,none,0,inf
-c3,citroen,citroen c3 aircross 1.6 bluehdi shine,2018,128000,16990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inn5nnnlmtz1nwxlatmtu1revlrmufqifq.xa52eolfw9pmk8edrh_0v81a7oycdfmrsxgu6pychqa/image;s=320x240,5,25600.0
-c3,citroen,citroen c3 1.2 puretech feel,2020,78000,12900,gasolina,manual,none,3,26000.0
-c3,citroen,citroen c3 1.2 puretech shine,2022,20286,15980,gasolina,manual,none,1,20286.0
-c3,citroen,citroen c3 1.2 puretech shine,2022,15350,16780,gasolina,manual,none,1,15350.0
-a1,audi,audi a1 sportback 1.6 tdi sport,2015,97219,13500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijznntjlzzuwmxplatitu1revlrmufqifq.is7epzf_yh8gbcnrvcjr7rrpnbvrnqhyurq5gror6x0/image;s=320x240,8,12152.375
-c3,citroen,citroen c3 1.2 puretech collection,2016,82000,10390,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imvqcnowbta4oglomi1tverwvexqvcj9.sgekmptbvw77nvjcrjsgcityeujeja1g2fswnqyh2p0/image;s=320x240,7,11714.285714285714
-a1,audi,audi a1 1.4 tdi s-line,2017,143448,18490,diesel,manual,none,6,23908.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,21147,18500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imgwyzj5nwr1ank5ctetu1revlrmufqifq.pn8navrrmifr72f_i6htohfge-e0v86f692oilmzdhe/image;s=320x240,1,21147.0
-c3,citroen,citroen c3 1.2 puretech feel,2017,139900,13500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invmyxfxngl3c3o5etetu1revlrmufqifq.yadxlhkwbhcy9uzzdk4ycdanhv3tctfdgpv79r8skou/image;s=320x240,6,23316.666666666668
-c3,citroen,citroen c3 1.2 puretech c-series,2021,60938,14799,gasolina,manual,none,2,30469.0
-c3,citroen,citroen c3 1.2 puretech shine,2022,36600,17900,gasolina,manual,none,1,36600.0
-c3,citroen,citroen c3 1.2 puretech feel,2019,93000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imnsbwi4c2dryw82as1tverwvexqvcj9.ui-pyzanzkg8gmdbrg7guybhk_f-tnqk7tlb0osm69e/image;s=320x240,4,23250.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,8235,20500,gasolina,manual,none,0,inf
-c3,citroen,citroen c3 1.5 bluehdi shine pack,2021,29875,17950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbtn3jmb3jrznpvzjmtu1revlrmufqifq.9otjr7vgtnmruig3q_txlbxa9_e-ytbbs8r77cbgvhq/image;s=320x240,2,14937.5
-a1,audi,audi a1,2016,104229,16400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innuyzlpdtnsbgf1zzitu1revlrmufqifq.zjgclurlzn6rujtvsu1xf3izybrl2swcqxkk64mic4s/image;s=320x240,7,14889.857142857143
-a1,audi,audi a1 sportback 1.4 tdi,2018,57336,18250,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imfvemcwbtfqyws5nzmtu1revlrmufqifq.lshkaiuj46cfldoodqgacllujtvf49iqiucrqe2bth8/image;s=320x240,5,11467.2
-c3,citroen,citroen c3,2018,148200,13900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inezmhvpctruags5bs1tverwvexqvcj9.90bnqqe0cth1o2nwlou8md89057bcaa9n0qssf_csj0/image;s=320x240,5,29640.0
-c3,citroen,citroen c3 1.2 puretech shine,2022,250,20990,gasolina,manual,none,1,250.0
-a1,audi,audi a1,2018,133000,16990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imx1yzbnotz5b3q1aditu1revlrmufqifq.vcdckjru_1utyl6_hkbifizkd8nopl3wn7ji0lqegrk/image;s=320x240,5,26600.0
-a1,audi,audi a1,2018,158000,15990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbubzlkzgzjn2u2ajitu1revlrmufqifq.25ztopk5vpuadgglvytcnjci3n8wtaggxnvjl9w2ueg/image;s=320x240,5,31600.0
-c3,citroen,citroen c3 1.2 puretech shine,2019,37200,15250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijd2zm85eww2bhfpyi1tverwvexqvcj9.bolqezbn1ync2dq-sboqdd0iehcgpozctqup69zmajo/image;s=320x240,4,9300.0
-c3,citroen,citroen c3 1.2 puretech shine,2022,35200,17900,gasolina,manual,none,1,35200.0
-a1,audi,audi a1 sportback,2016,101000,18990,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imeybza4enrrzwq1admtu1revlrmufqifq.u3ssllthdjecnqeigpheb_-3pvqfjkhgjj6fnsgryqc/image;s=320x240,7,14428.57142857143
-a1,audi,audi a1 sportback 1.6 tdi business line,2015,105000,14000,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imt0zzllcgp1cwo4ns1tverwvexqvcj9.xiroxyfckeinnjx7eio5xcgnlfevk4sbxe8uhhna0eq/image;s=320x240,8,13125.0
-a1,audi,audi a1 1.6 tdi sport edition s-line,2012,168000,12500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imyydmr3njrmb2rxlvnurfzutfbuin0.697yhfvvyicyzrti6akrborir4bo1iljnlrl8l_1ivw/image;s=320x240,11,15272.727272727272
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,28000,18900,gasolina,manual,none,1,28000.0
-c3,citroen,citroen c3 pure tech feel,2018,69863,12500,gasolina,manual,none,5,13972.6
-c3,citroen,citroen c3 1.2 puretech shine,2022,6337,17900,gasolina,manual,none,1,6337.0
-c3,citroen,citroen c3 1.2 puretech feel,2019,66786,14999,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ine0nnp2bwvwagi0ay1tverwvexqvcj9.m2jevka0d2_w67lrwkl5clrrmbso80uspy-hglyf_8u/image;s=320x240,4,16696.5
-c3,citroen,citroen c3 1.4 e-hdi air.seduction cmp,2015,97000,10980,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inhmn3dmymh4djg0btitu1revlrmufqifq.zhdc8grxtmxt8gzteyux6cmmwfekga7d_xqicalh0cg/image;s=320x240,8,12125.0
-c3,citroen,citroen c3 1.2 puretech feel,2019,36247,14299,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpzoxr6enltew8xntitu1revlrmufqifq.z9fqx0n12qqkdqf7oriwkyja7xn48ux7ver0zeanizk/image;s=320x240,4,9061.75
-c3,citroen,citroen c3 1.6 bluehdi exclusive,2017,149000,12999,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzwdm1rnwvmyxu5atitu1revlrmufqifq.0x1ev9t6qnoksn2ky10eenrnzsqit4mtmzaijh-3e-k/image;s=320x240,6,24833.333333333332
-a1,audi,audi a1 sportback 1.6 tdi s-line,2014,124000,16250,diesel,manual,none,9,13777.777777777777
-c3,citroen,citroen c3 1.4 hdi airdream attraction,2014,150004,10400,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inm4nwszynnlyzfmdtetu1revlrmufqifq.7on3iekbfjuxfpcs7llc6c9a4k4dafxh7m_pwa68qag/image;s=320x240,9,16667.11111111111
-c3,citroen,citroen c3 picasso 1.6 hdi exclusive airdream,2010,199000,7900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iji0nzfyehzmmxrjazitu1revlrmufqifq.qgvimlymfmiridwpshn8dptkmea-gbgxvagsk20e9r8/image;s=320x240,13,15307.692307692309
-c3,citroen,citroen c3 1.2 puretech c-series,2023,50,18990,gasolina,manual,none,0,inf
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,50,21900,gasolina,manual,none,0,inf
-c3,citroen,citroen c3 1.2 puretech c-series,2022,16223,16100,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ina1bnq0dnplb3bzcs1tverwvexqvcj9.9qe9iiy0qzbije0u33owqdm03uqjsrj4dj-ivwsplb0/image;s=320x240,1,16223.0
-a1,audi,audi a1 sportback 1.6 tdi design,2017,90000,17500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzzcmvvchdsb293zzitu1revlrmufqifq.3_9kyaju3icv_9mvhrks811cuwgaopqndhyhuzynwc4/image;s=320x240,6,15000.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,13478,21500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im04azq5etfznxi3ytmtu1revlrmufqifq.1rwv7mk-qab-gqtmtiqot3my3rcptfmi1ptqepjq5a0/image;s=320x240,1,13478.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,11218,19500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im1rc20yohpud294zdmtu1revlrmufqifq.fa2352nzycsyinprbgj0w6tgkdtwht7q_qr9qdun_wa/image;s=320x240,0,inf
-c3,citroen,citroen c3 aircross 1.2 puretech feel eat6,2019,92955,17900,gasolina,automatica,none,4,23238.75
-c3,citroen,citroen c3 1.2 vti seduction,2013,131400,9200,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijfozmc1zdz6y2hkodetu1revlrmufqifq.td-poobfv_dfknifshskajxdbzyx9ln3pr4zwa7zj2u/image;s=320x240,10,13140.0
-c3,citroen,citroen c3 bluehdi s&s feel,2019,57662,15999,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijj4zddjmwf5nznxbditu1revlrmufqifq.xxtcn7im7jsw_fhkgvfk0eu5xvbhh_i0mdu4-r2h9tu/image;s=320x240,4,14415.5
-c3,citroen,citroen c3 1.2 puretech shine,2022,16836,16450,gasolina,manual,none,1,16836.0
-c3,citroen,citroen c3 1.6 bluehdi feel,2018,138000,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imi3zwloc3czcxdlytetu1revlrmufqifq.rufqxw1ihxnc2kbcsf1cjy_2fnqnir6uqmimg7yrmde/image;s=320x240,5,27600.0
-a1,audi,audi a1 sportback 1.4 tdi sport,2017,99353,17400,diesel,manual,none,6,16558.833333333332
-c3,citroen,citroen c3 picasso 1.6 hdi seduction,2012,194000,10500,diesel,manual,none,11,17636.363636363636
-c3,citroen,citroen c3 1.2 puretech c-series,2021,29145,16950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imw5awxud2y0ohj0ny1tverwvexqvcj9.bnmflztqfbcsx7f3ck8wdqyywj8fiaw9iwunvwxp2iu/image;s=320x240,2,14572.5
-c3,citroen,citroen c3 aircross 1.2 puretech feel,2022,20183,18240,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtnc3g0ddn3dgzzotetu1revlrmufqifq.xpl9yno-is-va-_n39zaynncgcrcads5feoc0jdpt6a/image;s=320x240,1,20183.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,45000,18040,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpymwt3bxp6nhu0ddmtu1revlrmufqifq.nobsxqyby9yt67w9_518-yf_o1acdgcwtfklmhlosxg/image;s=320x240,1,45000.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,48000,17990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inkxb29idjb0cnntadmtu1revlrmufqifq.y8cbgaaunfm6vujx1miyh_wxmukwh2d5odqbt52zvgo/image;s=320x240,1,48000.0
-a1,audi,audi a1,2018,130649,16750,gasolina,manual,none,5,26129.8
-a1,audi,audi a1 1.2 tfsi s-line,2014,157000,14250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijg2mmjrenn4yw91ztetu1revlrmufqifq.rljlwdk8kzme5hr2ayg0ppqhengl1lc9jbcvbmwx1j8/image;s=320x240,9,17444.444444444445
-c3,citroen,citroen c3 1.2 puretech attraction,2015,131000,9570,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijmymwx4bzm3aji0atitu1revlrmufqifq.wag6v5kwtcr-6cukcrf3cpqp06-y3e3qsjmf415flue/image;s=320x240,8,16375.0
-c3,citroen,citroen c3 1.4 hdi airdream exclusive,2012,238000,9600,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6img5bgpuamfpy2i4dtetu1revlrmufqifq.rp-hz1xvt_yydyp5lsov8524grhhq-u7gw3zqezqt9u/image;s=320x240,11,21636.363636363636
-c3,citroen,citroen c3 aircross 1.2 puretech shine eat6,2018,66000,18300,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6impyynlqexk0dzh3ddmtu1revlrmufqifq.z1jix_hpv6ykbow510vgftr0xau9qja8jczuwkagdfm/image;s=320x240,5,13200.0
-a1,audi,audi a1 1.6 tdi s-line,2013,128000,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iml4ajzpyjqxm3q3otitu1revlrmufqifq.wtfgtfcf_ewyjyy9k2trepnktsdyoigsqm2w1y38t6y/image;s=320x240,10,12800.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,18977,19650,gasolina,manual,none,1,18977.0
-a1,audi,audi a1 1.2 tfsi advance,2010,105800,10990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imnqdmx1cdd5cw91zs1tverwvexqvcj9.7hrgofr4hj10zumkn_tkojijh6aq8glcrvp9-bi25fy/image;s=320x240,13,8138.461538461538
-c3,citroen,citroen c3 1.4 airdream seduction,2011,162152,7000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injszwv0etrzzxi2ntitu1revlrmufqifq.eg37c7cmpoj-s5rhmvgpxullmmywins_0w6e4wr-thy/image;s=320x240,12,13512.666666666666
-c3,citroen,citroen c3 1.2 puretech live,2017,131000,13950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im0zndb4b3kyz3drnc1tverwvexqvcj9.usuvi5rlud2h_6gpl9brte6vrdsscppormesogxyzpu/image;s=320x240,6,21833.333333333332
-c3,citroen,citroen c3,2018,56927,14599,gpl,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ims2bhv1oxfkazd3azmtu1revlrmufqifq.konpl2rz6-bvfwtpx3mazrr3myi_g3msg309ogbis0s/image;s=320x240,5,11385.4
-c3,citroen,citroen c3 1.2 puretech feel,2017,78000,12490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injhbdnwmjm1mhoyazmtu1revlrmufqifq.oe5gv9d2fun9upvwuzxpfzqk0la_k4-osdulzk9zx7a/image;s=320x240,6,13000.0
-c3,citroen,citroen c3 pure tech s&s eat6 feel,2020,23003,17250,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im11n2o5bnbknhv0mzetu1revlrmufqifq.jt4m8idepj6d-nc7rpjnucipcifvwk4ksiaiknoityc/image;s=320x240,3,7667.666666666667
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,100,21950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijg3cjzibtluz2l3yzitu1revlrmufqifq.p-bq9pqlan7chrumya3j5dn3jupuk2b0lhk0phczgg8/image;s=320x240,0,inf
-c3,citroen,citroen c3,2019,147244,14500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ija5njmwmg8xewg1ctmtu1revlrmufqifq.duresfy7elrhduqkb_-3hh9vnkqiulvxaw4oq36egfo/image;s=320x240,4,36811.0
-c3,citroen,citroen c3 1.2 puretech c-series,2022,20000,15800,gasolina,manual,none,1,20000.0
-a1,audi,audi a1 1.6 tdi sport,2011,198783,11900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im0zyzhpnm1pogz1djmtu1revlrmufqifq.dpxuulvnbraj5rno9o0tcwepa6xxqstii13oasukqhc/image;s=320x240,12,16565.25
-c3,citroen,citroen c3 1.2 puretech feel,2019,69592,14650,gasolina,manual,none,4,17398.0
-c3,citroen,citroen c3 1.2 puretech feel,2017,128000,11990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzsbhlloha1zmrnzzetu1revlrmufqifq.yrmqsb-n9bb3zpxu5or2hbdn0oigk4g-wbppvrphwfq/image;s=320x240,6,21333.333333333332
-c3,citroen,citroen c3 1.2 puretech shine,2020,29480,14450,gasolina,manual,none,3,9826.666666666666
-c3,citroen,citroen c3 aircross 1.2 puretech feel,2020,83000,14990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ini4zgrpmgrpzgppoc1tverwvexqvcj9.hip91kfzkpfspdd1ha3qpwhuduv3-wdmsueqpg94tqu/image;s=320x240,3,27666.666666666668
-c3,citroen,citroen c3 aircross 1.2 puretech c-series eat6,2023,6052,24990,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpiajfhmtbnnjnqzjetu1revlrmufqifq.i3i5iuhpqsl07moewae6qv3jdik1q1c_vuhxxrrj8k8/image;s=320x240,0,inf
-c3,citroen,citroen c3 1.2 puretech seduction,2014,114000,9450,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijc0njzua2wxyxj2ajitu1revlrmufqifq.cy_pp0fy4xxiltuortdtriyh5amjam8bus3qt2ckrzc/image;s=320x240,9,12666.666666666666
-a1,audi,audi a1 1.6 tdi sport,2010,214000,11490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inhlymi1ywvwnty2djetu1revlrmufqifq.rqhrbri1nwph_u6u9x5ux0v2tmzbemrwfu5ollqedpo/image;s=320x240,13,16461.53846153846
-a1,audi,audi a1 1.6 tdi sport,2013,167395,12990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im52dno3zw91bwcwnjetu1revlrmufqifq.t3jsusoaafyxse9lwralubagv5fbakefgs2dhq2z3jq/image;s=320x240,10,16739.5
-c3,citroen,citroen c3 1.2 puretech feel,2017,99990,10990,gasolina,manual,none,6,16665.0
-c3,citroen,citroen c3 1.2 puretech shine,2019,136858,14500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6img3zzj0cxk0atl3bjetu1revlrmufqifq.6n1_jg91vr2hqnhn1wmqdcohkk6oj33nfj7pat3447a/image;s=320x240,4,34214.5
-a1,audi,audi a1 1.6 tdi sport,2011,229320,10990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injvb2t0ymmwejj2yzetu1revlrmufqifq.-kcxh2hvh5fzuv2eknagm5md73ubk1ww-ss7sqphv1g/image;s=320x240,12,19110.0
-c3,citroen,citroen c3 1.0 puretech confort,2016,23000,12900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijf2awz6exzwbwtzdtitu1revlrmufqifq.h3zpbf2i4a0pr0czrt3zbag7pjelkcq5sxaooync-ni/image;s=320x240,7,3285.714285714286
-c3,citroen,citroen c3 1.2 puretech c-series,2022,60114,16500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inz2ejhrytnlodflmi1tverwvexqvcj9.0tdusjhexjjxfsxyct5hupu1ywytv62h8zxqrv3kvsk/image;s=320x240,1,60114.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,14000,19900,gasolina,manual,none,1,14000.0
-c3,citroen,citroen c3 aircross 1.5 bluehdi feel s&s,2020,59091,18500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imftdtbxcmx4cmg2zditu1revlrmufqifq.v_tghnsekbaf8yln1xlgwywt4ksinl3zwiyw1qf1byi/image;s=320x240,3,19697.0
-a1,audi,audi a1 sportback 1.6 tdi s line edition,2012,180000,14900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inlnmtl0c2pjbw0wcy1tverwvexqvcj9.9nigaroitfrpkl2cmqljsn2ng-qnhtfpkqwcdtwbr0w/image;s=320x240,11,16363.636363636364
-a1,audi,audi a1 sportback 25 tfsi advanced,2022,27714,22900,gasolina,manual,none,1,27714.0
-c3,citroen,citroen c3 1.2 puretech c-series,2022,39034,15900,gasolina,manual,none,1,39034.0
-c3,citroen,citroen c3 aircross 1.2 puretech feel pack,2022,28759,19250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im5rnwi1cwlnzm95dtitu1revlrmufqifq.atmswydyzhcnmuhfidsjeaaffb2_mphn4-80wg8wvyk/image;s=320x240,1,28759.0
-c3,citroen,citroen c3 aircross 1.5 bluehdi feel s&s,2020,40042,19950,diesel,manual,none,3,13347.333333333334
-c3,citroen,citroen c3 1.2 puretech shine,2022,7488,17990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijq4cxrmytrjmjnnmjmtu1revlrmufqifq.-da-sbgca3-nioyixmrmelgj_i3ji7_yw5eie25h4x8/image;s=320x240,1,7488.0
-c3,citroen,citroen c3 1.4 hdi sx pack sensodrive,2008,87000,8490,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imy3ednoythjzwvkac1tverwvexqvcj9.q3bnpuik9oj4f7brbxybkwtvhkjww1qjan_lxitloaa/image;s=320x240,15,5800.0
-a1,audi,audi a1 1.2 tfsi attraction,2013,159000,12250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijzhcgqym3o2dxk3zjmtu1revlrmufqifq.fumuqdduzb4gjzbtfg95s0ywyrgwhtyhvu36s9qin0y/image;s=320x240,10,15900.0
-c3,citroen,citroen c3 1.2 puretech c-series,2020,62530,15400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijc5d3k4ngdlegmxmzetu1revlrmufqifq.nctbczdhnyis8p-rjnuyhfc22jffyojjnx3h3nlkpi4/image;s=320x240,3,20843.333333333332
-c3,citroen,citroen c3 aircross 1.2 puretech shine,2018,57447,15900,gasolina,manual,none,5,11489.4
-c3,citroen,citroen c3 1.5 bluehdi c-series,2021,79000,16890,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imi3enbnohhrd3h6azitu1revlrmufqifq.sxk2udptvw2vdjnzgsgyrnu9z7fih_1u7fmmzuunvje/image;s=320x240,2,39500.0
-a1,audi,audi a1 sportback 1.4 tdi s-line,2018,127000,19900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imjhndyyd3z1bglxndmtu1revlrmufqifq.b8rvdlonn66cpsobsejml5wlil6bbzeadhwp4u-jvoc/image;s=320x240,5,25400.0
-a1,audi,audi a1 1.6 tdi s-line,2013,173500,13950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6indsdzg3odfhemfuyjetu1revlrmufqifq.01sw52ydgd90wixmna36ap61byq045nci-cduboig4s/image;s=320x240,10,17350.0
-c3,citroen,citroen c3 aircross 1.2 puretech feel,2018,26972,17500,gasolina,manual,none,5,5394.4
-c3,citroen,citroen c3 aircross 1.2 puretech feel,2021,59510,17480,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imo5b2znadqwexmzyy1tverwvexqvcj9.q27h-lumnv4mmkcaa4zptpoco1er0orvlhx-y9q-ycg/image;s=320x240,2,29755.0
-a1,audi,audi a1 sportback 25 tfsi,2020,48000,19590,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im5vcgu4eth0egppzs1tverwvexqvcj9.htt4ijxqa-p5i6jc2ohfcm1ey7l02lysvbrizuztj-c/image;s=320x240,3,16000.0
-a1,audi,audi a1 sportback 25 tfsi advanced,2020,59664,20990,gasolina,manual,none,3,19888.0
-c3,citroen,citroen c3,2021,37653,16500,gasolina,manual,none,2,18826.5
-c3,citroen,citroen c3 1.2 puretech feel,2019,67000,12299,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijk1mjzza2cyagpqntitu1revlrmufqifq.e8oqozjlxe4j_xvedzpkuqpkhlbvl8abi2b41rt8bca/image;s=320x240,4,16750.0
-c3,citroen,citroen c3 1.2 puretech shine,2021,14592,19500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im16odgxzmd6ehfxeditu1revlrmufqifq.0cssfkidvyzflo-ljxiqk87tjwsx4sa3baglwlyhjcq/image;s=320x240,2,7296.0
-c3,citroen,citroen c3 1.5 bluehdi shine pack,2020,40600,16790,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijluztawnghsb2xwbditu1revlrmufqifq.tmndb-bd1nd4wvnm8donoe6tl1bg4_pcj9q8jh2wq_0/image;s=320x240,3,13533.333333333334
-c3,citroen,citroen c3 1.2 puretech c-series,2023,9000,18290,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iju5dnnjympqognsyjmtu1revlrmufqifq.nmkd-anxrxub1aa5jhrw0atvygibnqxhpengw6yvvvu/image;s=320x240,0,inf
-c3,citroen,citroen c3 1.5 bluehdi feel pack,2020,47868,14990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imvuehftotlizxz3atmtu1revlrmufqifq.z_mf-kqaosittjlwqcaj25pjgkmqdp2480aj6qe6hky/image;s=320x240,3,15956.0
-c3,citroen,citroen c3 aircross 1.2 puretech shine,2021,54901,18990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im1pamj2btjzdxzubzetu1revlrmufqifq.h6bmqx7e4xwzu7xaucumyfleugkzqcmygv5kgc0vqbg/image;s=320x240,2,27450.5
-a1,audi,audi a1 sportback 1.4 tdi design,2018,84671,18600,diesel,manual,none,5,16934.2
-c3,citroen,citroen c3 1.2 puretech c-series,2022,56720,15990,gasolina,manual,none,1,56720.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,8630,19900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inazn25scnbldxzsejetu1revlrmufqifq.vurvee3a2vfk7c9_doarsbrhgtbu-jllzilpi_a0e4i/image;s=320x240,0,inf
-c3,citroen,citroen c3 1.2 puretech c-series,2022,24415,16490,gasolina,manual,none,1,24415.0
-c3,citroen,citroen c3 1.2 puretech feel,2018,74863,13900,gasolina,manual,none,5,14972.6
-c3,citroen,citroen c3 1.2 puretech feel,2017,82348,12990,gasolina,manual,none,6,13724.666666666666
-c3,citroen,citroen c3 1.2 puretech feel,2019,69574,12990,gasolina,manual,none,4,17393.5
-c3,citroen,citroen c3 1.2 puretech c-series,2022,23,19450,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijc1amx3bzhjc3hhajitu1revlrmufqifq.eozeqgreihtmqovjeawjjpfudfot0eiv6k68ajdlvie/image;s=320x240,1,23.0
-c3,citroen,citroen c3 1.2 puretech c-series,2021,40000,16690,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzwmdy5mw1xnji3btitu1revlrmufqifq.mbp9yjtmdz3lvgoft0wywf8wh6dtznyoptvv3em2ank/image;s=320x240,2,20000.0
-c3,citroen,citroen c3 1.2 puretech shine,2022,7545,17900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijvtddiwmgrueme3mtetu1revlrmufqifq.ise-dt-byvfgzgprkn5s3tnsfqt654spxqx4vxxdhcu/image;s=320x240,1,7545.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,13500,20990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imnjynnja2fldtf2yzmtu1revlrmufqifq.dfr2ekz09fhiq2tvv_6t8f2twrzo74lluozbguhodci/image;s=320x240,1,13500.0
-c3,citroen,citroen c3 1.2 puretech c-series,2022,29639,15900,gasolina,manual,none,1,29639.0
-a1,audi,audi a1 1.6 tdi s-line,2012,154000,13900,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijhunjn5awhnb2v3ejitu1revlrmufqifq.hme3smqkxueqczsttfgxrqsewghvuapp8r17_3iajkw/image;s=320x240,11,14000.0
-c3,citroen,citroen c3 aircross bluehdi 120 stop & start feel,2018,98085,16250,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im00a3i0zjhrennidc1tverwvexqvcj9.emforbn4rx4p8q6ub2auk3hjd18ntemtta-7rjfh2bc/image;s=320x240,5,19617.0
-a1,audi,audi a1,2011,107220,14500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im9qc2jzag02m2hqzy1tverwvexqvcj9.fobtixy9hwpa_bq78h9gpqzszljrnry_fm65nb-mzdm/image;s=320x240,12,8935.0
-c3,citroen,citroen c3 aircross 1.5 bluehdi feel s&s,2020,83832,18490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imhscdrlytn6mg5hmditu1revlrmufqifq.3nqjkn0fdwechvkumgbjatcxicemylmgzgugdgsixd0/image;s=320x240,3,27944.0
-c3,citroen,citroen c3 1.2 puretech feel,2018,76754,13490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imlwdthlewrin2tqbtmtu1revlrmufqifq.a3z2iqv7_ithfgpu0zqnovoctacqvl1zhotw6e9vwpm/image;s=320x240,5,15350.8
-a1,audi,audi a1,2018,84000,18999,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbyajvjdjzmown1zy1tverwvexqvcj9.8dfdwivusbu-c9ei5hjpug0paivvxr50v9a3g768dyo/image;s=320x240,5,16800.0
-c3,citroen,citroen c3 1.2 puretech feel,2017,98000,14350,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inrkatrry3mzzno1ns1tverwvexqvcj9.zlrezldwqoshjbatm9g5d-yxeisptuepf_9kaxvj3m4/image;s=320x240,6,16333.333333333334
-c3,citroen,citroen c3 aircross 1.5 bluehdi c-series,2021,27081,21650,diesel,manual,none,2,13540.5
-c3,citroen,citroen c3,2020,20000,16000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbmaxf4adn1mxfpdzetu1revlrmufqifq.h1cuhlscko5jryrmmck_d3c6jkbv0njsc1uvmiupplk/image;s=320x240,3,6666.666666666667
-a1,audi,audi a1 sportback 1.4 tdi,2016,152000,15900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ini3zjriehzhdtblnc1tverwvexqvcj9.gnjc5nuoyj9cdgbfgz9zwov18fuojsdqtdtyvi-vxls/image;s=320x240,7,21714.285714285714
-c3,citroen,citroen c3,2018,171344,11650,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im1wmwx1n2o1ehzuzc1tverwvexqvcj9.bmzolacwzufmmwvcopg7y5s9yslasenaot_2cfv_ook/image;s=320x240,5,34268.8
-a1,audi,audi a1 sportback 1.4 tdi,2016,137000,16950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iml5bxi5n29pmhjwbjetu1revlrmufqifq.vogwug7kjs2txyp3kmlyipdwgalpqlhsx9mqehldhrm/image;s=320x240,7,19571.428571428572
-c3,citroen,citroen c3 1.5 bluehdi feel business,2021,52679,17500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imr2zjdoawt2y3c4etitu1revlrmufqifq.pf_iwa1evibhnchxnkx3urkqyriwvhp8dukruovar0y/image;s=320x240,2,26339.5
-c3,citroen,citroen c3 aircross 1.5 bluehdi c-series,2021,12702,22600,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inqybxvvmjvwnnlxotitu1revlrmufqifq.qgycybswt-fbkcd1gvwypozhxnggy334z3vykbiunau/image;s=320x240,2,6351.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,20598,18740,gasolina,manual,none,1,20598.0
-c3,citroen,citroen c3 1.2 puretech c-series,2022,20879,17490,gasolina,manual,none,1,20879.0
-c3,citroen,citroen c3 1.2 puretech c-series,2021,72421,14490,gasolina,manual,none,2,36210.5
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2020,55000,17500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijb6azlkymlpa280zy1tverwvexqvcj9.cmdbucmy6xxhsktupb84fwr0nhwwstl9oarsl4wlvx8/image;s=320x240,3,18333.333333333332
-a1,audi,audi a1 sportback 1.6 tdi business line,2013,175000,12500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbubm40bjlimdm0ei1tverwvexqvcj9.clj2bztrw2s67_9m4ngs-3bjrktu7_dzsuc_h7byxvq/image;s=320x240,10,17500.0
-c3,citroen,citroen c3 1.2 puretech feel,2018,82000,11500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im1vmnf3owroaglkys1tverwvexqvcj9.phbunju4hvr57gzsqkmtmhbem-yza6jyt3awb8_lbhq/image;s=320x240,5,16400.0
-c3,citroen,citroen c3 1.2 vti collection,2014,151698,9880,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijfoejvhbws2nnaxzdetu1revlrmufqifq.1tdglilldk1dgielwe5i48wfp3iyd-smuciddxyaxv4/image;s=320x240,9,16855.333333333332
-c3,citroen,citroen c3 1.2 puretech c-series,2022,42578,16500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inuwngloody1ahj5djitu1revlrmufqifq.7svnccxqpgczdpx3snkc2l7xchm1ykor9lvgj_tdl78/image;s=320x240,1,42578.0
-c3,citroen,citroen c3 1.6 bluehdi feel,2017,110364,12999,diesel,manual,none,6,18394.0
-a1,audi,audi a1 sportback 1.0 tfsi design,2018,147000,15500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ingyzm1wcxj3z2zpbzmtu1revlrmufqifq.hxicyo_hl3qheohs8pbpba2crfablrzoteocpjfp9us/image;s=320x240,5,29400.0
-a1,audi,audi a1 1.2 tfsi advance,2011,140000,11990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inmyawy0b2o5z2xtnzitu1revlrmufqifq.-ahlbu9xza_hd1kitgmi9ettb_u8ugcjj28ki1i4imw/image;s=320x240,12,11666.666666666666
-c3,citroen,citroen c3 1.6 bluehdi feel,2017,127000,14950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imgxew1znxyxa3n5ytmtu1revlrmufqifq.efjxbfswyexclf9x4ipjvvjkavztzq8fkntucx3pe7u/image;s=320x240,6,21166.666666666668
-a1,audi,audi a1 sportback 25 tfsi advanced,2019,60000,19990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invxeg9ob2n2ymiyejetu1revlrmufqifq.vk-xsqz05buqayjfcjnwxo8tsf5ugiyd6_4l1zmfa6q/image;s=320x240,4,15000.0
-c3,citroen,citroen c3 picasso 1.4 vti confort,2009,111908,7990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijk3y3vuymvtb3jyys1tverwvexqvcj9.1jnobfyc1p-9ppv7wafrwxffvcxkfditzy241nmine4/image;s=320x240,14,7993.428571428572
-c3,citroen,citroen c3 1.2 puretech c-series,2022,31087,16100,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijnybhf2n2qxotnvajitu1revlrmufqifq.u7jz2yixqocdtqoditkbw8_q0-1wwqmyayeznka2zhc/image;s=320x240,1,31087.0
-c3,citroen,citroen c3 picasso 1.6 hdi airdream,2014,199000,9990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbrdjuwdgdvbw1obtmtu1revlrmufqifq.9w3gpmquopi400blwe7z0qrrlczubhva8fg2ik8jpvi/image;s=320x240,9,22111.11111111111
-c3,citroen,citroen c3 1.2 puretech feel,2018,125000,12850,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imk1zhlzd2ryy2dxoc1tverwvexqvcj9.e86arjbwsvl8_p7t799kcx4syylmvbco9runwz8j0ha/image;s=320x240,5,25000.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,9905,18740,gasolina,manual,none,1,9905.0
-c3,citroen,citroen c3 1.2 puretech feel,2017,117000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inq3empinzk0y2f1os1tverwvexqvcj9.bje5yaogi94bhalhzwvywxe5efge_mx-incayreqsic/image;s=320x240,6,19500.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series eat6,2022,64969,21000,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijlpn2s5oglvy3v0nzitu1revlrmufqifq.lsgzv9-cx_ktwzsjo2denr3yzzshaw27rv4jxytv5sw/image;s=320x240,1,64969.0
-c3,citroen,citroen c3 1.4 hdi exclusive,2015,145000,9450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inppaw41zxexoxv3bzmtu1revlrmufqifq.iyvxafzgui_nksw5kt-3ecqqc3lopcurp-6mvpsf734/image;s=320x240,8,18125.0
-a1,audi,audi a1 sportback 25 tfsi advanced,2019,119438,18999,gasolina,manual,none,4,29859.5
-c3,citroen,citroen c3 1.5 bluehdi feel pack,2022,25387,17400,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iny2mwr5y2lpz3jvytetu1revlrmufqifq.gbz7tty5lqnvt14ov1ptz4cyngabv27mtjhfs06kq14/image;s=320x240,1,25387.0
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,8063,20780,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6impudxjrnzviehdsmjitu1revlrmufqifq.zj9jyysfonaip4bykhlrg2w_4lfddrhqf6uzwbga_w0/image;s=320x240,0,inf
-c3,citroen,citroen c3 1.2 puretech c-series,2021,36613,16900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpjnw5lexnldmhsyjetu1revlrmufqifq.i46jwc0x1c4kpmilqfim5n6jwn2vfjwk8p0cjeztd0e/image;s=320x240,2,18306.5
-c3,citroen,citroen c3 1.6 bluehdi feel,2017,134000,12500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imz4ymkzdwtwewh0ajitu1revlrmufqifq.nrgdwqaopcja6hbwzyw2klujy91epx33ge_7uvzhl80/image;s=320x240,6,22333.333333333332
-c3,citroen,citroen c3 1.2 puretech shine,2022,11726,16880,gasolina,manual,none,1,11726.0
-c3,citroen,citroen c3 1.2 puretech c-series,2022,39000,16599,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtsegflcg1kc3z5ay1tverwvexqvcj9.8_gvcqqhskgmbbfrgkqy896p-a_se6ngamp89xqnode/image;s=320x240,1,39000.0
-c3,citroen,citroen c3 1.2 puretech c-series,2021,41964,16990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijfrejc0dw5oz25tadmtu1revlrmufqifq.ssbrgmamdo7lwvttgiupjvzo8wrrqk-zq8lej9akoqo/image;s=320x240,2,20982.0
-a1,audi,audi a1 sportback 1.0 tfsi,2016,118860,14990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijv6mhnuzwrpy2k0aditu1revlrmufqifq.vo4dqs3mbmlly9vzlfsqjvjlkxv0j5e44lf7-v-cyhm/image;s=320x240,7,16980.0
-a1,audi,audi a1 sportback 1.0 tfsi sport,2016,98457,14900,gasolina,manual,none,7,14065.285714285714
-c3,citroen,citroen c3 1.2 puretech c-series,2023,1893,18900,gasolina,manual,none,0,inf
-c3,citroen,citroen c3 aircross 1.2 puretech shine eat6,2023,1991,24900,gasolina,automatica,none,0,inf
-c3,citroen,citroen c3 1.2 puretech feel,2017,112778,12500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imh3mmdla2xmbxb3odmtu1revlrmufqifq.e7w5wzelvumwdl7ndfuea3bsi7lsksq5b46haxibz1a/image;s=320x240,6,18796.333333333332
-c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,11500,19250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijzhcgc0owd0m2domdmtu1revlrmufqifq.lae5w4ew9r2yanxheztdxgujl7q3-ibmlhf3a75cjw4/image;s=320x240,1,11500.0
-c3,citroen,citroen c3 aircross 1.2 puretech feel,2022,29159,18240,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijh0etlrmtvvoxpzdzetu1revlrmufqifq.ymg6f3msmxs0ex-itjl4bavedwoigviljs8piypki0o/image;s=320x240,1,29159.0
-c3,citroen,citroen c3 1.2 puretech shine,2022,35651,15890,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innuyjlmcmnrngjzatmtu1revlrmufqifq.qvvzcadpp0fctcrgfhfcnryer2gsnazy7f9larmw3os/image;s=320x240,1,35651.0
-c3,citroen,citroen c3 1.2 puretech c-series,2022,28095,15400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbjem82yzhvaxbrnjetu1revlrmufqifq.swxdjfsdrnvnk_ikil9qvbuambrsllej-d2nghctluw/image;s=320x240,1,28095.0
-c3,citroen,citroen c3,2019,73981,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtychrnbmqwdmn5es1tverwvexqvcj9.kcqxbijnzpxgsyz8lqtoy-cwlosztjjmdv4lhhv7b64/image;s=320x240,4,18495.25
-c3,citroen,citroen c3 1.2 puretech c-series,2021,54272,15490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imqwowiybm84ajjxajmtu1revlrmufqifq.40-xbu8qwap8gihrg7ax7bijaqs7uzakl0ffuym-_tg/image;s=320x240,2,27136.0
-c3,citroen,citroen c3 1.2 puretech seduction,2014,87000,8000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijnsmm15ytewewhoajetu1revlrmufqifq.wjxu3jtfpkd9rpcqj6yow1ewyxx1dezqeqwobmwkqz0/image;s=320x240,9,9666.666666666666
-c3,citroen,citroen c3 1.5 bluehdi feel,2020,58442,19490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inq0mzvhnnu0ctbnczetu1revlrmufqifq.s35mf9rjvndmavckxgxjm8yjpd7vh0pz5ht2stqvutg/image;s=320x240,3,19480.666666666668
-c3,citroen,citroen c3 1.4 hdi airdream exclusive,2012,185234,7950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijmxbgvybmdrymjsczitu1revlrmufqifq.yzyw-hccq5eoeezqee1vrg9d6ekcqyxvz_myb4pveve/image;s=320x240,11,16839.454545454544
-a1,audi,audi a1 sportback 1.4 tdi,2018,158556,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inc2ytjsnhrxywcxatetu1revlrmufqifq.jvqq2d6gcshnrzrawh_bojkmgy7nojlempgz4wuraxc/image;s=320x240,5,31711.2
-a1,audi,audi a1 sportback 30 tfsi advanced s tronic,2020,40000,24240,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im9uywj3ztrmdgszcjitu1revlrmufqifq.jzagt2gy1ljlpkv6vvrzbdxsyyhbnxwfesk6uykmm00/image;s=320x240,3,13333.333333333334
-c3,citroen,citroen c3 1.2 puretech c-series,2021,41767,14700,gasolina,manual,none,2,20883.5
-c3,citroen,citroen c3 1.4 hdi exclusive airdream,2011,166000,8990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imc3z2qxaxdwmmppzs1tverwvexqvcj9.-mgfluz2xpxf0cihtdosa7e9bphdsadith5snecdgs0/image;s=320x240,12,13833.333333333334
-c3,citroen,citroen c3 1.2 puretech feel,2018,138000,11900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inuwehbkexlmndzvaditu1revlrmufqifq.kkbs0gujquo7tig0bxf2cefc2aedn5vb-uf98qo2fbs/image;s=320x240,5,27600.0
-c3,citroen,citroen c3 aircross 1.5 bluehdi feel s&s,2019,77183,16990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzkewzvmwxrahnnytitu1revlrmufqifq.50euu-gkfmqdellj-ypapn6t_vlxeeruqwvogf4ugji/image;s=320x240,4,19295.75
+car_model,car_brand,car_full_name,registration_year,km_to_date,sale_price,fuel_type,transmission_type,sale_picture_link,car_age,km_age_ratio,depreciation
+c3,citroen,citroen c3 1.2 puretech c-series,2021,81409,14480,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijludwltyxy4cxj0dditu1revlrmufqifq.ltoaut2-xwxjp2df466v9-sn5f561vx5fitjychm3d8/image;s=320x240,2,40704.5,7240.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,21000,19690,gasolina,manual,none,1,21000.0,19690.0
+c3,citroen,citroen c3 1.2 puretech c-series,2022,31090,16899,gasolina,manual,none,1,31090.0,16899.0
+c3,citroen,citroen c3 1.2 puretech feel,2018,50918,11990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imt5b29ub291bhnhni1tverwvexqvcj9.uo0xorpe8irpxjth2ipfhmedc0n4rva_dbay2ysii88/image;s=320x240,5,10183.6,2398.0
+c3,citroen,citroen c3 1.2 puretech feel,2019,120000,13950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inq1n295zdbzyty1mzitu1revlrmufqifq.bcb1nxttak_mrfpmv-q95zqe2xppf2p77efccohyxhk/image;s=320x240,4,30000.0,3487.5
+a1,audi,audi a1 sportback 1.4 tdi design,2015,136000,14900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innizwgyow1sb2vzazitu1revlrmufqifq.t248gn3wnee1w6c79zyj1tpjezyadmlwsgfcpamstna/image;s=320x240,8,17000.0,1862.5
+c3,citroen,citroen c3 1.2 puretech shine,2019,43693,14700,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijfjogfsnjfzzth1ny1tverwvexqvcj9.ficldn0zdvhn3bwnu2hhr0h1htlulxic_yoi0rtg9o8/image;s=320x240,4,10923.25,3675.0
+c3,citroen,citroen c3 1.2 puretech feel,2019,58478,13490,gasolina,manual,none,4,14619.5,3372.5
+c3,citroen,citroen c3 picasso,2009,157000,8250,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inp6oxhxngtyamvvdjitu1revlrmufqifq.g4bs_p-ne7qpyca4xfcmhsjpkddi0ersdnltkzhsclc/image;s=320x240,14,11214.285714285714,589.2857142857143
+a1,audi,audi a1 sportback 25 tfsi advanced,2022,36000,22890,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imv2bzljadm3etz6etetu1revlrmufqifq.d7xiatvngkxk43clutqqzzdvko1vthyzocyj1mv8gp4/image;s=320x240,1,36000.0,22890.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,38827,17740,gasolina,manual,none,1,38827.0,17740.0
+a1,audi,audi a1 sportback 1.4 tdi (ultra),2015,146088,15750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imdsdxlnmxzhzhjxmzmtu1revlrmufqifq.cykutqoxe93f2218ht4cvxyyhrcquxq8twkobdydu88/image;s=320x240,8,18261.0,1968.75
+c3,citroen,citroen c3 1.2 puretech shine,2022,13003,17990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inz2nzd2dzy0bg53mtmtu1revlrmufqifq.rchfo4r4hk5fzzp2r8va2koywyeugijm2ttmqnff9yk/image;s=320x240,1,13003.0,17990.0
+c3,citroen,citroen c3 1.6 bluehdi feel,2017,153000,12990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infmohhrehdienvhbzmtu1revlrmufqifq.51o9tw7rcyea0qanqgfspcri37nittfnczd5o8omuyw/image;s=320x240,6,25500.0,2165.0
+a1,audi,audi a1 sportback 1.0 tfsi design,2018,129600,15900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzoy241yxh6ehj1mzmtu1revlrmufqifq.jfr6bx6k-er-hn0pqahuu0_kbb3jsq0bw19u3vbupas/image;s=320x240,5,25920.0,3180.0
+c3,citroen,citroen c3 1.6 bluehdi feel,2018,97000,14950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inz5b2zvdnbleghlci1tverwvexqvcj9.eq7-k1eypl6s-an49x2shmfkoxch6ceq12vp9zmrpiy/image;s=320x240,5,19400.0,2990.0
+c3,citroen,citroen c3 1.6 bluehdi shine,2018,160000,14950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijrmm2m5dnc1ynhtetitu1revlrmufqifq.zqfq31c36shl56jxjaqsyxwjeebfpxjd87wimzf9ota/image;s=320x240,5,32000.0,2990.0
+a1,audi,audi a1 sportback 25 tfsi advanced,2022,35000,22890,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imlzcwzyz25qy3zkddetu1revlrmufqifq.v0uim8d74ttkcbmc_xcvrqf0p4qtrs8l1h5wmllspdm/image;s=320x240,1,35000.0,22890.0
+c3,citroen,citroen c3 1.2 vti seduction,2012,148000,7900,gasolina,manual,none,11,13454.545454545454,718.1818181818181
+c3,citroen,citroen c3 1.2 puretech shine,2020,46455,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im9zoxe5dhnjcdjjyi1tverwvexqvcj9.njiuw0-yl4doelaqwn7ha9npstxaus9kerqjpjtkhoa/image;s=320x240,3,15485.0,4663.333333333333
+c3,citroen,citroen c3 1.2 puretech c-series,2022,26139,16899,gasolina,manual,none,1,26139.0,16899.0
+a1,audi,audi a1 1.6 tdi ambition,2013,193293,12900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijvidtz3b3f2nhpnbdetu1revlrmufqifq.edbfhmgyhscuoeatot1wdl4py6egh5xh_dlfub1hrcw/image;s=320x240,10,19329.3,1290.0
+c3,citroen,citroen c3 aircross 1.5 bluehdi shine s&s,2019,123000,17450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infqz3eyehg4ahn0yjitu1revlrmufqifq.kdbb8jqp2inc0sl2u5xfktwmrqiz2kagpsa4tznbcxc/image;s=320x240,4,30750.0,4362.5
+c3,citroen,citroen c3 1.2 puretech shine,2017,134000,11890,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im10dmnumg5panvhntmtu1revlrmufqifq.hrqxg-ou1ebfmpzi3wpj1gkaqd_rmnguvfnabex-rf8/image;s=320x240,6,22333.333333333332,1981.6666666666667
+c3,citroen,citroen c3 aircross 1.2 puretech shine,2019,86000,15990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imgxbza4cne4dgo4czitu1revlrmufqifq.yapxtyvto1uvc9ousvoddk9i0sssy3ihxjppy1ih2_i/image;s=320x240,4,21500.0,3997.5
+c3,citroen,citroen c3 1.2 puretech c-series,2023,10764,18750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invnn2jnbdnzzgcycjetu1revlrmufqifq.3gfmtb5v4bxhulgurrruid2bktjyqatcfdpk8evdzp4/image;s=320x240,0,inf,inf
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,15000,20900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzuynm3dgl3dnm4zjetu1revlrmufqifq.vck14op9i5pnso51mgfawbr_v6heqonrgzwjbglrkgo/image;s=320x240,0,inf,inf
+c3,citroen,citroen c3 1.2 puretech shine,2021,58050,15980,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijq2aw9lyzbumxn6ctmtu1revlrmufqifq.ony8rejvxx0iwowttl0i4qq4ey3d_71cid1eqjffgfq/image;s=320x240,2,29025.0,7990.0
+c3,citroen,citroen c3 1.2 puretech feel,2018,80710,14250,gasolina,manual,none,5,16142.0,2850.0
+c3,citroen,citroen c3,2014,89760,9900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invzzgpzdgt4b2nyotetu1revlrmufqifq.de0mvje-0qqvv9hvwjiq9buy3bialy4vc5a-b5dxn8a/image;s=320x240,9,9973.333333333334,1100.0
+c3,citroen,citroen c3 1.2 puretech seduction,2017,135000,13250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbsbhqydhnvyzg5otmtu1revlrmufqifq.fqxohuyn_ypdhsnbxo2vnzwsmczjsie40t8hjm9njj4/image;s=320x240,6,22500.0,2208.3333333333335
+c3,citroen,citroen c3,2022,30418,16380,diesel,manual,none,1,30418.0,16380.0
+c3,citroen,citroen c3 aircross 1.5 bluehdi c-series,2022,49632,20990,diesel,manual,none,1,49632.0,20990.0
+c3,citroen,citroen c3 pure tech s&s feel pack,2020,69303,14950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imy5ejqyote1zxn5zzitu1revlrmufqifq.8kass4ee5lfkyfqguibepndsv62rucrlfbsyfzdwfzy/image;s=320x240,3,23101.0,4983.333333333333
+c3,citroen,citroen c3 1.2 puretech feel pack,2022,29500,15990,gasolina,manual,none,1,29500.0,15990.0
+c3,citroen,citroen c3 1.5 bluehdi feel,2019,121956,15000,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imfwog5nm29ln2fmdzitu1revlrmufqifq.t8w7hvkqnwlb9efto2tol0loislnoswwbdselxnphwi/image;s=320x240,4,30489.0,3750.0
+c3,citroen,citroen c3 1.1 attraction,2011,116000,7990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inb1yms2bmr6c2x3zdmtu1revlrmufqifq.58x09kl4ia1rry7s1epxrq-upm28pz0jx5cqwstruhk/image;s=320x240,12,9666.666666666666,665.8333333333334
+a1,audi,audi a1 sportback 1.0 tfsi s-line,2016,98783,15450,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im5wemr4zmfsenf5cc1tverwvexqvcj9.cctheuqwz0qlh2dgtaavdty-j9g6ygfhasnzovwmodo/image;s=320x240,7,14111.857142857143,2207.1428571428573
+c3,citroen,citroen c3 aircross,2022,28106,16480,gasolina,automatica,none,1,28106.0,16480.0
+c3,citroen,citroen c3 1.4 hdi attraction,2013,175825,7499,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imvkaw5nbtf0znnymditu1revlrmufqifq.ywz8iqmzpe0bxksjclborfnczdgfl7xc0bvicdupmca/image;s=320x240,10,17582.5,749.9
+a1,audi,audi a1 sportback 25 tfsi advanced,2022,12500,22000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inhnzjhvdwsxmgf6bzitu1revlrmufqifq.2xozf3t1_pb7axnnirvy5cvwklvq5-_5a9qnrwbv6cq/image;s=320x240,1,12500.0,22000.0
+c3,citroen,citroen c3 1.2 puretech c-series,2023,17613,18250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtieg05nxhsn3j6czetu1revlrmufqifq.mdtauefsgxiapz417zsc5arwukdd08ywv0uspzftpxq/image;s=320x240,0,inf,inf
+c3,citroen,citroen c3 1.2 puretech shine,2017,79006,13790,gasolina,manual,none,6,13167.666666666666,2298.3333333333335
+c3,citroen,citroen c3 1.2 puretech feel,2019,38570,13900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijdqnngxbxhuz3jqmdmtu1revlrmufqifq.hr9fcderl-_z_ycwtrlb5ttt0mu1pk8k0b37m1junfk/image;s=320x240,4,9642.5,3475.0
+c3,citroen,citroen c3 aircross 1.5 bluehdi feel s&s,2020,110000,17500,diesel,manual,none,3,36666.666666666664,5833.333333333333
+a1,audi,audi a1 sportback 1.4 tdi design,2017,105983,16750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijzqm3vycwdwa2hqmjmtu1revlrmufqifq.c1qxygtc7wdfpgbv89iqh68hbttasguwatoraoke8ci/image;s=320x240,6,17663.833333333332,2791.6666666666665
+c3,citroen,citroen c3 1.2 puretech c-series,2022,62,20250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imixyxhuehnobhzlotmtu1revlrmufqifq.al9p-n_6s0lmevc5jeuhhzsrthjce5htors-dxgdoqm/image;s=320x240,1,62.0,20250.0
+c3,citroen,citroen c3 1.4 hdi airdream selection 101g,2014,99850,11450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzonjmxywdhnnlszdetu1revlrmufqifq.o3kcsgmy00zuv7b3cwuopvjg-28lr2gpwyliofkoo2a/image;s=320x240,9,11094.444444444445,1272.2222222222222
+c3,citroen,citroen c3 1.2 puretech feel,2018,76455,12250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imxyndn3mnbtemp1mi1tverwvexqvcj9.8hnvckhnzpl3icmvlunutrw9svpyhq6mfdq13z4l5d0/image;s=320x240,5,15291.0,2450.0
+c3,citroen,citroen c3 1.2 puretech shine,2018,119612,12249,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imv1nhfydgdqc3iwzdetu1revlrmufqifq.s7-tgjschg093uwa0gzgirrrirncjjaa7igjz6sbuou/image;s=320x240,5,23922.4,2449.8
+a1,audi,audi a1 sportback 25 tfsi advanced,2020,20000,19400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imntzm1rbm0zyjlulvnurfzutfbuin0.uer1tmufo6qck5t9d6rtjopbmcta6plw6n2aozbizuk/image;s=320x240,3,6666.666666666667,6466.666666666667
+a1,audi,audi a1 sportback 1.4 tdi design,2016,95000,16750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imxrnmrnzxyyn2hues1tverwvexqvcj9.tmiridzihiugamnqlthxhhanlq2lblexbqg5evxddsa/image;s=320x240,7,13571.42857142857,2392.8571428571427
+c3,citroen,citroen c3 1.2 puretech feel,2018,84565,12250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpyeme4mmo2zddondetu1revlrmufqifq.w1fr_vd3qlchhzfpb6j-jb3k54muesmb6wp_jlkt3pi/image;s=320x240,5,16913.0,2450.0
+c3,citroen,citroen c3 1.2 puretech c-series,2021,32000,18350,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imcwdgpknhr2z2ixzdmtu1revlrmufqifq.wgapgm6xd7wsubg3bfoh6qwkhkkrmbjdhlp4qhfb42a/image;s=320x240,2,16000.0,9175.0
+c3,citroen,citroen c3 aircross 1.2 puretech origins,2019,66515,17200,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imdnzwv4n3j2dwn4bjetu1revlrmufqifq.00tccxylcj-hxrcjifieqjwl_08vfrx41y5hblc5ras/image;s=320x240,4,16628.75,4300.0
+c3,citroen,citroen c3 1.2 puretech c-series,2022,36934,16490,gasolina,manual,none,1,36934.0,16490.0
+c3,citroen,citroen c3 1.2 puretech c-series,2021,42000,16500,gasolina,manual,none,2,21000.0,8250.0
+c3,citroen,citroen c3 1.2 puretech c-series,2023,400,19250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inz5btfjznjwy2ppbzetu1revlrmufqifq.kvkm2if9cva_ilbbfmzzd4nlyofjquwxgxylqgvagja/image;s=320x240,0,inf,inf
+c3,citroen,citroen c3 1.2 puretech c-series,2022,29275,16700,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iju1bgh1mzl1yzz2zzmtu1revlrmufqifq.iw54pudscfkvzxfunbrobengjmrxvbawh7gc2zjmyta/image;s=320x240,1,29275.0,16700.0
+c3,citroen,citroen c3 1.2 puretech feel,2019,37000,16900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtzd3bmznnynzdzdjitu1revlrmufqifq.t9mvd2_vitkc00bt_xbrizmjjjetgol-emep2uggxmg/image;s=320x240,4,9250.0,4225.0
+c3,citroen,citroen c3 1.2 puretech feel,2019,40000,16750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imz1chq3og96nm83cjmtu1revlrmufqifq.5ahb88b6qqcqpykgo6oqnfldclykqkpuzgch4nvvge0/image;s=320x240,4,10000.0,4187.5
+c3,citroen,citroen c3 1.0 puretech confort,2013,101955,10650,gasolina,manual,none,10,10195.5,1065.0
+c3,citroen,citroen c3 1.2 puretech shine,2017,142000,12900,gasolina,manual,none,6,23666.666666666668,2150.0
+c3,citroen,citroen c3 aircross 1.5 bluehdi c-series,2022,35001,24000,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijrxanjxowhndthmmditu1revlrmufqifq.qigfjncwecio-wjo5ei2j6uaclkc43iz8yka0_lhq64/image;s=320x240,1,35001.0,24000.0
+c3,citroen,citroen c3 aircross puretech 130 stop & start eat6 opf shine pack,2020,79000,18900,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imh4ngmwm3piy2z5bjitu1revlrmufqifq.x3oz3nds2-nb4fgxhfqtrv90pyuhc2dcuzqil-sfvuu/image;s=320x240,3,26333.333333333332,6300.0
+c3,citroen,citroen c3 1.2 puretech c-series,2023,4500,18000,gasolina,manual,none,0,inf,inf
+a1,audi,audi a1 1.6 tdi s line edition,2011,292700,11500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imxmbtnwbzn0d3e3czetu1revlrmufqifq.b4zbgkl2efnpbfjxmjs-vmqeklhb4pbebgwupb4al3s/image;s=320x240,12,24391.666666666668,958.3333333333334
+a1,audi,audi a1 sportback 25 tfsi advanced,2021,62000,20900,gasolina,manual,none,2,31000.0,10450.0
+c3,citroen,citroen c3 1.5 bluehdi feel pack,2022,19622,18990,diesel,manual,none,1,19622.0,18990.0
+c3,citroen,citroen c3 aircross 1.5 bluehdi c-series,2022,27953,20990,diesel,manual,none,1,27953.0,20990.0
+c3,citroen,citroen c3 1.5 bluehdi feel pack,2022,45798,18490,diesel,manual,none,1,45798.0,18490.0
+c3,citroen,citroen c3 aircross 1.2 puretech feel,2018,74522,14900,gasolina,manual,none,5,14904.4,2980.0
+c3,citroen,citroen c3 1.4 hdi attraction,2015,94917,10750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imszyndjcnqxdmh4ejitu1revlrmufqifq.omqcuwsox17oq16ncqsu8vdbxipdifdsas-0bck_jzq/image;s=320x240,8,11864.625,1343.75
+c3,citroen,citroen c3 1.2 puretech shine,2022,1437,18480,gasolina,manual,none,1,1437.0,18480.0
+a1,audi,audi a1 1.6 tdi advance,2011,136374,11500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6indvd3gzn3rryxn4ny1tverwvexqvcj9.os0lgx6wpfhrgrzgzankugel1oefgsnnhmxt3v9myui/image;s=320x240,12,11364.5,958.3333333333334
+a1,audi,audi a1 1.4 tdi,2010,190400,11990,diesel,manual,none,13,14646.153846153846,922.3076923076923
+c3,citroen,citroen c3 1.2 puretech c-series,2023,10,18990,gasolina,manual,none,0,inf,inf
+c3,citroen,citroen c3 1.2 puretech c-series,2022,42400,17900,gasolina,manual,none,1,42400.0,17900.0
+c3,citroen,citroen c3 1.2 puretech attraction,2014,152000,8950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ina1am9jemx0zmj4njmtu1revlrmufqifq.euslapwo5xsyopahykqh-4yzyppz95bt5qcmv5rmukm/image;s=320x240,9,16888.88888888889,994.4444444444445
+c3,citroen,citroen c3 1.5 bluehdi feel,2019,149896,15900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imdya2vzc2kzbdvrdjmtu1revlrmufqifq.wgxlgnhjsbtobvhmobxjbriiicqsnz5utetlhwebx7c/image;s=320x240,4,37474.0,3975.0
+c3,citroen,citroen c3 aircross,2019,102355,17990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imo1etj6emf0bg9tcjitu1revlrmufqifq.w9jk27jpepsibsjk0cpkpx8ps-w0fetpqkghk-br7-o/image;s=320x240,4,25588.75,4497.5
+c3,citroen,citroen c3 aircross 1.2 puretech shine,2019,96000,15750,gasolina,manual,none,4,24000.0,3937.5
+c3,citroen,citroen c3 aircross 1.2 puretech shine,2019,89000,15740,gasolina,manual,none,4,22250.0,3935.0
+a1,audi,audi a1 sportback 1.4 tdi design,2015,105000,16000,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ing3em42dhu1c2psds1tverwvexqvcj9.tm8yf_iffjzvpueszcrjdliqyxqphxgwfwfxip06qqk/image;s=320x240,8,13125.0,2000.0
+a1,audi,audi a1 1.6 tdi sport,2015,93000,17900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtynxnxbtl1zg50as1tverwvexqvcj9.df2ipv8nfu7s7t0p2knblll3svg7zfacuyu1rtmkeg0/image;s=320x240,8,11625.0,2237.5
+c3,citroen,citroen c3 1.4 hdi seduction,2015,159000,8999,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imn6ajbidzuxnxrkodmtu1revlrmufqifq.ugf28bhs9oscgsysmkveqousknjwjt-8hdqxtvtw7pu/image;s=320x240,8,19875.0,1124.875
+c3,citroen,citroen c3 1.2 puretech shine,2019,55145,17900,gasolina,manual,none,4,13786.25,4475.0
+a1,audi,audi a1 sportback 1.0 tfsi sport,2015,121507,15900,gasolina,manual,none,8,15188.375,1987.5
+c3,citroen,citroen c3 aircross 1.2 puretech feel,2018,53453,16300,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imnom28zcddjehbtoc1tverwvexqvcj9.g8nh_fkhdbhrcpm7pglf2dcxc4tsemtfsxo8rsdlhrw/image;s=320x240,5,10690.6,3260.0
+c3,citroen,citroen c3 1.2 vti exclusive,2014,133680,10900,gasolina,manual,none,9,14853.333333333334,1211.111111111111
+c3,citroen,citroen c3 aircross 1.6 bluehdi shine,2018,162000,16900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inc4ywzzawo2dg92bc1tverwvexqvcj9.usbvaeqabx12tndzynnwzjw0vpo9ynrkfrlt_8njnxi/image;s=320x240,5,32400.0,3380.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,15030,20240,gasolina,manual,none,1,15030.0,20240.0
+c3,citroen,citroen c3 aircross 1.5 bluehdi c-series s&s,2021,23987,22900,diesel,manual,none,2,11993.5,11450.0
+a1,audi,audi a1 sportback 1.6 tdi s line edition,2014,109000,16500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inliczrmym8ybwq4bzitu1revlrmufqifq.6lz75l4is5o8r2vzio5yjl094ncoxzjt0ijblrklq_c/image;s=320x240,9,12111.111111111111,1833.3333333333333
+c3,citroen,citroen c3 1.2 puretech c-series,2022,44778,17750,gasolina,manual,none,1,44778.0,17750.0
+c3,citroen,citroen c3 1.2 puretech c-series,2023,10784,18390,gasolina,manual,none,0,inf,inf
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,12339,19900,gasolina,manual,none,0,inf,inf
+c3,citroen,citroen c3 1.2 puretech shine,2022,13599,16880,gasolina,manual,none,1,13599.0,16880.0
+c3,citroen,citroen c3 1.2 puretech elle,2018,58795,14850,gasolina,manual,none,5,11759.0,2970.0
+c3,citroen,citroen c3,2020,63930,14750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzxcjrsndlhdncwos1tverwvexqvcj9.ot6xyx_yrhk6nqvvpgrxpubnp8cktx7cty3k_lq-n0o/image;s=320x240,3,21310.0,4916.666666666667
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,19428,19500,gasolina,manual,none,1,19428.0,19500.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,10479,19500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infiddrmyw9rbmm2bzetu1revlrmufqifq.laahtug5ql16aeyg1gxt5oojnf-piopbhud0bgxbc6c/image;s=320x240,0,inf,inf
+c3,citroen,citroen c3 1.5 bluehdi shine,2023,7013,21480,diesel,manual,none,0,inf,inf
+c3,citroen,citroen c3 1.4 hdi attraction,2015,130000,9900,diesel,manual,none,8,16250.0,1237.5
+c3,citroen,citroen c3 aircross 1.2 puretech shine,2023,2094,21900,gasolina,manual,none,0,inf,inf
+c3,citroen,citroen c3 aircross 1.6 bluehdi shine,2018,128000,16990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inn5nnnlmtz1nwxlatmtu1revlrmufqifq.xa52eolfw9pmk8edrh_0v81a7oycdfmrsxgu6pychqa/image;s=320x240,5,25600.0,3398.0
+c3,citroen,citroen c3 1.2 puretech feel,2020,78000,12900,gasolina,manual,none,3,26000.0,4300.0
+c3,citroen,citroen c3 1.2 puretech shine,2022,20286,15980,gasolina,manual,none,1,20286.0,15980.0
+c3,citroen,citroen c3 1.2 puretech shine,2022,15350,16780,gasolina,manual,none,1,15350.0,16780.0
+a1,audi,audi a1 sportback 1.6 tdi sport,2015,97219,13500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijznntjlzzuwmxplatitu1revlrmufqifq.is7epzf_yh8gbcnrvcjr7rrpnbvrnqhyurq5gror6x0/image;s=320x240,8,12152.375,1687.5
+c3,citroen,citroen c3 1.2 puretech collection,2016,82000,10390,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imvqcnowbta4oglomi1tverwvexqvcj9.sgekmptbvw77nvjcrjsgcityeujeja1g2fswnqyh2p0/image;s=320x240,7,11714.285714285714,1484.2857142857142
+a1,audi,audi a1 1.4 tdi s-line,2017,143448,18490,diesel,manual,none,6,23908.0,3081.6666666666665
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,21147,18500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imgwyzj5nwr1ank5ctetu1revlrmufqifq.pn8navrrmifr72f_i6htohfge-e0v86f692oilmzdhe/image;s=320x240,1,21147.0,18500.0
+c3,citroen,citroen c3 1.2 puretech feel,2017,139900,13500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invmyxfxngl3c3o5etetu1revlrmufqifq.yadxlhkwbhcy9uzzdk4ycdanhv3tctfdgpv79r8skou/image;s=320x240,6,23316.666666666668,2250.0
+c3,citroen,citroen c3 1.2 puretech c-series,2021,60938,14799,gasolina,manual,none,2,30469.0,7399.5
+c3,citroen,citroen c3 1.2 puretech shine,2022,36600,17900,gasolina,manual,none,1,36600.0,17900.0
+c3,citroen,citroen c3 1.2 puretech feel,2019,93000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imnsbwi4c2dryw82as1tverwvexqvcj9.ui-pyzanzkg8gmdbrg7guybhk_f-tnqk7tlb0osm69e/image;s=320x240,4,23250.0,3497.5
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,8235,20500,gasolina,manual,none,0,inf,inf
+c3,citroen,citroen c3 1.5 bluehdi shine pack,2021,29875,17950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbtn3jmb3jrznpvzjmtu1revlrmufqifq.9otjr7vgtnmruig3q_txlbxa9_e-ytbbs8r77cbgvhq/image;s=320x240,2,14937.5,8975.0
+a1,audi,audi a1,2016,104229,16400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innuyzlpdtnsbgf1zzitu1revlrmufqifq.zjgclurlzn6rujtvsu1xf3izybrl2swcqxkk64mic4s/image;s=320x240,7,14889.857142857143,2342.8571428571427
+a1,audi,audi a1 sportback 1.4 tdi,2018,57336,18250,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imfvemcwbtfqyws5nzmtu1revlrmufqifq.lshkaiuj46cfldoodqgacllujtvf49iqiucrqe2bth8/image;s=320x240,5,11467.2,3650.0
+c3,citroen,citroen c3,2018,148200,13900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inezmhvpctruags5bs1tverwvexqvcj9.90bnqqe0cth1o2nwlou8md89057bcaa9n0qssf_csj0/image;s=320x240,5,29640.0,2780.0
+c3,citroen,citroen c3 1.2 puretech shine,2022,250,20990,gasolina,manual,none,1,250.0,20990.0
+a1,audi,audi a1,2018,133000,16990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imx1yzbnotz5b3q1aditu1revlrmufqifq.vcdckjru_1utyl6_hkbifizkd8nopl3wn7ji0lqegrk/image;s=320x240,5,26600.0,3398.0
+a1,audi,audi a1,2018,158000,15990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbubzlkzgzjn2u2ajitu1revlrmufqifq.25ztopk5vpuadgglvytcnjci3n8wtaggxnvjl9w2ueg/image;s=320x240,5,31600.0,3198.0
+c3,citroen,citroen c3 1.2 puretech shine,2019,37200,15250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijd2zm85eww2bhfpyi1tverwvexqvcj9.bolqezbn1ync2dq-sboqdd0iehcgpozctqup69zmajo/image;s=320x240,4,9300.0,3812.5
+c3,citroen,citroen c3 1.2 puretech shine,2022,35200,17900,gasolina,manual,none,1,35200.0,17900.0
+a1,audi,audi a1 sportback,2016,101000,18990,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imeybza4enrrzwq1admtu1revlrmufqifq.u3ssllthdjecnqeigpheb_-3pvqfjkhgjj6fnsgryqc/image;s=320x240,7,14428.57142857143,2712.8571428571427
+a1,audi,audi a1 sportback 1.6 tdi business line,2015,105000,14000,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imt0zzllcgp1cwo4ns1tverwvexqvcj9.xiroxyfckeinnjx7eio5xcgnlfevk4sbxe8uhhna0eq/image;s=320x240,8,13125.0,1750.0
+a1,audi,audi a1 1.6 tdi sport edition s-line,2012,168000,12500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imyydmr3njrmb2rxlvnurfzutfbuin0.697yhfvvyicyzrti6akrborir4bo1iljnlrl8l_1ivw/image;s=320x240,11,15272.727272727272,1136.3636363636363
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,28000,18900,gasolina,manual,none,1,28000.0,18900.0
+c3,citroen,citroen c3 pure tech feel,2018,69863,12500,gasolina,manual,none,5,13972.6,2500.0
+c3,citroen,citroen c3 1.2 puretech shine,2022,6337,17900,gasolina,manual,none,1,6337.0,17900.0
+c3,citroen,citroen c3 1.2 puretech feel,2019,66786,14999,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ine0nnp2bwvwagi0ay1tverwvexqvcj9.m2jevka0d2_w67lrwkl5clrrmbso80uspy-hglyf_8u/image;s=320x240,4,16696.5,3749.75
+c3,citroen,citroen c3 1.4 e-hdi air.seduction cmp,2015,97000,10980,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inhmn3dmymh4djg0btitu1revlrmufqifq.zhdc8grxtmxt8gzteyux6cmmwfekga7d_xqicalh0cg/image;s=320x240,8,12125.0,1372.5
+c3,citroen,citroen c3 1.2 puretech feel,2019,36247,14299,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpzoxr6enltew8xntitu1revlrmufqifq.z9fqx0n12qqkdqf7oriwkyja7xn48ux7ver0zeanizk/image;s=320x240,4,9061.75,3574.75
+c3,citroen,citroen c3 1.6 bluehdi exclusive,2017,149000,12999,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzwdm1rnwvmyxu5atitu1revlrmufqifq.0x1ev9t6qnoksn2ky10eenrnzsqit4mtmzaijh-3e-k/image;s=320x240,6,24833.333333333332,2166.5
+a1,audi,audi a1 sportback 1.6 tdi s-line,2014,124000,16250,diesel,manual,none,9,13777.777777777777,1805.5555555555557
+c3,citroen,citroen c3 1.4 hdi airdream attraction,2014,150004,10400,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inm4nwszynnlyzfmdtetu1revlrmufqifq.7on3iekbfjuxfpcs7llc6c9a4k4dafxh7m_pwa68qag/image;s=320x240,9,16667.11111111111,1155.5555555555557
+c3,citroen,citroen c3 picasso 1.6 hdi exclusive airdream,2010,199000,7900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iji0nzfyehzmmxrjazitu1revlrmufqifq.qgvimlymfmiridwpshn8dptkmea-gbgxvagsk20e9r8/image;s=320x240,13,15307.692307692309,607.6923076923077
+c3,citroen,citroen c3 1.2 puretech c-series,2023,50,18990,gasolina,manual,none,0,inf,inf
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,50,21900,gasolina,manual,none,0,inf,inf
+c3,citroen,citroen c3 1.2 puretech c-series,2022,16223,16100,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ina1bnq0dnplb3bzcs1tverwvexqvcj9.9qe9iiy0qzbije0u33owqdm03uqjsrj4dj-ivwsplb0/image;s=320x240,1,16223.0,16100.0
+a1,audi,audi a1 sportback 1.6 tdi design,2017,90000,17500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzzcmvvchdsb293zzitu1revlrmufqifq.3_9kyaju3icv_9mvhrks811cuwgaopqndhyhuzynwc4/image;s=320x240,6,15000.0,2916.6666666666665
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,13478,21500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im04azq5etfznxi3ytmtu1revlrmufqifq.1rwv7mk-qab-gqtmtiqot3my3rcptfmi1ptqepjq5a0/image;s=320x240,1,13478.0,21500.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,11218,19500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im1rc20yohpud294zdmtu1revlrmufqifq.fa2352nzycsyinprbgj0w6tgkdtwht7q_qr9qdun_wa/image;s=320x240,0,inf,inf
+c3,citroen,citroen c3 aircross 1.2 puretech feel eat6,2019,92955,17900,gasolina,automatica,none,4,23238.75,4475.0
+c3,citroen,citroen c3 1.2 vti seduction,2013,131400,9200,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijfozmc1zdz6y2hkodetu1revlrmufqifq.td-poobfv_dfknifshskajxdbzyx9ln3pr4zwa7zj2u/image;s=320x240,10,13140.0,920.0
+c3,citroen,citroen c3 bluehdi s&s feel,2019,57662,15999,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijj4zddjmwf5nznxbditu1revlrmufqifq.xxtcn7im7jsw_fhkgvfk0eu5xvbhh_i0mdu4-r2h9tu/image;s=320x240,4,14415.5,3999.75
+c3,citroen,citroen c3 1.2 puretech shine,2022,16836,16450,gasolina,manual,none,1,16836.0,16450.0
+c3,citroen,citroen c3 1.6 bluehdi feel,2018,138000,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imi3zwloc3czcxdlytetu1revlrmufqifq.rufqxw1ihxnc2kbcsf1cjy_2fnqnir6uqmimg7yrmde/image;s=320x240,5,27600.0,2798.0
+a1,audi,audi a1 sportback 1.4 tdi sport,2017,99353,17400,diesel,manual,none,6,16558.833333333332,2900.0
+c3,citroen,citroen c3 picasso 1.6 hdi seduction,2012,194000,10500,diesel,manual,none,11,17636.363636363636,954.5454545454545
+c3,citroen,citroen c3 1.2 puretech c-series,2021,29145,16950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imw5awxud2y0ohj0ny1tverwvexqvcj9.bnmflztqfbcsx7f3ck8wdqyywj8fiaw9iwunvwxp2iu/image;s=320x240,2,14572.5,8475.0
+c3,citroen,citroen c3 aircross 1.2 puretech feel,2022,20183,18240,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtnc3g0ddn3dgzzotetu1revlrmufqifq.xpl9yno-is-va-_n39zaynncgcrcads5feoc0jdpt6a/image;s=320x240,1,20183.0,18240.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,45000,18040,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpymwt3bxp6nhu0ddmtu1revlrmufqifq.nobsxqyby9yt67w9_518-yf_o1acdgcwtfklmhlosxg/image;s=320x240,1,45000.0,18040.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,48000,17990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inkxb29idjb0cnntadmtu1revlrmufqifq.y8cbgaaunfm6vujx1miyh_wxmukwh2d5odqbt52zvgo/image;s=320x240,1,48000.0,17990.0
+a1,audi,audi a1,2018,130649,16750,gasolina,manual,none,5,26129.8,3350.0
+a1,audi,audi a1 1.2 tfsi s-line,2014,157000,14250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijg2mmjrenn4yw91ztetu1revlrmufqifq.rljlwdk8kzme5hr2ayg0ppqhengl1lc9jbcvbmwx1j8/image;s=320x240,9,17444.444444444445,1583.3333333333333
+c3,citroen,citroen c3 1.2 puretech attraction,2015,131000,9570,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijmymwx4bzm3aji0atitu1revlrmufqifq.wag6v5kwtcr-6cukcrf3cpqp06-y3e3qsjmf415flue/image;s=320x240,8,16375.0,1196.25
+c3,citroen,citroen c3 1.4 hdi airdream exclusive,2012,238000,9600,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6img5bgpuamfpy2i4dtetu1revlrmufqifq.rp-hz1xvt_yydyp5lsov8524grhhq-u7gw3zqezqt9u/image;s=320x240,11,21636.363636363636,872.7272727272727
+c3,citroen,citroen c3 aircross 1.2 puretech shine eat6,2018,66000,18300,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6impyynlqexk0dzh3ddmtu1revlrmufqifq.z1jix_hpv6ykbow510vgftr0xau9qja8jczuwkagdfm/image;s=320x240,5,13200.0,3660.0
+a1,audi,audi a1 1.6 tdi s-line,2013,128000,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iml4ajzpyjqxm3q3otitu1revlrmufqifq.wtfgtfcf_ewyjyy9k2trepnktsdyoigsqm2w1y38t6y/image;s=320x240,10,12800.0,1399.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,18977,19650,gasolina,manual,none,1,18977.0,19650.0
+a1,audi,audi a1 1.2 tfsi advance,2010,105800,10990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imnqdmx1cdd5cw91zs1tverwvexqvcj9.7hrgofr4hj10zumkn_tkojijh6aq8glcrvp9-bi25fy/image;s=320x240,13,8138.461538461538,845.3846153846154
+c3,citroen,citroen c3 1.4 airdream seduction,2011,162152,7000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injszwv0etrzzxi2ntitu1revlrmufqifq.eg37c7cmpoj-s5rhmvgpxullmmywins_0w6e4wr-thy/image;s=320x240,12,13512.666666666666,583.3333333333334
+c3,citroen,citroen c3 1.2 puretech live,2017,131000,13950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im0zndb4b3kyz3drnc1tverwvexqvcj9.usuvi5rlud2h_6gpl9brte6vrdsscppormesogxyzpu/image;s=320x240,6,21833.333333333332,2325.0
+c3,citroen,citroen c3,2018,56927,14599,gpl,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ims2bhv1oxfkazd3azmtu1revlrmufqifq.konpl2rz6-bvfwtpx3mazrr3myi_g3msg309ogbis0s/image;s=320x240,5,11385.4,2919.8
+c3,citroen,citroen c3 1.2 puretech feel,2017,78000,12490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injhbdnwmjm1mhoyazmtu1revlrmufqifq.oe5gv9d2fun9upvwuzxpfzqk0la_k4-osdulzk9zx7a/image;s=320x240,6,13000.0,2081.6666666666665
+c3,citroen,citroen c3 pure tech s&s eat6 feel,2020,23003,17250,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im11n2o5bnbknhv0mzetu1revlrmufqifq.jt4m8idepj6d-nc7rpjnucipcifvwk4ksiaiknoityc/image;s=320x240,3,7667.666666666667,5750.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,100,21950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijg3cjzibtluz2l3yzitu1revlrmufqifq.p-bq9pqlan7chrumya3j5dn3jupuk2b0lhk0phczgg8/image;s=320x240,0,inf,inf
+c3,citroen,citroen c3,2019,147244,14500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ija5njmwmg8xewg1ctmtu1revlrmufqifq.duresfy7elrhduqkb_-3hh9vnkqiulvxaw4oq36egfo/image;s=320x240,4,36811.0,3625.0
+c3,citroen,citroen c3 1.2 puretech c-series,2022,20000,15800,gasolina,manual,none,1,20000.0,15800.0
+a1,audi,audi a1 1.6 tdi sport,2011,198783,11900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im0zyzhpnm1pogz1djmtu1revlrmufqifq.dpxuulvnbraj5rno9o0tcwepa6xxqstii13oasukqhc/image;s=320x240,12,16565.25,991.6666666666666
+c3,citroen,citroen c3 1.2 puretech feel,2019,69592,14650,gasolina,manual,none,4,17398.0,3662.5
+c3,citroen,citroen c3 1.2 puretech feel,2017,128000,11990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzsbhlloha1zmrnzzetu1revlrmufqifq.yrmqsb-n9bb3zpxu5or2hbdn0oigk4g-wbppvrphwfq/image;s=320x240,6,21333.333333333332,1998.3333333333333
+c3,citroen,citroen c3 1.2 puretech shine,2020,29480,14450,gasolina,manual,none,3,9826.666666666666,4816.666666666667
+c3,citroen,citroen c3 aircross 1.2 puretech feel,2020,83000,14990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ini4zgrpmgrpzgppoc1tverwvexqvcj9.hip91kfzkpfspdd1ha3qpwhuduv3-wdmsueqpg94tqu/image;s=320x240,3,27666.666666666668,4996.666666666667
+c3,citroen,citroen c3 aircross 1.2 puretech c-series eat6,2023,6052,24990,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpiajfhmtbnnjnqzjetu1revlrmufqifq.i3i5iuhpqsl07moewae6qv3jdik1q1c_vuhxxrrj8k8/image;s=320x240,0,inf,inf
+c3,citroen,citroen c3 1.2 puretech seduction,2014,114000,9450,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijc0njzua2wxyxj2ajitu1revlrmufqifq.cy_pp0fy4xxiltuortdtriyh5amjam8bus3qt2ckrzc/image;s=320x240,9,12666.666666666666,1050.0
+a1,audi,audi a1 1.6 tdi sport,2010,214000,11490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inhlymi1ywvwnty2djetu1revlrmufqifq.rqhrbri1nwph_u6u9x5ux0v2tmzbemrwfu5ollqedpo/image;s=320x240,13,16461.53846153846,883.8461538461538
+a1,audi,audi a1 1.6 tdi sport,2013,167395,12990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im52dno3zw91bwcwnjetu1revlrmufqifq.t3jsusoaafyxse9lwralubagv5fbakefgs2dhq2z3jq/image;s=320x240,10,16739.5,1299.0
+c3,citroen,citroen c3 1.2 puretech feel,2017,99990,10990,gasolina,manual,none,6,16665.0,1831.6666666666667
+c3,citroen,citroen c3 1.2 puretech shine,2019,136858,14500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6img3zzj0cxk0atl3bjetu1revlrmufqifq.6n1_jg91vr2hqnhn1wmqdcohkk6oj33nfj7pat3447a/image;s=320x240,4,34214.5,3625.0
+a1,audi,audi a1 1.6 tdi sport,2011,229320,10990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injvb2t0ymmwejj2yzetu1revlrmufqifq.-kcxh2hvh5fzuv2eknagm5md73ubk1ww-ss7sqphv1g/image;s=320x240,12,19110.0,915.8333333333334
+c3,citroen,citroen c3 1.0 puretech confort,2016,23000,12900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijf2awz6exzwbwtzdtitu1revlrmufqifq.h3zpbf2i4a0pr0czrt3zbag7pjelkcq5sxaooync-ni/image;s=320x240,7,3285.714285714286,1842.857142857143
+c3,citroen,citroen c3 1.2 puretech c-series,2022,60114,16500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inz2ejhrytnlodflmi1tverwvexqvcj9.0tdusjhexjjxfsxyct5hupu1ywytv62h8zxqrv3kvsk/image;s=320x240,1,60114.0,16500.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,14000,19900,gasolina,manual,none,1,14000.0,19900.0
+c3,citroen,citroen c3 aircross 1.5 bluehdi feel s&s,2020,59091,18500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imftdtbxcmx4cmg2zditu1revlrmufqifq.v_tghnsekbaf8yln1xlgwywt4ksinl3zwiyw1qf1byi/image;s=320x240,3,19697.0,6166.666666666667
+a1,audi,audi a1 sportback 1.6 tdi s line edition,2012,180000,14900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inlnmtl0c2pjbw0wcy1tverwvexqvcj9.9nigaroitfrpkl2cmqljsn2ng-qnhtfpkqwcdtwbr0w/image;s=320x240,11,16363.636363636364,1354.5454545454545
+a1,audi,audi a1 sportback 25 tfsi advanced,2022,27714,22900,gasolina,manual,none,1,27714.0,22900.0
+c3,citroen,citroen c3 1.2 puretech c-series,2022,39034,15900,gasolina,manual,none,1,39034.0,15900.0
+c3,citroen,citroen c3 aircross 1.2 puretech feel pack,2022,28759,19250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im5rnwi1cwlnzm95dtitu1revlrmufqifq.atmswydyzhcnmuhfidsjeaaffb2_mphn4-80wg8wvyk/image;s=320x240,1,28759.0,19250.0
+c3,citroen,citroen c3 aircross 1.5 bluehdi feel s&s,2020,40042,19950,diesel,manual,none,3,13347.333333333334,6650.0
+c3,citroen,citroen c3 1.2 puretech shine,2022,7488,17990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijq4cxrmytrjmjnnmjmtu1revlrmufqifq.-da-sbgca3-nioyixmrmelgj_i3ji7_yw5eie25h4x8/image;s=320x240,1,7488.0,17990.0
+c3,citroen,citroen c3 1.4 hdi sx pack sensodrive,2008,87000,8490,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imy3ednoythjzwvkac1tverwvexqvcj9.q3bnpuik9oj4f7brbxybkwtvhkjww1qjan_lxitloaa/image;s=320x240,15,5800.0,566.0
+a1,audi,audi a1 1.2 tfsi attraction,2013,159000,12250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijzhcgqym3o2dxk3zjmtu1revlrmufqifq.fumuqdduzb4gjzbtfg95s0ywyrgwhtyhvu36s9qin0y/image;s=320x240,10,15900.0,1225.0
+c3,citroen,citroen c3 1.2 puretech c-series,2020,62530,15400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijc5d3k4ngdlegmxmzetu1revlrmufqifq.nctbczdhnyis8p-rjnuyhfc22jffyojjnx3h3nlkpi4/image;s=320x240,3,20843.333333333332,5133.333333333333
+c3,citroen,citroen c3 aircross 1.2 puretech shine,2018,57447,15900,gasolina,manual,none,5,11489.4,3180.0
+c3,citroen,citroen c3 1.5 bluehdi c-series,2021,79000,16890,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imi3enbnohhrd3h6azitu1revlrmufqifq.sxk2udptvw2vdjnzgsgyrnu9z7fih_1u7fmmzuunvje/image;s=320x240,2,39500.0,8445.0
+a1,audi,audi a1 sportback 1.4 tdi s-line,2018,127000,19900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imjhndyyd3z1bglxndmtu1revlrmufqifq.b8rvdlonn66cpsobsejml5wlil6bbzeadhwp4u-jvoc/image;s=320x240,5,25400.0,3980.0
+a1,audi,audi a1 1.6 tdi s-line,2013,173500,13950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6indsdzg3odfhemfuyjetu1revlrmufqifq.01sw52ydgd90wixmna36ap61byq045nci-cduboig4s/image;s=320x240,10,17350.0,1395.0
+c3,citroen,citroen c3 aircross 1.2 puretech feel,2018,26972,17500,gasolina,manual,none,5,5394.4,3500.0
+c3,citroen,citroen c3 aircross 1.2 puretech feel,2021,59510,17480,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imo5b2znadqwexmzyy1tverwvexqvcj9.q27h-lumnv4mmkcaa4zptpoco1er0orvlhx-y9q-ycg/image;s=320x240,2,29755.0,8740.0
+a1,audi,audi a1 sportback 25 tfsi,2020,48000,19590,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im5vcgu4eth0egppzs1tverwvexqvcj9.htt4ijxqa-p5i6jc2ohfcm1ey7l02lysvbrizuztj-c/image;s=320x240,3,16000.0,6530.0
+a1,audi,audi a1 sportback 25 tfsi advanced,2020,59664,20990,gasolina,manual,none,3,19888.0,6996.666666666667
+c3,citroen,citroen c3,2021,37653,16500,gasolina,manual,none,2,18826.5,8250.0
+c3,citroen,citroen c3 1.2 puretech feel,2019,67000,12299,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijk1mjzza2cyagpqntitu1revlrmufqifq.e8oqozjlxe4j_xvedzpkuqpkhlbvl8abi2b41rt8bca/image;s=320x240,4,16750.0,3074.75
+c3,citroen,citroen c3 1.2 puretech shine,2021,14592,19500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im16odgxzmd6ehfxeditu1revlrmufqifq.0cssfkidvyzflo-ljxiqk87tjwsx4sa3baglwlyhjcq/image;s=320x240,2,7296.0,9750.0
+c3,citroen,citroen c3 1.5 bluehdi shine pack,2020,40600,16790,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijluztawnghsb2xwbditu1revlrmufqifq.tmndb-bd1nd4wvnm8donoe6tl1bg4_pcj9q8jh2wq_0/image;s=320x240,3,13533.333333333334,5596.666666666667
+c3,citroen,citroen c3 1.2 puretech c-series,2023,9000,18290,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iju5dnnjympqognsyjmtu1revlrmufqifq.nmkd-anxrxub1aa5jhrw0atvygibnqxhpengw6yvvvu/image;s=320x240,0,inf,inf
+c3,citroen,citroen c3 1.5 bluehdi feel pack,2020,47868,14990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imvuehftotlizxz3atmtu1revlrmufqifq.z_mf-kqaosittjlwqcaj25pjgkmqdp2480aj6qe6hky/image;s=320x240,3,15956.0,4996.666666666667
+c3,citroen,citroen c3 aircross 1.2 puretech shine,2021,54901,18990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im1pamj2btjzdxzubzetu1revlrmufqifq.h6bmqx7e4xwzu7xaucumyfleugkzqcmygv5kgc0vqbg/image;s=320x240,2,27450.5,9495.0
+a1,audi,audi a1 sportback 1.4 tdi design,2018,84671,18600,diesel,manual,none,5,16934.2,3720.0
+c3,citroen,citroen c3 1.2 puretech c-series,2022,56720,15990,gasolina,manual,none,1,56720.0,15990.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,8630,19900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inazn25scnbldxzsejetu1revlrmufqifq.vurvee3a2vfk7c9_doarsbrhgtbu-jllzilpi_a0e4i/image;s=320x240,0,inf,inf
+c3,citroen,citroen c3 1.2 puretech c-series,2022,24415,16490,gasolina,manual,none,1,24415.0,16490.0
+c3,citroen,citroen c3 1.2 puretech feel,2018,74863,13900,gasolina,manual,none,5,14972.6,2780.0
+c3,citroen,citroen c3 1.2 puretech feel,2017,82348,12990,gasolina,manual,none,6,13724.666666666666,2165.0
+c3,citroen,citroen c3 1.2 puretech feel,2019,69574,12990,gasolina,manual,none,4,17393.5,3247.5
+c3,citroen,citroen c3 1.2 puretech c-series,2022,23,19450,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijc1amx3bzhjc3hhajitu1revlrmufqifq.eozeqgreihtmqovjeawjjpfudfot0eiv6k68ajdlvie/image;s=320x240,1,23.0,19450.0
+c3,citroen,citroen c3 1.2 puretech c-series,2021,40000,16690,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzwmdy5mw1xnji3btitu1revlrmufqifq.mbp9yjtmdz3lvgoft0wywf8wh6dtznyoptvv3em2ank/image;s=320x240,2,20000.0,8345.0
+c3,citroen,citroen c3 1.2 puretech shine,2022,7545,17900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijvtddiwmgrueme3mtetu1revlrmufqifq.ise-dt-byvfgzgprkn5s3tnsfqt654spxqx4vxxdhcu/image;s=320x240,1,7545.0,17900.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,13500,20990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imnjynnja2fldtf2yzmtu1revlrmufqifq.dfr2ekz09fhiq2tvv_6t8f2twrzo74lluozbguhodci/image;s=320x240,1,13500.0,20990.0
+c3,citroen,citroen c3 1.2 puretech c-series,2022,29639,15900,gasolina,manual,none,1,29639.0,15900.0
+a1,audi,audi a1 1.6 tdi s-line,2012,154000,13900,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijhunjn5awhnb2v3ejitu1revlrmufqifq.hme3smqkxueqczsttfgxrqsewghvuapp8r17_3iajkw/image;s=320x240,11,14000.0,1263.6363636363637
+c3,citroen,citroen c3 aircross bluehdi 120 stop & start feel,2018,98085,16250,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im00a3i0zjhrennidc1tverwvexqvcj9.emforbn4rx4p8q6ub2auk3hjd18ntemtta-7rjfh2bc/image;s=320x240,5,19617.0,3250.0
+a1,audi,audi a1,2011,107220,14500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im9qc2jzag02m2hqzy1tverwvexqvcj9.fobtixy9hwpa_bq78h9gpqzszljrnry_fm65nb-mzdm/image;s=320x240,12,8935.0,1208.3333333333333
+c3,citroen,citroen c3 aircross 1.5 bluehdi feel s&s,2020,83832,18490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imhscdrlytn6mg5hmditu1revlrmufqifq.3nqjkn0fdwechvkumgbjatcxicemylmgzgugdgsixd0/image;s=320x240,3,27944.0,6163.333333333333
+c3,citroen,citroen c3 1.2 puretech feel,2018,76754,13490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imlwdthlewrin2tqbtmtu1revlrmufqifq.a3z2iqv7_ithfgpu0zqnovoctacqvl1zhotw6e9vwpm/image;s=320x240,5,15350.8,2698.0
+a1,audi,audi a1,2018,84000,18999,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbyajvjdjzmown1zy1tverwvexqvcj9.8dfdwivusbu-c9ei5hjpug0paivvxr50v9a3g768dyo/image;s=320x240,5,16800.0,3799.8
+c3,citroen,citroen c3 1.2 puretech feel,2017,98000,14350,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inrkatrry3mzzno1ns1tverwvexqvcj9.zlrezldwqoshjbatm9g5d-yxeisptuepf_9kaxvj3m4/image;s=320x240,6,16333.333333333334,2391.6666666666665
+c3,citroen,citroen c3 aircross 1.5 bluehdi c-series,2021,27081,21650,diesel,manual,none,2,13540.5,10825.0
+c3,citroen,citroen c3,2020,20000,16000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbmaxf4adn1mxfpdzetu1revlrmufqifq.h1cuhlscko5jryrmmck_d3c6jkbv0njsc1uvmiupplk/image;s=320x240,3,6666.666666666667,5333.333333333333
+a1,audi,audi a1 sportback 1.4 tdi,2016,152000,15900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ini3zjriehzhdtblnc1tverwvexqvcj9.gnjc5nuoyj9cdgbfgz9zwov18fuojsdqtdtyvi-vxls/image;s=320x240,7,21714.285714285714,2271.4285714285716
+c3,citroen,citroen c3,2018,171344,11650,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im1wmwx1n2o1ehzuzc1tverwvexqvcj9.bmzolacwzufmmwvcopg7y5s9yslasenaot_2cfv_ook/image;s=320x240,5,34268.8,2330.0
+a1,audi,audi a1 sportback 1.4 tdi,2016,137000,16950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iml5bxi5n29pmhjwbjetu1revlrmufqifq.vogwug7kjs2txyp3kmlyipdwgalpqlhsx9mqehldhrm/image;s=320x240,7,19571.428571428572,2421.4285714285716
+c3,citroen,citroen c3 1.5 bluehdi feel business,2021,52679,17500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imr2zjdoawt2y3c4etitu1revlrmufqifq.pf_iwa1evibhnchxnkx3urkqyriwvhp8dukruovar0y/image;s=320x240,2,26339.5,8750.0
+c3,citroen,citroen c3 aircross 1.5 bluehdi c-series,2021,12702,22600,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inqybxvvmjvwnnlxotitu1revlrmufqifq.qgycybswt-fbkcd1gvwypozhxnggy334z3vykbiunau/image;s=320x240,2,6351.0,11300.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,20598,18740,gasolina,manual,none,1,20598.0,18740.0
+c3,citroen,citroen c3 1.2 puretech c-series,2022,20879,17490,gasolina,manual,none,1,20879.0,17490.0
+c3,citroen,citroen c3 1.2 puretech c-series,2021,72421,14490,gasolina,manual,none,2,36210.5,7245.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2020,55000,17500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijb6azlkymlpa280zy1tverwvexqvcj9.cmdbucmy6xxhsktupb84fwr0nhwwstl9oarsl4wlvx8/image;s=320x240,3,18333.333333333332,5833.333333333333
+a1,audi,audi a1 sportback 1.6 tdi business line,2013,175000,12500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbubm40bjlimdm0ei1tverwvexqvcj9.clj2bztrw2s67_9m4ngs-3bjrktu7_dzsuc_h7byxvq/image;s=320x240,10,17500.0,1250.0
+c3,citroen,citroen c3 1.2 puretech feel,2018,82000,11500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im1vmnf3owroaglkys1tverwvexqvcj9.phbunju4hvr57gzsqkmtmhbem-yza6jyt3awb8_lbhq/image;s=320x240,5,16400.0,2300.0
+c3,citroen,citroen c3 1.2 vti collection,2014,151698,9880,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijfoejvhbws2nnaxzdetu1revlrmufqifq.1tdglilldk1dgielwe5i48wfp3iyd-smuciddxyaxv4/image;s=320x240,9,16855.333333333332,1097.7777777777778
+c3,citroen,citroen c3 1.2 puretech c-series,2022,42578,16500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inuwngloody1ahj5djitu1revlrmufqifq.7svnccxqpgczdpx3snkc2l7xchm1ykor9lvgj_tdl78/image;s=320x240,1,42578.0,16500.0
+c3,citroen,citroen c3 1.6 bluehdi feel,2017,110364,12999,diesel,manual,none,6,18394.0,2166.5
+a1,audi,audi a1 sportback 1.0 tfsi design,2018,147000,15500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ingyzm1wcxj3z2zpbzmtu1revlrmufqifq.hxicyo_hl3qheohs8pbpba2crfablrzoteocpjfp9us/image;s=320x240,5,29400.0,3100.0
+a1,audi,audi a1 1.2 tfsi advance,2011,140000,11990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inmyawy0b2o5z2xtnzitu1revlrmufqifq.-ahlbu9xza_hd1kitgmi9ettb_u8ugcjj28ki1i4imw/image;s=320x240,12,11666.666666666666,999.1666666666666
+c3,citroen,citroen c3 1.6 bluehdi feel,2017,127000,14950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imgxew1znxyxa3n5ytmtu1revlrmufqifq.efjxbfswyexclf9x4ipjvvjkavztzq8fkntucx3pe7u/image;s=320x240,6,21166.666666666668,2491.6666666666665
+a1,audi,audi a1 sportback 25 tfsi advanced,2019,60000,19990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invxeg9ob2n2ymiyejetu1revlrmufqifq.vk-xsqz05buqayjfcjnwxo8tsf5ugiyd6_4l1zmfa6q/image;s=320x240,4,15000.0,4997.5
+c3,citroen,citroen c3 picasso 1.4 vti confort,2009,111908,7990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijk3y3vuymvtb3jyys1tverwvexqvcj9.1jnobfyc1p-9ppv7wafrwxffvcxkfditzy241nmine4/image;s=320x240,14,7993.428571428572,570.7142857142857
+c3,citroen,citroen c3 1.2 puretech c-series,2022,31087,16100,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijnybhf2n2qxotnvajitu1revlrmufqifq.u7jz2yixqocdtqoditkbw8_q0-1wwqmyayeznka2zhc/image;s=320x240,1,31087.0,16100.0
+c3,citroen,citroen c3 picasso 1.6 hdi airdream,2014,199000,9990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbrdjuwdgdvbw1obtmtu1revlrmufqifq.9w3gpmquopi400blwe7z0qrrlczubhva8fg2ik8jpvi/image;s=320x240,9,22111.11111111111,1110.0
+c3,citroen,citroen c3 1.2 puretech feel,2018,125000,12850,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imk1zhlzd2ryy2dxoc1tverwvexqvcj9.e86arjbwsvl8_p7t799kcx4syylmvbco9runwz8j0ha/image;s=320x240,5,25000.0,2570.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,9905,18740,gasolina,manual,none,1,9905.0,18740.0
+c3,citroen,citroen c3 1.2 puretech feel,2017,117000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inq3empinzk0y2f1os1tverwvexqvcj9.bje5yaogi94bhalhzwvywxe5efge_mx-incayreqsic/image;s=320x240,6,19500.0,2331.6666666666665
+c3,citroen,citroen c3 aircross 1.2 puretech c-series eat6,2022,64969,21000,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijlpn2s5oglvy3v0nzitu1revlrmufqifq.lsgzv9-cx_ktwzsjo2denr3yzzshaw27rv4jxytv5sw/image;s=320x240,1,64969.0,21000.0
+c3,citroen,citroen c3 1.4 hdi exclusive,2015,145000,9450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inppaw41zxexoxv3bzmtu1revlrmufqifq.iyvxafzgui_nksw5kt-3ecqqc3lopcurp-6mvpsf734/image;s=320x240,8,18125.0,1181.25
+a1,audi,audi a1 sportback 25 tfsi advanced,2019,119438,18999,gasolina,manual,none,4,29859.5,4749.75
+c3,citroen,citroen c3 1.5 bluehdi feel pack,2022,25387,17400,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iny2mwr5y2lpz3jvytetu1revlrmufqifq.gbz7tty5lqnvt14ov1ptz4cyngabv27mtjhfs06kq14/image;s=320x240,1,25387.0,17400.0
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2023,8063,20780,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6impudxjrnzviehdsmjitu1revlrmufqifq.zj9jyysfonaip4bykhlrg2w_4lfddrhqf6uzwbga_w0/image;s=320x240,0,inf,inf
+c3,citroen,citroen c3 1.2 puretech c-series,2021,36613,16900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpjnw5lexnldmhsyjetu1revlrmufqifq.i46jwc0x1c4kpmilqfim5n6jwn2vfjwk8p0cjeztd0e/image;s=320x240,2,18306.5,8450.0
+c3,citroen,citroen c3 1.6 bluehdi feel,2017,134000,12500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imz4ymkzdwtwewh0ajitu1revlrmufqifq.nrgdwqaopcja6hbwzyw2klujy91epx33ge_7uvzhl80/image;s=320x240,6,22333.333333333332,2083.3333333333335
+c3,citroen,citroen c3 1.2 puretech shine,2022,11726,16880,gasolina,manual,none,1,11726.0,16880.0
+c3,citroen,citroen c3 1.2 puretech c-series,2022,39000,16599,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtsegflcg1kc3z5ay1tverwvexqvcj9.8_gvcqqhskgmbbfrgkqy896p-a_se6ngamp89xqnode/image;s=320x240,1,39000.0,16599.0
+c3,citroen,citroen c3 1.2 puretech c-series,2021,41964,16990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijfrejc0dw5oz25tadmtu1revlrmufqifq.ssbrgmamdo7lwvttgiupjvzo8wrrqk-zq8lej9akoqo/image;s=320x240,2,20982.0,8495.0
+a1,audi,audi a1 sportback 1.0 tfsi,2016,118860,14990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijv6mhnuzwrpy2k0aditu1revlrmufqifq.vo4dqs3mbmlly9vzlfsqjvjlkxv0j5e44lf7-v-cyhm/image;s=320x240,7,16980.0,2141.4285714285716
+a1,audi,audi a1 sportback 1.0 tfsi sport,2016,98457,14900,gasolina,manual,none,7,14065.285714285714,2128.5714285714284
+c3,citroen,citroen c3 1.2 puretech c-series,2023,1893,18900,gasolina,manual,none,0,inf,inf
+c3,citroen,citroen c3 aircross 1.2 puretech shine eat6,2023,1991,24900,gasolina,automatica,none,0,inf,inf
+c3,citroen,citroen c3 1.2 puretech feel,2017,112778,12500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imh3mmdla2xmbxb3odmtu1revlrmufqifq.e7w5wzelvumwdl7ndfuea3bsi7lsksq5b46haxibz1a/image;s=320x240,6,18796.333333333332,2083.3333333333335
+c3,citroen,citroen c3 aircross 1.2 puretech c-series,2022,11500,19250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijzhcgc0owd0m2domdmtu1revlrmufqifq.lae5w4ew9r2yanxheztdxgujl7q3-ibmlhf3a75cjw4/image;s=320x240,1,11500.0,19250.0
+c3,citroen,citroen c3 aircross 1.2 puretech feel,2022,29159,18240,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijh0etlrmtvvoxpzdzetu1revlrmufqifq.ymg6f3msmxs0ex-itjl4bavedwoigviljs8piypki0o/image;s=320x240,1,29159.0,18240.0
+c3,citroen,citroen c3 1.2 puretech shine,2022,35651,15890,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innuyjlmcmnrngjzatmtu1revlrmufqifq.qvvzcadpp0fctcrgfhfcnryer2gsnazy7f9larmw3os/image;s=320x240,1,35651.0,15890.0
+c3,citroen,citroen c3 1.2 puretech c-series,2022,28095,15400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbjem82yzhvaxbrnjetu1revlrmufqifq.swxdjfsdrnvnk_ikil9qvbuambrsllej-d2nghctluw/image;s=320x240,1,28095.0,15400.0
+c3,citroen,citroen c3,2019,73981,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtychrnbmqwdmn5es1tverwvexqvcj9.kcqxbijnzpxgsyz8lqtoy-cwlosztjjmdv4lhhv7b64/image;s=320x240,4,18495.25,3497.5
+c3,citroen,citroen c3 1.2 puretech c-series,2021,54272,15490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imqwowiybm84ajjxajmtu1revlrmufqifq.40-xbu8qwap8gihrg7ax7bijaqs7uzakl0ffuym-_tg/image;s=320x240,2,27136.0,7745.0
+c3,citroen,citroen c3 1.2 puretech seduction,2014,87000,8000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijnsmm15ytewewhoajetu1revlrmufqifq.wjxu3jtfpkd9rpcqj6yow1ewyxx1dezqeqwobmwkqz0/image;s=320x240,9,9666.666666666666,888.8888888888889
+c3,citroen,citroen c3 1.5 bluehdi feel,2020,58442,19490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inq0mzvhnnu0ctbnczetu1revlrmufqifq.s35mf9rjvndmavckxgxjm8yjpd7vh0pz5ht2stqvutg/image;s=320x240,3,19480.666666666668,6496.666666666667
+c3,citroen,citroen c3 1.4 hdi airdream exclusive,2012,185234,7950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijmxbgvybmdrymjsczitu1revlrmufqifq.yzyw-hccq5eoeezqee1vrg9d6ekcqyxvz_myb4pveve/image;s=320x240,11,16839.454545454544,722.7272727272727
+a1,audi,audi a1 sportback 1.4 tdi,2018,158556,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inc2ytjsnhrxywcxatetu1revlrmufqifq.jvqq2d6gcshnrzrawh_bojkmgy7nojlempgz4wuraxc/image;s=320x240,5,31711.2,2798.0
+a1,audi,audi a1 sportback 30 tfsi advanced s tronic,2020,40000,24240,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im9uywj3ztrmdgszcjitu1revlrmufqifq.jzagt2gy1ljlpkv6vvrzbdxsyyhbnxwfesk6uykmm00/image;s=320x240,3,13333.333333333334,8080.0
+c3,citroen,citroen c3 1.2 puretech c-series,2021,41767,14700,gasolina,manual,none,2,20883.5,7350.0
+c3,citroen,citroen c3 1.4 hdi exclusive airdream,2011,166000,8990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imc3z2qxaxdwmmppzs1tverwvexqvcj9.-mgfluz2xpxf0cihtdosa7e9bphdsadith5snecdgs0/image;s=320x240,12,13833.333333333334,749.1666666666666
+c3,citroen,citroen c3 1.2 puretech feel,2018,138000,11900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inuwehbkexlmndzvaditu1revlrmufqifq.kkbs0gujquo7tig0bxf2cefc2aedn5vb-uf98qo2fbs/image;s=320x240,5,27600.0,2380.0
+c3,citroen,citroen c3 aircross 1.5 bluehdi feel s&s,2019,77183,16990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzkewzvmwxrahnnytitu1revlrmufqifq.50euu-gkfmqdellj-ypapn6t_vlxeeruqwvogf4ugji/image;s=320x240,4,19295.75,4247.5

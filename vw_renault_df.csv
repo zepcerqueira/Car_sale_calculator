@@ -1,0 +1,596 @@
+car_model,car_brand,car_full_name,registration_year,km_to_date,sale_price,fuel_type,transmission_type,sale_picture_link
+clio,renault,renault clio sport tourer 1.5 dci limited edition,2017,73990,14950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imr0mxjuywuydtrpcjmtu1revlrmufqifq.thfxaz3zowpuuuyelj-6pgc7-zdttgpso2wtl5-xdce/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique s 83g,2015,165000,11200,diesel,manual,none
+clio,renault,renault clio sport tourer (energy) dci 90 start & stop limited,2014,169000,9990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imu0ymq2a3cyznvlntitu1revlrmufqifq.njzlph347prirbkvjmabqus-vzgnve26czhey7lyfym/image;s=320x240
+clio,renault,renault clio tce 90 dynamique,2020,42650,14970,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpyag83bxnsn2xjadetu1revlrmufqifq.69rcyt2jmt6o8zh2bpkhjddsns8hiqoulx0ysf0lpy0/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci gt line,2017,163450,13650,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imfsodd6z2c3athibjmtu1revlrmufqifq.emzzwssmcxqb4m41zvr2ijecjplbtemdrc1bcdemube/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2021,59750,15180,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imlrywt0ampwown5nzetu1revlrmufqifq.mawftevrj8qzzyf5exxko_p1yegq3dhgfnarinvgzu8/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2021,53731,15180,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imrlmhdsdnhuedrqddetu1revlrmufqifq.igfid-uhvh7pmyguavfszgli1axsesnyhvtgzanf0gk/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2019,130000,14550,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzybxlvbmg0a3g4ay1tverwvexqvcj9.gkllqtbdonsoytzivekoo2sm4lx7elftngyi4sgomey/image;s=320x240
+clio,renault,renault clio energy dci 90 edc intens,2016,94000,14950,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtrexn6d21nagzpntitu1revlrmufqifq.fbodaddjhozdkilwvfjx7zfdakpf3psofhc2o8nn_oe/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline,2020,78000,15900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iny0odrly2k3d3vlbjmtu1revlrmufqifq.y3t71b1rrqfnlg7fj6gtckllipsfedkj1qkleyfkpcs/image;s=320x240
+clio,renault,renault clio sce 75 experience,2020,21000,15500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6impietbtagfxmgjuzjmtu1revlrmufqifq.f-qgx4yw0g1lmsl2s-vgo2cxlmrkigjfkrfyqbnh9zi/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,92556,16250,gasolina,manual,none
+clio,renault,renault clio 1.5 dci dynamique s,2015,105000,11500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imxmehrknzzpdhgzzzitu1revlrmufqifq.zz38z8g9gzgyfnc2ed6npg0l3zvzpou7gp3vxx1qhse/image;s=320x240
+clio,renault,renault clio 1.0 tce evolution,2022,12962,18290,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ine1dgdqbwq4bjzpys1tverwvexqvcj9.itemctv4osnq2ermuiglqjhgug4bjwas_vv4zg8p5iq/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,77000,15400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im9jzja1mzuzdndjnzetu1revlrmufqifq.yitesqqzqoshwvvea8cjzrasfy-wsyhwqtpzfb7qlec/image;s=320x240
+clio,renault,renault clio 1.0 tce rs line,2022,20258,19990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innxbjvxeglpege0ay1tverwvexqvcj9.twgevokcxo4qmhawnb5kocbdjjfdmgd9yaq68mzy60w/image;s=320x240
+polo,vw,vw polo 1.0 tsi life,2021,19092,19490,gasolina,manual,none
+clio,renault,renault clio 0.9 tce limited edition,2019,116000,12990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijvtndf3aws3mnn0zjmtu1revlrmufqifq.f2re5khun1a_v1on1cycz-7w_vdcifbnchihv_fgsd4/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique s,2017,94000,14990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijr5bdluzdrxbda3otmtu1revlrmufqifq.1517iyhbuwaovf1ywwjfkbmaxnp_m6x9c-w2-nq7wwa/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,185994,12480,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijvpywq5ddn1cm1jadetu1revlrmufqifq._sis4cl_cokjzc_e1oygjqxbadxsarlzq1obk8c5aii/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique,2006,268114,5650,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzommtmd3z4emcxdjmtu1revlrmufqifq.t_aebfw4oustytt0bgze30ienl3o7riirbjvsxtvlqu/image;s=320x240
+polo,vw,vw polo 1.6 tdi scr comfortline,2019,182256,17250,diesel,manual,none
+clio,renault,renault clio 1.5 blue dci intens,2019,120000,14990,diesel,manual,none
+clio,renault,renault clio sce 75 experience,2021,85000,14490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijf5bnb6nxd4zzg5ntetu1revlrmufqifq.pp7ieuba9p2kcfyxedguoccpqccvnp0fqfc-vrjy-vw/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2021,50181,17900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infzdw5lmmo5zndhbdmtu1revlrmufqifq.acrrjus3akapxmuut8iefmyixhrdrnny6ajf5gpkahc/image;s=320x240
+clio,renault,renault clio 1.5 blue dci zen,2020,100697,18500,diesel,manual,none
+clio,renault,renault clio 1.0 tce limited,2021,73000,17500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijuwyw4yb3bqbxnteditu1revlrmufqifq.on-6howxebau4yxzhtdjlvhx3xggh5znuuknenbvrlq/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2017,138081,13450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijvpajjxngczzzcwzzmtu1revlrmufqifq.x55v0u-goxjtvbwbso_fi31aicwldfbk-n9unad85sg/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited,2020,32000,16950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6impodmhyeg00a3g1cjetu1revlrmufqifq.e7tdvumnqndkduh0yly2wf6a6nhmarrsvtrdtjrxmns/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2018,47586,13990,gasolina,manual,none
+clio,renault,renault clio,2018,134730,14440,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6img0mnawbm9mdg82yy1tverwvexqvcj9.dkupeyqq_dlvnb70l4eto3gajqegr-li_udmswv0yqq/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2022,25500,18950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbobzhxywl5owhyytetu1revlrmufqifq.miedccqymascfbf8-ylbuecwfmwnlnuc9e9fzdih22o/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique s,2013,158168,9450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijjjyjmxogg2eg05cdmtu1revlrmufqifq.brxppjteb_fsczwjve-bnzvunoof67youjdis6ugt4a/image;s=320x240
+clio,renault,renault clio 1.5 blue dci zen,2019,73000,17750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbsb3u5anjicmcyztmtu1revlrmufqifq.2ycakqxs8scvlu6ilwlb69dlw7ergre5u4nl0momp8g/image;s=320x240
+clio,renault,renault clio 1.5 blue dci zen,2019,34000,18250,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im96axzwdnrydhvzzditu1revlrmufqifq.1nes_xskxfd6_0we1-h0g6tggshgwcgryl6v_kblhh4/image;s=320x240
+clio,renault,renault clio 1.0 tce rs line,2020,38000,21450,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iji5dgl2d2u5z25nctetu1revlrmufqifq.q5jrwkedcxkdsscs5_wzqbcjndl9s2eyaxqg7gbmmie/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited edition,2020,139974,14990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtnb2hoyw14ohv0cjitu1revlrmufqifq.ufj1brgqbkcogpchqktlu87oxlktem3u4xxmyyafpq8/image;s=320x240
+clio,renault,renault clio 1.5 dci limited edition,2018,93862,14990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imnrmzh6y2h3azdunjetu1revlrmufqifq.d43ay69dvxi8m6le3fkpprtezg8jqgqtjt79th2pnyu/image;s=320x240
+polo,vw,vw polo 1.0 life,2022,49857,17890,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im1py2z5ddzizm54btetu1revlrmufqifq.mayguqbqlvl5cr6xiwfmbrhutpslrf4xypmcvigx_tq/image;s=320x240
+clio,renault,renault clio 1.0 tce exclusive,2019,49000,16950,gasolina,manual,none
+polo,vw,vw polo 1.0 tsi confortline,2021,38539,17750,gasolina,manual,none
+polo,vw,vw polo 1.2 tdi highline,2013,180900,9850,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzyd3npedjxdhe0zy1tverwvexqvcj9._ihcarwnbo75lgxy19v8kqrggtv8xmv6xmzisbcrka8/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2018,91000,14900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imxpa3yzbhzpewsxbtitu1revlrmufqifq.ccnh-znrv_ngaw5n1blaximnnt7rwiu165zge5fyqeu/image;s=320x240
+polo,vw,vw polo 1.6 tdi trendline,2019,128000,17500,diesel,manual,none
+clio,renault,renault clio sport tourer 0.9 tce limited,2019,33025,13500,gasolina,manual,none
+clio,renault,renault clio 1.0 tce rs line,2021,79503,18990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6impvdgnwodbyzdz2otetu1revlrmufqifq.hdg2hnsz9odit1hnix_zh2epdqs_t6jnclsonjl6rwk/image;s=320x240
+clio,renault,renault clio energy tce 90 start & stop intens,2014,68000,12900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inmwnm50dgrpamlycdmtu1revlrmufqifq.di1ab4q3kxpxh2mkan-kiozo8dsfbvs07u7jvq2qhcm/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2021,26407,18950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invlbwtim25onmpybs1tverwvexqvcj9.ul0awaje0hd7xi7xib74idtbfanfcdz13hkvtczzgfi/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2016,84555,12900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijlpewvvewozawg0ztmtu1revlrmufqifq.a2cegwsmx7iyzxpp6squqhpt3gqrjicuxum4-jc13tk/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2017,139000,12990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijlhbmn3emj0d3axddmtu1revlrmufqifq.fyt246g3yxt9is8wdu5om3zgjyumjszpzt0ifu0ldfa/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci dynamique s 90g,2015,103000,12490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijiyetzkyxeynxf3mditu1revlrmufqifq.alze7opwicwb1aanzki5pcsejgvcy8dzywtcd6cytmq/image;s=320x240
+clio,renault,renault clio sport tourer,2018,125000,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijvznxmwz3pumtlhetitu1revlrmufqifq.fylgu0lhtvivqhpucg9wnec6wjkcdjyoaxch7_6llno/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,105000,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imz4b2e3dw5zoty2zdmtu1revlrmufqifq.5agyv0bmiuoyepyads1b-3kaim7yjduui_svhwla_xi/image;s=320x240
+clio,renault,renault clio 0.9 tce zen,2017,140000,11990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijhpem90dzjjzw1lntitu1revlrmufqifq.nc9w2odcdlg1hoohst2uc4rm0ffi6itj5sx7itrkz-y/image;s=320x240
+clio,renault,renault clio 0.9 tce zen,2019,94000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijntzgu2cnzrbdvuzs1tverwvexqvcj9.kag8jmo0zdway9inyojxd7xa9simjwf-5pnop1ozx8w/image;s=320x240
+clio,renault,renault clio 0.9 tce,2017,73660,12990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innvzmw1ajdmatvqbditu1revlrmufqifq.z-vu5xfcgxvfhtscifn1lhk_cclg1iydioamqtcha2s/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited,2016,87586,11500,gasolina,manual,none
+polo,vw,vw polo 1.0 confortline,2020,14000,16350,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inizddnznzdyohbjyy1tverwvexqvcj9.misoqvvkapxkzkpkhtcm8chcyf6tnrs9bnzcp5lq0_q/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2021,59000,15400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inc4mznjmhdtoda5ztmtu1revlrmufqifq.e6aibvkef1hexr5kyu4zltqxn1rp-8jeceq7frfhcq8/image;s=320x240
+polo,vw,vw polo 1.2 highline,2009,163000,6750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijg4bza0b2x5enn1mtetu1revlrmufqifq.osikkt1imrml_askqfhlkeiumoai_1rnin_noql6s78/image;s=320x240
+polo,vw,vw polo 1.4 tdi trendline ac,2009,193000,7350,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inblzhjrenrvodh6yi1tverwvexqvcj9.9g4e-qyrcymvti3avie1f1wwq6oae-htapfwit6xtu8/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2021,49000,14950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ims3zdmyc3p6eth5bdetu1revlrmufqifq.vkcqvrznbzzzag2tsjrsmnnoqx1yzacgeavoixwbai8/image;s=320x240
+polo,vw,vw polo 1.0 tsi trendline,2019,61000,15750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijhzcmz3d2zpbdhmejitu1revlrmufqifq.q-fzp2c3ipgvlkjh83ozkboakxa4g04gdxgfk4apnua/image;s=320x240
+clio,renault,renault clio 1.2 tce gt edc,2014,98297,14650,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inu1nwttnhe0eg1hni1tverwvexqvcj9.nzvtviy0r_eiib3rl84nun2bmk1z_ytnkll_esk_ami/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2019,129000,14350,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijkwnxbwbjhtewuybdmtu1revlrmufqifq.dmyiaoqu02cswp9w0urybeujscbcak9_1hknq2oqoru/image;s=320x240
+clio,renault,renault clio 1.0 tce rs line,2022,29505,19990,gasolina,manual,none
+clio,renault,renault clio 0.9 tce limited,2015,88614,10999,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inh0ewd0agt5ngtyodmtu1revlrmufqifq.7rlf9e7pucwpymb9j8sx4ahbpkfgaj8fvoav_sdhasw/image;s=320x240
+clio,renault,renault clio 1.0 tce rs line,2022,32976,19990,gasolina,manual,none
+clio,renault,renault clio 1.5 dci zen,2019,167332,12900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imnzbdu3n2l3mgu3ztmtu1revlrmufqifq.dtouizkhns82pmef29qjfmmjzy63g1_5u4vljbeugqo/image;s=320x240
+clio,renault,renault clio 1.5 dci confort,2017,154000,12990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injtzjkwehdpdhd5bditu1revlrmufqifq.yb0suijjul6d6vfdxrgahfep4rm2ertx7zbbpmc6ayu/image;s=320x240
+clio,renault,renault clio 0.9 tce zen,2018,32000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijlxa2iycxrummhlzditu1revlrmufqifq.jbs7e5nrt7ybrvkulodwfwxydn9ur5nn3c76v1pnk-o/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2018,88000,13490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imq3mjl2dmrjegezbtitu1revlrmufqifq.67l5dbeilgprqfefcalcuwlachbxgqzr0zp1a4scjri/image;s=320x240
+polo,vw,vw polo 1.4 tsi bluegt,2016,89031,15000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im56zgtzewv0mw5xbdmtu1revlrmufqifq.mjg0jev8mhxqv7yoz7irw3pyh9atmml5e4qwa3ozzoo/image;s=320x240
+clio,renault,renault clio 1.0 tce evolution bi-fuel,2020,18000,18000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijzybxr3m2drzhu2ds1tverwvexqvcj9.eyharmzl_mfso61ynmojg5uex6a-uunuxrvl8w1u9ms/image;s=320x240
+clio,renault,renault clio 1.5 dci limited edition,2018,115000,14250,diesel,manual,none
+clio,renault,renault clio 1.0 tce rs line,2022,29589,22740,gasolina,manual,none
+polo,vw,vw polo 1.0 tsi life,2023,1400,22500,gasolina,manual,none
+clio,renault,renault clio 1.0 tce limited,2021,63834,17790,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijhzmhjxd2jmoglvndmtu1revlrmufqifq.dqd2tyaygfxrwtswfgn_6t9z-f-ufg1ljiiij0y63og/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline,2021,46045,18400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbhanz0am9xbjzybjmtu1revlrmufqifq.z6pro_aej0tsclelbqvob1unmai5tpxzisavxaqsbaq/image;s=320x240
+clio,renault,renault clio 0.9 tce confort,2017,14540,13500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inp2ndvtngf6cnnvzy1tverwvexqvcj9.pgvolm9rij4yr3e4ykqol4t-ef03s1ggsknwucrg1vo/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,41235,16000,gasolina,manual,none
+clio,renault,renault clio 1.0 tce rs line,2022,27025,21750,gasolina,manual,none
+clio,renault,renault clio sport tourer dci 75 expression,2018,169000,12900,diesel,manual,none
+clio,renault,renault clio 1.0 tce rs line,2021,21800,19400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imjwewc2nnizetbjejetu1revlrmufqifq.wo9tlex1fabqazwau43ydmij9wyixk9f9qhcdonhb8q/image;s=320x240
+polo,vw,vw polo 1.4 tdi r-line,2015,134900,12400,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imnxddh4b2vlnhj0zdetu1revlrmufqifq.yqath8lqwjo--9nqldhhixxzv-jmtzovev6btksedbg/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline,2021,70930,15900,gasolina,manual,none
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,135000,14450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injzzgn5zty5a3jnec1tverwvexqvcj9.drj0jxewyg1herhfenlsrmbi7j7pdb7xtgdmtln3two/image;s=320x240
+polo,vw,vw polo 1.4 tdi lounge,2015,180554,11500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inrvbmnkdnjvow1ladmtu1revlrmufqifq.3yfpl3-usx762dp8m41shorkgzhdyl5uibqunb-oul8/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2019,55208,13900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im1kzg1zanv2djhkodmtu1revlrmufqifq.2sbqmrulwan-tjovffdkvctghzab7mllwjp2uuqmtn0/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2018,33245,13480,gasolina,manual,none
+clio,renault,renault clio sport tourer,2016,167000,11500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inu4atj2ehptcmzoytitu1revlrmufqifq.eszk0ugjal0w02rvgw2j71bfuxpici5y7evioqkopig/image;s=320x240
+polo,vw,vw polo 1.2 tsi connect,2017,40414,13490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imrsbnlkewi5ywr1cy1tverwvexqvcj9.5hb7og36xrm-5ethlxg-lznfqhorvts5owlvpasgso8/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited edition,2018,140000,12900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijyxn3jxmtu0nzzvzjmtu1revlrmufqifq.gcg3nu3wekv41hjjvrrwmle5g9ka0mtczwkzxz6bmi0/image;s=320x240
+clio,renault,renault clio 1.0 tce exclusive,2019,73000,17950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6impjzjkwcnjpa3n4ajmtu1revlrmufqifq.zqvmid65c6ib6g8iip6jkx64te6iei_yiqmiv6ftrui/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline,2021,38780,17490,gasolina,manual,none
+clio,renault,renault clio 1.0 tce evolution bi-fuel,2023,9000,20950,gasolina,manual,none
+polo,vw,vw polo,2016,169347,11990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijlxdgzkeg5wetvxnditu1revlrmufqifq.ujlff0grhkzkjg3n0ay6weer9tdkaymic_pwvt3tqtu/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2022,25232,17990,gasolina,manual,none
+clio,renault,renault clio sport tourer 1.5 dci luxe,2014,235087,8990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iml2bdvuadbkmwn6odmtu1revlrmufqifq.p_gq3bzpa1k5oidyxlt6pnzotaxnt1n1lkpth0phdnw/image;s=320x240
+clio,renault,renault clio 1.5 blue dci zen,2020,104944,16500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijgxbxnsodfqbmxwbzmtu1revlrmufqifq.seasceucu_btsmgq3o9cjhmthsqbg8fkjtufkjkda_m/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,223192,12490,diesel,manual,none
+clio,renault,renault clio sport tourer 1.5 dci zen,2017,124000,12500,diesel,manual,none
+clio,renault,renault clio,2007,253200,14499,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijkxewjzmw5ymxozdc1tverwvexqvcj9.7x3hthxn6fhb7prntslatm9fc-xzmc8_hnaldpnbbk4/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci dynamique s,2017,139699,12250,diesel,manual,none
+clio,renault,renault clio sport tourer 1.5 dci zen,2016,133000,11990,diesel,manual,none
+clio,renault,renault clio,2021,51000,16900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imr6bxnmagxzenp4cjetu1revlrmufqifq.ttzef1oh9pfxmjmfkl1cwt087bjpfjatzckhy2ecs5u/image;s=320x240
+clio,renault,renault clio 0.9 tce confort,2013,190000,8490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijf4ajuzndcwm2puni1tverwvexqvcj9.nxivdogztwulytw2jjzmx4ltrifwxoyqroxhjz-xoje/image;s=320x240
+clio,renault,renault clio 1.0 tce exclusive,2020,80184,15740,gasolina,manual,none
+polo,vw,vw polo 1.6 tdi trendline,2018,108245,14990,diesel,manual,none
+clio,renault,renault clio 0.9 tce limited,2019,49327,13990,gasolina,manual,none
+clio,renault,renault clio 0.9 tce limited,2019,61000,15990,gasolina,manual,none
+clio,renault,renault clio 0.9 tce limited,2019,103000,14490,gasolina,manual,none
+polo,vw,vw polo 1.0 tsi confortline,2022,29108,22000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injjb3nzognxcjnmzy1tverwvexqvcj9.jcmt9wrdsb_u6e9zxztkoobwc4j8mczsgttrmgjnz9i/image;s=320x240
+clio,renault,renault clio 1.5 blue dci intens,2019,123798,15900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imewyxnxmgrpchzubs1tverwvexqvcj9.5a-4vz6ouqzabmgmod9h1gc8s-hfrshfc2ljkpr6brq/image;s=320x240
+polo,vw,vw polo 1.0 trendline,2018,69033,14400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inmzznn4n2vjowvvcjetu1revlrmufqifq.0y-3zaotp0hykka3pxmts-6lxjhto-hhuhy6khqc9ia/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2018,160000,10900,diesel,manual,none
+polo,vw,vw polo 1.0 tsi dsg comfortline,2019,125000,16900,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imw0m2cwejfzagdudtitu1revlrmufqifq.wimu5urep5gwkmf-dn4behofo8v0ejfs4xzok4xoaw0/image;s=320x240
+clio,renault,renault clio 1.5 dci luxe,2017,84000,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inv6nja3ngjma3zmbzetu1revlrmufqifq.r8mudrfzh8sqj4tvfzmfimoodfjvkpmqjfvhlae9ruw/image;s=320x240
+polo,vw,vw polo 1.0 tsi highline,2018,68968,16950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inljbtzxzdjhehb3ctmtu1revlrmufqifq.tclepeaohii6yqceurlsf-vza5epwv-wpefunr8ibca/image;s=320x240
+clio,renault,renault clio 1.5 dci limited edition,2018,113000,14990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijrnnni4b3b6ags2bzitu1revlrmufqifq.r_oopobzzdgknho_1opnosark0vwwii4qy-cfrnmwzs/image;s=320x240
+clio,renault,renault clio sce 75 experience,2021,75000,14490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzycgo4cjz4emnznjitu1revlrmufqifq.b2ou7squy6g1pt31jwimyelbzv0bvdmbnxgqawzam7k/image;s=320x240
+clio,renault,renault clio,2019,86000,12990,gasolina,manual,none
+clio,renault,renault clio 1.0 tce intens,2020,79178,15990,gasolina,manual,none
+polo,vw,vw polo 1.0 tsi trendline,2017,106538,12900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijh0b2o5ddbszwnxcdetu1revlrmufqifq.ly8nhbopsjo-ccptfzvcmyubhpnwqm8xysd1i6ihc88/image;s=320x240
+polo,vw,vw polo 1.0 confortline,2018,65000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iny3nwq4mnfqmdbjajitu1revlrmufqifq.dft6gths-sq7hkidy7cfhpbudd4bnirzfgnzj510gee/image;s=320x240
+clio,renault,renault clio 1.0 tce intens bi-fuel,2021,14000,16500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpiehh6ntnjntrqcditu1revlrmufqifq.hjsyh5l5x-qofobz4pi6vuf3otk4w0h18phgbgtalfm/image;s=320x240
+clio,renault,renault clio 1.5 dci gt line,2017,107000,13900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbozg03mhzxzxq2czetu1revlrmufqifq.czgb_4x-qijiievpmv87ogfrv10jfksi6xafyigocxs/image;s=320x240
+clio,renault,renault clio 1.0 tce equilibre,2023,790,19250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imx0nnkzmm9naxlwdi1tverwvexqvcj9.i_tcziwlkrfa59ym_dipp8wkgqeyipyy831ghdufyms/image;s=320x240
+clio,renault,renault clio tce 100 intens,2020,74000,15750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijn4mnjnntrtagg3ms1tverwvexqvcj9.yswpgtibzpqpwaxotn7hbnysxrrpzgvr9n2rh5k4jds/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2019,118200,11990,diesel,manual,none
+polo,vw,vw polo 1.0 connect,2017,81545,11750,gasolina,manual,none
+clio,renault,renault clio 1.0 tce limited,2021,50150,16750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imd0nmd5y2s2n2s4djetu1revlrmufqifq.u-ewa2-m9hi-r7zcrg6mw3yy-91xydvsl2heg_due0c/image;s=320x240
+clio,renault,renault clio 0.9 tce,2015,188570,8900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijfomjj1ywlibxbyajetu1revlrmufqifq.flrd6daezyrkkkfkeol9telw647uevkyrshjwducymi/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline,2021,65000,17990,gasolina,manual,none
+polo,vw,vw polo 1.0 tsi confortline,2021,57500,17990,gasolina,manual,none
+clio,renault,renault clio 1.0 tce rs line,2020,32024,17950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtsywnpawfkywj4zjetu1revlrmufqifq.ydhb99rtbkosirdi8rgex3sf2w0uvb7yjuzy2e2g09a/image;s=320x240
+clio,renault,renault clio 0.9 tce zen,2019,79500,12990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inp0mgxmdzk4otzjadmtu1revlrmufqifq.lnsl_4h3c1-fuk5liph6zs2_pfj1c9u_qq0xoswufru/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited edition,2018,94296,12990,diesel,manual,none
+polo,vw,vw polo 1.6 tdi confortline,2019,166024,16990,diesel,manual,none
+clio,renault,renault clio 1.0 tce evolution,2022,25639,18290,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inm5dhoxa2sxbw13yi1tverwvexqvcj9.szbqb02jz2r1hbno_dy2ki4agrf5dkcynjbiw9llaoq/image;s=320x240
+clio,renault,renault clio 1.0 tce evolution,2022,18492,18290,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iju2zwhwoww4djnpnjitu1revlrmufqifq.vq1mza6idy4e34wtuc85zkcvtdiomk0isceg1swwb3u/image;s=320x240
+clio,renault,renault clio 1.5 dci confort,2014,79000,10650,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbrmnfwnng5mxgyni1tverwvexqvcj9.tnbgtwyfnrbaf1irotuickbhgjsl-ssr4t10wky6xro/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2016,147057,12900,diesel,manual,none
+clio,renault,renault clio 1.5 blue dci intens,2020,150068,13890,diesel,manual,none
+clio,renault,renault clio blue dci 85 experience,2021,66199,18500,diesel,manual,none
+polo,vw,vw polo 1.0 life,2022,47815,17890,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijrly3pubgnodtezzjitu1revlrmufqifq.ks4yw4kadlrcv8iqky1zpdmpk2zvsczb0va3meq8nue/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited edition,2017,66455,15250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innrzxk3c21kcwwxyjitu1revlrmufqifq.yyzrcvruagu5w7lmqyxsqykzpz7jh5rx5eyq0vs1tnk/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited edition,2020,58573,17250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imhtmwh3zzvxbxd6njitu1revlrmufqifq.kk_5gh3v6answpew9yewpbogxor4xkx_b0x7oveqvwq/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2022,29556,18500,gasolina,manual,none
+clio,renault,renault clio 1.0 tce rs line cvt,2021,69447,21790,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijy0anjzdmo1yjv4cdmtu1revlrmufqifq.gxi_gd9olrq7siky1d-xmchkzt0s0ke-qjklcpy7qey/image;s=320x240
+clio,renault,renault clio 1.0 tce zen,2020,74980,15380,gasolina,manual,none
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,214914,11290,diesel,manual,none
+polo,vw,vw polo 1.0 tsi confortline,2021,42000,18500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijrjdjm3m3aybxvzzjitu1revlrmufqifq.ohu4gkluqopt8feutdnfmmdzig2fv83qbda4uydif5e/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce zen,2019,135000,11990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzxdxfjnwjzd2kwazmtu1revlrmufqifq.hvk9moowia_82ljxtgjsyofaafjjbwjpsvrggdz4xua/image;s=320x240
+polo,vw,vw polo 1.4 tdi lounge,2016,64633,14490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imj5ync1axe4dwtmdy1tverwvexqvcj9.pguj6gpg-wfjmc-y9yfbbcnpeo6qqmkuagdusp6rdx4/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2017,87000,14990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijm0awfjd2l1dwvzzy1tverwvexqvcj9.tml78nmivw83qb_djmmuol6mrdq3dztydfydseeult4/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2021,60750,16250,gasolina,manual,none
+polo,vw,vw polo 1.2 tdi blue motion,2012,137000,10000,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzwdgf4dmjqc3h5czmtu1revlrmufqifq.j99psfn5mswk692ppwd5erw0us3nile5j3y_wmsq3cs/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,28399,18490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbpmgrzyxlsdzz4otitu1revlrmufqifq.nbk9rkg5ncyzi0dwtwzcti7jnxt89yohwvyljndkxnm/image;s=320x240
+clio,renault,renault clio 1.0 tce exclusive,2020,22241,18750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inv2a3izzxluam51mi1tverwvexqvcj9.qdfz63tgghezekryax1bu-ahim0wqp9na1fe6hbgyue/image;s=320x240
+clio,renault,renault clio,2018,54984,15750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invvamj4anjtczljys1tverwvexqvcj9.en1c6zalynbri68t7uehu2m6cnx261sjleu5y5u-cts/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,22022,17990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imp0zjuwbdrnbxfkbtmtu1revlrmufqifq.vnd373lmvlwpmfdnk_oe4mdeksgkhfynyjkd6-pmuk8/image;s=320x240
+clio,renault,renault clio 1.5 blue dci intens,2020,85034,17900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijhya2s1amzhotfxetitu1revlrmufqifq.xkfl9hascgpvqechlgh6tkeiwhwblxhsr3ap17acdwq/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,34446,18750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijvua20xoxgxy215cjmtu1revlrmufqifq.h-5zz3z7pmjfi1ia-oucm6vwz_gqsiorazswmoaitsy/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2016,125966,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6indjyxpqb2s2ndm0ddetu1revlrmufqifq.yhw_wyezny8yx6u0oom6eaznj5xkrfkfozjgf-h4zxu/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci zen,2018,108000,15750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbqn2hxzgribxjletetu1revlrmufqifq.jy8prmd47a4z4ysgaeouioridtplqztz6nrlrivydf4/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited,2018,70615,14300,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imdldgnxzggxejmybzmtu1revlrmufqifq.gaqeid7feb8sahry4ap7ei9mmaugqhaj_fwkdbv75s4/image;s=320x240
+polo,vw,vw polo 1.0 tsi life,2022,33000,18490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpkmjlrdzd1dndznzetu1revlrmufqifq.bgjp8y0cfdyaxlprxtrztc1foiol9jb9gnwgfunvoj8/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2018,151200,14400,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6impozhhintqxc2ltzzmtu1revlrmufqifq.9bx-s2wemh1kzb7bza9wjxpzwnncpqhcbchmfprmplg/image;s=320x240
+clio,renault,renault clio 0.9 tce gt line,2017,106000,12500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iny0ndl0cjcybgv1czitu1revlrmufqifq.ew07cwi5jhqmqtq6lnhiwfvzvmwau2pey0anokuwugg/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique s,2014,127000,12750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injnmdvuagnhnhdonditu1revlrmufqifq.ulquzmtzmzbvln4qtxpkbnhx_iahbdrte5-jh5yb0vm/image;s=320x240
+polo,vw,vw polo 1.2 tdi street,2013,105000,9350,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inawbhpjb2dzzxdiec1tverwvexqvcj9.cr_vntxl6gun-kveiq-abz2uef0xudpjra-atwwgo0c/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,80992,16400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijzrztdmogmxdxltei1tverwvexqvcj9.btgfanoew05ehaeeihkjsbcp8kuecp7qiq5czfnpexm/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2017,69628,13750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imxsbmswadk5mzfznjitu1revlrmufqifq.thcdthnyqymw5bzjah-svacottneqx42_4d8fgexxgq/image;s=320x240
+clio,renault,renault clio 1.2 16v 75 dynamique,2007,238640,3860,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijkxagyxyjr4bmhsds1tverwvexqvcj9.ii4icq8yhc226hunaryhspc4ws19unacz8pnz_sxxe8/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2018,72000,13950,gasolina,manual,none
+clio,renault,renault clio sport tourer 1.2 16v 75 luxe,2018,115000,10480,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imd5mxawcwtqzwk2otmtu1revlrmufqifq.-orq8zmsdomqlmow_ggenuwfrf7dbm0ve8shub9fkfa/image;s=320x240
+clio,renault,renault clio 1.5 blue dci rs line,2020,95000,18950,diesel,manual,none
+polo,vw,vw polo 1.0 tsi confortline dsg,2018,98220,18990,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infmnjy5nmxqnju1ntitu1revlrmufqifq._179qb1xmd0naamgvzk5slddm6_i2fje9lph0jv9zm8/image;s=320x240
+polo,vw,vw polo 1.0 trendline,2019,71932,13990,gasolina,manual,none
+polo,vw,vw polo 1.6 tdi trendline,2018,128444,14990,diesel,manual,none
+clio,renault,renault clio 3.0 v6 sport,2002,23950,69500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injyndi2otvmawo5bc1tverwvexqvcj9.4wb9hmztnt8cj1dhmjsnnkpywsdhk9h1-_ldxryv658/image;s=320x240
+polo,vw,vw polo,2017,97500,12990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im11nzlrmtfpdmv5cs1tverwvexqvcj9._cxchs9k5aaejxtdc7m85kco4uupsfi7y-lzk43hzdm/image;s=320x240
+polo,vw,vw polo 1.0 confortline,2018,54000,13900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ine3ztl3exp1mjd5bdmtu1revlrmufqifq.kyiqpy0oj_jclxim44s-6-udwcmdlfevt2hviy8vkjy/image;s=320x240
+clio,renault,renault clio 1.5 dci gt line,2018,128203,17250,diesel,manual,none
+clio,renault,renault clio 1.5 dci limited edition,2019,83000,15250,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijjhdwgxmmv5adzvntmtu1revlrmufqifq.r5cs0m7gemvzvyvanru11lkdcoggfsoep6ikea86tm4/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2019,78704,14900,gasolina,manual,none
+clio,renault,renault clio,2020,97250,16900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imphd3a4m21umdvoyzetu1revlrmufqifq.hrjkg7zgadcbkrunp0mftwnmddaym5hk6pfnn9-v1sk/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2018,100700,12890,gasolina,manual,none
+clio,renault,renault clio sport tourer 0.9 tce limited,2020,62156,15499,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injpyzizz2q0yjh6mtitu1revlrmufqifq.6qec8ps7vxd0mrsh34goyefwgtr1rv8vauafh3l9gwm/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline,2019,113301,13400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbiz3pwamt4zzlmmdetu1revlrmufqifq.gnsynzezfg0vdrake-sb3xsqoa2zt06cwlrmpjjqr28/image;s=320x240
+clio,renault,renault clio 1.5 blue dci intens,2020,72900,17990,diesel,manual,none
+clio,renault,renault clio 1.5 dci limited,2018,159270,12490,diesel,manual,none
+clio,renault,renault clio 1.5 dci limited,2016,135500,12500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijc3d2nhdw9ly3byzditu1revlrmufqifq.rno36cwhruoammthxztlcufrqhpuh8rcavz5-r_3wdo/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2016,125872,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inv5y2fnnjn2ymrpyzitu1revlrmufqifq.gmxe4fehryaukiz_zaxxjmcp0ntjombljvkus5jcuvc/image;s=320x240
+clio,renault,renault clio 1.5 blue dci intens,2020,87930,18900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijyxmgl3nnppahfqyi1tverwvexqvcj9.qm-vygvclu5hqj57lcwgenwuaaebl4o0xudoimwowog/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,34445,18750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inv1mmtuogh3awq3ns1tverwvexqvcj9.vxmkqsang5oqqvqkz7dlluoqegzrki_ko3y7tgw-dt4/image;s=320x240
+clio,renault,renault clio 1.0 tce exclusive,2020,22240,18750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infuoxexc2rqd21kmzmtu1revlrmufqifq.a5rw15f-noca-foynuwasmgwokktxfcgaknghghewo8/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2019,73222,13900,diesel,manual,none
+clio,renault,renault clio 1.0 tce exclusive,2021,59390,16250,gasolina,manual,none
+clio,renault,renault clio 1.5 dci dynamique,2010,180000,7480,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijflawqxazdpdxi1zi1tverwvexqvcj9.bg0jmtq8vcq_4t8ap84fuazzpzlkzulmu1utiv51iq4/image;s=320x240
+clio,renault,renault clio 1.5 dci confort,2016,107000,13950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbymgfqmhningl0bdetu1revlrmufqifq.tv3kvtpb-2bwgtz9drphxqx20nc0eexjbgibvrdu94s/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2017,112000,13250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbzb2hwmdzid2n4dtitu1revlrmufqifq.hpcnalvef-jih1jwdwwwoshnncihcnps4f9vffvdg4m/image;s=320x240
+clio,renault,renault clio sce 75 experience,2020,52751,16900,gasolina,manual,none
+polo,vw,vw polo 1.2 confortline,2005,42000,5980,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijn0axjtammwy2lrzs1tverwvexqvcj9.qsebz6wws-ixs03fr9m3sqfxpedc2bbdv0fqdf14yb4/image;s=320x240
+polo,vw,vw polo 1.6 tdi confortline,2018,97888,14500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inm2cgo5zdd3a3jjay1tverwvexqvcj9.cyjmg3yizn4geeqd8ayaodylnyv3mblbjcoqxpxszng/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2019,79400,15500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imnhzdrncmpunmjryi1tverwvexqvcj9.poadfsbqioud1vzmhvyvopzteb1bn001knujjbs9cwe/image;s=320x240
+clio,renault,renault clio dci 90 dynamique,2019,61000,14990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpxatnzmtvmc3lundmtu1revlrmufqifq.7_-0keuv5emb8iuybrhmxrfczvrb2ew1lisek6s6_u4/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,72473,16400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ije0ync0bhz3z3rqzzetu1revlrmufqifq.mfq4ckuncrxaizrsunlvogorqsp-u8ahsjgxhsr4a8m/image;s=320x240
+polo,vw,vw polo 1.3 gl,2001,134343,3750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inficmo4z2jlngq2dtitu1revlrmufqifq.xdqm_udqdznunspjxgoy1j6kxmgoozwdgayleme1xru/image;s=320x240
+polo,vw,vw polo 1.0 tsi life,2021,44990,16950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inlsbhpoajv0zzfqetitu1revlrmufqifq.bkenv0hn21cjmptcjp42ftvlmfwnwvcmwbrmt84uaho/image;s=320x240
+clio,renault,renault clio 1.5 blue dci rs line,2020,91000,19750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inc1m2c3ogw5yxuwmzmtu1revlrmufqifq.mch-aaitjqoczg-6u0g25ejsubailnvdhlltmqq5vry/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2018,109000,12900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzpz3n2zgowzg84mdmtu1revlrmufqifq.dekdmmlsysxnau7kdg8q1tbdxgtkokvnvpvbehaae9s/image;s=320x240
+clio,renault,renault clio 1.5 dci limited edition,2017,185000,13950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijhicwlzejczd2xwczetu1revlrmufqifq.ewhkhekjkjdbsbewhsdrgmtp0icqbnztpysfala1whq/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2019,111320,16900,diesel,manual,none
+clio,renault,renault clio 1.0 tce exclusive,2019,83287,14000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im02znhiem01yml4etitu1revlrmufqifq.ocbwatyj5__kiqfieiy_imwcs00pa1ykzev8k4fpqmk/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2018,86000,12990,gasolina,manual,none
+clio,renault,renault clio 1.5 dci initiale paris edc,2018,53100,18450,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im05m3jzz3zkn24wbditu1revlrmufqifq.ujw5ypjfzqz9_3irvirvlgm4pm5nbawbyx2c8fttwiw/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2019,102500,13450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imj0mde5enltzzmzntetu1revlrmufqifq.y6patazombj8f56bm_-ymnzdd-r1vubhgqh7_c6l1bc/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2016,120000,12500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imq0ow80yzdwngtzcjetu1revlrmufqifq.cmxryyomixsnhnnbxttj-a1fpiuemgxkrq9kh8uju7g/image;s=320x240
+polo,vw,vw polo 1.2 tdi confortline,2014,79000,12900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inhledcznzllcm94zditu1revlrmufqifq.xlmmokvtdmzh5crmyvbkjbcbalkq6xa1abukokerafe/image;s=320x240
+clio,renault,renault clio 1.5 blue dci rs line,2020,56637,19250,diesel,manual,none
+clio,renault,renault clio 1.5 blue dci intens,2021,59000,17950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invydg93oxz1bhzpmjitu1revlrmufqifq.hioihopliovwrlieo7fguzpaoprrzrms4le0uzqpr_4/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2021,57000,14490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpwamnochu4eghyctetu1revlrmufqifq.3g5vqm7x6nknfzhdnpiwl18m3evynu8hn4_nusxa13m/image;s=320x240
+clio,renault,renault clio,2017,125000,10900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpqmmgxyxvsy2zomtetu1revlrmufqifq.uootmoae8ehlinolyt3tn2anr_1m3ivjxrzkegewpwg/image;s=320x240
+polo,vw,vw polo 1.6 tdi confortline bluemotion,2010,120000,10670,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijczz2k1mxhoetu5ejetu1revlrmufqifq.jfbppk1wzpnsnq6yuzxxa0_0_mejg3chtaex0fu7woi/image;s=320x240
+polo,vw,vw polo 1.6 tdi trendline dsg,2010,101350,12370,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijvumnpycgdrz3a4djetu1revlrmufqifq.ajty3maenlhbjcze1ww-mphb-gh7uyjqbcimqqpx2qe/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2018,86725,14990,diesel,manual,none
+clio,renault,renault clio 1.0 tce intens,2020,81170,17500,gasolina,manual,none
+clio,renault,renault clio 1.0 tce intens,2020,87000,16900,gasolina,manual,none
+clio,renault,renault clio 1.0 tce intens,2020,83000,16900,gasolina,manual,none
+polo,vw,vw polo 1.4 tdi confortline,2008,200852,4900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6immyzzjmzwtncho1mtetu1revlrmufqifq.fakszvjjqcairsm0bmvun5oni9uawhpdzxadypgmqi4/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2015,190000,10990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijvkbml0z3bjctf0zdetu1revlrmufqifq.q8as8rmlde2lvnjxclwhkme_rmxwzfggzhbubdv5hf0/image;s=320x240
+polo,vw,vw polo 1.0 trendline,2019,77749,13990,gasolina,manual,none
+polo,vw,vw polo 1.4 tdi confortline nav,2015,199000,11990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ina4chdhcwntcnlnctmtu1revlrmufqifq.-oq1jy12lk9rtubpc6vf8dvm-3tfulm1-cjmd7fteq8/image;s=320x240
+clio,renault,renault clio 0.9 tce limited edition,2019,43000,14499,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijztbxvjdw9lmzf1adetu1revlrmufqifq.blnvlesgda1qejscto66dzkqfnac_fzlqo8qt7harn8/image;s=320x240
+polo,vw,vw polo,1992,193000,9750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6indvew4wmtd1cwfknditu1revlrmufqifq.u0h27l61splyu8ykh0zvkpuxuqxx0p76wagxpaesnrq/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,74363,16980,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijawemt4nzh1zm1pztetu1revlrmufqifq.twidpexotf-lnacwcnpy403rahb6durpxsqyg96dpuo/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited,2020,85000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imczbmnsz2g5ztjnyzitu1revlrmufqifq.-lfw-nzr4h2ayu9_csd32umu3kucgasnctbprn_n0go/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2018,147600,12750,diesel,manual,none
+clio,renault,renault clio 1.0 tce limited,2022,1511,22990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inptmzgxywlzcjqybtetu1revlrmufqifq.ty7topomokjjxgnaodhvdwatoey8xr-l5hh-ysezoga/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2019,90342,14399,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbua2x1nzhnzhd1yzitu1revlrmufqifq.1a9olca-a21jfn8mhanwwys1ahdp6l7bwg2gjo23de0/image;s=320x240
+clio,renault,renault clio sport tourer,2018,98000,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijzxnjy3bmrkzw1lmjetu1revlrmufqifq._ilju33i3is8zx6bvkfekk08bw-it_s0-qaavrfqpba/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,105187,14490,diesel,manual,none
+clio,renault,renault clio tce 220 edc r.s. trophy,2017,63000,24990,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iml0cm1ucwhjz3nzds1tverwvexqvcj9.ycbx1o8rmueayhiiy-t3_fvmoboa5qf7jzvco6yr4m0/image;s=320x240
+clio,renault,renault clio 1.2 tce gt j15,2010,145000,6990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inz2edb1ohzhb2rlbc1tverwvexqvcj9.l9le2fqrxjty1_ttfdqwgz8bjyokbkfvggfjjuddtx8/image;s=320x240
+polo,vw,vw polo 1.0 trendline,2018,55000,14900,gasolina,manual,none
+clio,renault,renault clio 0.9 tce limited edition,2019,63730,14900,gasolina,manual,none
+polo,vw,vw polo 2.0 tsi gti dsg,2019,92000,25999,gasolina,automatica,none
+polo,vw,vw polo 1.0 tsi confortline,2021,53603,16490,gasolina,manual,none
+clio,renault,renault clio 0.9 tce limited,2019,55300,13900,gasolina,manual,none
+polo,vw,vw polo 1.0 tsi life,2022,35375,18490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijn0zjnvdzzvbjd3as1tverwvexqvcj9.qigp5si8bxinb64-l6j459xs19c7e9stxuzzgcj_dzu/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline dsg,2020,74000,18400,gasolina,automatica,none
+clio,renault,renault clio 1.0 tce limited,2022,26000,18490,gasolina,manual,none
+clio,renault,renault clio 1.5 dci limited,2019,83886,14990,diesel,manual,none
+clio,renault,renault clio 1.5 dci limited,2019,152495,14500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijrub3nlyxhsbjl5otmtu1revlrmufqifq.1rbb4eyqjibkhbx6olbj_u1lrxu5ja2b4gy_kktjowc/image;s=320x240
+clio,renault,renault clio 0.9 tce dynamique s,2016,105000,11990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6impqcdyzn2rwm3jnzc1tverwvexqvcj9.yx9xcdak-c6-radcgzhlvit7bbt-2-edtaflwqe0eb8/image;s=320x240
+polo,vw,vw polo 1.4 tdi confortline,2005,233223,5900,diesel,manual,none
+clio,renault,renault clio sport tourer 1.5 dci limited edition,2016,134000,12900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijgxaxp6b3flzwwwmzitu1revlrmufqifq.xhgurzzwg4bambkwzburqd52run-pkcifs6mlwwwz8u/image;s=320x240
+clio,renault,renault clio 0.9 tce gt line,2019,32000,15500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inz3zzl6zgvnyjhjytetu1revlrmufqifq.jj99olpmxu6x3tdiv1gsgtnoh8kxhu4v0bkppgs8pma/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2017,95487,12750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imexoxg3cjlkamyyajitu1revlrmufqifq.lkd-5sm47srqjvl0lv0ll6emdcr09k5kcrn0nalg-vw/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,180000,10500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijj1ohb5cmflngkzdtetu1revlrmufqifq.jjav6vxeujmr1lvbibnpf73mmum79vy6zyhcevptybq/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2019,63000,15900,diesel,manual,none
+clio,renault,renault clio,2017,187643,9900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6indja3uyexo0egz5mtmtu1revlrmufqifq.sfdi9s63h2pjx4yu7edongoogjo_7pxxdnzclyekrme/image;s=320x240
+polo,vw,vw polo 1.0 tsi life,2022,24559,19490,gasolina,manual,none
+clio,renault,renault clio 1.2 16v dynamique,2009,78000,7250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijh3dg9hmmridjc4ms1tverwvexqvcj9.r7_tj26t3spumclsrscebilc4paji8uthup0s3lafjw/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci zen,2017,181410,9990,diesel,manual,none
+clio,renault,renault clio sport tourer 1.5 dci limited,2016,218000,9190,diesel,manual,none
+clio,renault,renault clio 1.5 dci confort,2016,205500,7990,diesel,manual,none
+clio,renault,renault clio,2020,151400,15900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijniy3j1ng9uati5zzitu1revlrmufqifq.pm6shfcrtupfayxlngt07h5c5gdq9wmwwnve5rmi4mg/image;s=320x240
+clio,renault,renault clio 1.6 t rs trophy edc,2015,24000,20990,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imtwy3dwzjzzamp0nzetu1revlrmufqifq.flp7n_j9csqhcmz5sqm2ptnome2xpda0ytz-kt3n6n4/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2018,78442,14990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imr2nhn2ewl1bzv2dy1tverwvexqvcj9.w5i-73zc08plwpv8-la4zo2m5nxbtdvckvn6zdldysq/image;s=320x240
+clio,renault,renault clio 0.9 tce limited edition,2019,53660,13890,gasolina,manual,none
+polo,vw,vw polo 1.0 tsi united,2021,55739,17999,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imu1zxmzendhata4ddetu1revlrmufqifq.pvukkgebkb_ns_r3fbuwof0td_vx78dwtrsb9esbixu/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2022,16402,18499,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imyyn2rmbghqm3zooditu1revlrmufqifq.xdf9fqib0k5wsywshiu-4y3dpug6gyhuwoudoro3beq/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2018,66964,15490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im1odwz3cwpuetdxdtitu1revlrmufqifq.bexeoqcw__yqoj43iwtvedvxpbmnojyohfnlm4yqqey/image;s=320x240
+clio,renault,renault clio 1.0 tce limited cvt,2021,70770,19499,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injkzhjxmnd2dddvczitu1revlrmufqifq.y5kbveernm1w9leq_tio-zendfglfa0vi1pzclxa2vm/image;s=320x240
+clio,renault,renault clio 1.0 tce limited bi-fuel,2021,80386,18499,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imvmoxlvmjhtewm4atmtu1revlrmufqifq.sgvje4hhn9wn6xphetuvyw66ph7ndd6s_vck1dvb--i/image;s=320x240
+clio,renault,renault clio 1.0 tce intens bi-fuel,2020,52407,17999,gpl,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzkz2g5eha4z3hlazitu1revlrmufqifq.0rxjqctnrldwd8oe3dzlcrxngreovgre2vblkze_r9m/image;s=320x240
+clio,renault,renault clio 1.5 blue dci intens,2020,54803,18499,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijlun2hyazc2czrkbjitu1revlrmufqifq.76zknapfh0vmwogswrfc7et5krwrdkmntzu3oqbmr2k/image;s=320x240
+clio,renault,renault clio 1.0 tce intens bi-fuel,2020,71393,17999,gpl,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imcyznl6dhhhbmt6zdetu1revlrmufqifq.rqsi7u48lbdeildnpqwxzaznv6dfnzu5pbsj5nsmxlw/image;s=320x240
+clio,renault,renault clio 1.0 tce limited bi-fuel,2021,65789,18799,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imc2mzy4adawymczdy1tverwvexqvcj9.dxnzmgkjjc2xgpokq9aseqtmio800-kxr9i_22jg0we/image;s=320x240
+polo,vw,vw polo 1.0 blue motion lounge,2014,169000,10950,gasolina,manual,none
+polo,vw,vw polo,2018,131074,17650,diesel,manual,none
+clio,renault,renault clio,2017,130208,13900,diesel,manual,none
+clio,renault,renault clio sport tourer 1.5 dci dynamique s,2016,158000,11500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imv1atnuejeyc29hyzetu1revlrmufqifq.spevs8vdmfw5y2esvcxcuqj_vokbgm5c9bqghspoop0/image;s=320x240
+polo,vw,vw polo 1.6 tdi confortline,2018,141000,15500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijlymgizmxpybtdpajetu1revlrmufqifq.obswaa2zivwmu_uaschmjlc1_aylmuz4i3ux4dimpxo/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2017,89000,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iml4zwt4amx2mw83bzmtu1revlrmufqifq.a0p2jsh2pd87elcpwkag3x4yek0jitqrq_jnhmwvfqa/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2017,72334,14450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijcwdzq4bwpqa3vkbjetu1revlrmufqifq.doc5mi371lcankqzjs-i3pru--k_6shnuubkd9zcv8i/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2022,34724,18499,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijl5bjntaxhudjfrntitu1revlrmufqifq._uzw2ihkx9d4fvcjgqhx7cgywmsw7aemfc1twt10zri/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,117996,12950,diesel,manual,none
+clio,renault,renault clio 0.9 tce limited,2018,109000,11200,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijhvmnhiotr2exa1ndmtu1revlrmufqifq.ntgweywmhoauemfrb8toiqdwbxq4giddua5e1upvw7e/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2018,98000,11000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijkybghzedh0ehiwcdetu1revlrmufqifq.hymi-nrkgjr_-djm-m4ouareyza3v5gqmwumqiishfg/image;s=320x240
+clio,renault,renault clio 1.9 dti si,2002,244500,2990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inewywzvynvqawsyoditu1revlrmufqifq.ydzlvud2xgcnh2jnabb3cckjuhdcnxoe2wrg4wtae8g/image;s=320x240
+clio,renault,renault clio sport tourer energy dci 110 start & stop intens,2016,129511,12900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imxjdw15zty0azg3ntmtu1revlrmufqifq.txcmdctg-0ksskgybgb4w3jent2mcjaueletbrpu8ng/image;s=320x240
+clio,renault,renault clio 1.5 blue dci intens,2020,87500,17900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzlohlyotexchzrctitu1revlrmufqifq.mfk5o0i0fnzxqoirjftlcp8ld6ltbeoritutivbq1q4/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2022,44988,17689,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imu4ndl3exozm25tzs1tverwvexqvcj9.lgtynnnwdgxbkm2smreuz0j5zd-ed1crxjoxwkjmtva/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2022,36020,18199,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijjnbtlldg9tddjldzitu1revlrmufqifq.d7t3qvzajeyrnoabag1tcdcrjggp1zwpvrg3mzahe1g/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2019,115141,15999,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imthnhpxn2xyy2l0bjitu1revlrmufqifq.lkjerfsjzsnqulinr20zuoft5wg46qb3ul6qr0bc7lm/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique s,2014,112500,10900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijnsawfmnhziegztbc1tverwvexqvcj9.6og-3lnjsxdgojg-r9v6qba0fwktvvzcyd0gsi_7nvk/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci zen,2018,126000,13500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im50z3gwohc3aw9jyjmtu1revlrmufqifq.njnlz2pkszpncr8jw5-l0pak_y_y7ajro95cqwmiyym/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2016,125000,9500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imjkahlumxvmdxljbtetu1revlrmufqifq.mwjqqgsuiuhlczmnhu0eexslkofxc0vt1hb3bs06sd4/image;s=320x240
+polo,vw,vw polo 2.0 tsi gti dsg,2019,130000,25990,gasolina,automatica,none
+clio,renault,renault clio 1.0 tce exclusive,2020,31000,16990,gasolina,manual,none
+clio,renault,renault clio sport tourer 1.5 dci gt line,2016,133000,12770,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invpnwnwmza2bnfwas1tverwvexqvcj9._4q7d1qigrcnckvkfplohei4bxd3u2y_udozy5fpejc/image;s=320x240
+polo,vw,vw polo 1.6 tdi style,2011,124000,12999,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijrmbnkwbdq5cm8wyzetu1revlrmufqifq.njufpjx8g0ipuuj3ivsfie7nxuiqro5dt66dkdqwi0w/image;s=320x240
+clio,renault,renault clio 1.5 dci #,2013,294000,6850,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijh2axdlbwxoymfqzdmtu1revlrmufqifq.aiipmm-djzjqzg87typan2zalo5zxfftzh6gfszmyes/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline dsg,2018,51712,19990,gasolina,automatica,none
+clio,renault,renault clio sport tourer 1.5 dci limited edition,2017,73135,14990,diesel,manual,none
+clio,renault,renault clio 1.5 dci limited edition,2017,106000,14000,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inqwnmp6dwxwnhf5odmtu1revlrmufqifq.jxoiwld_aowpvsq4irsqkfzmp-hsfnmnh0f2tkap1b4/image;s=320x240
+polo,vw,vw polo 1.2 confortline,2011,157337,8150,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iji5czfpyjlqbdbxajitu1revlrmufqifq.irjglllfjhvvjdcil_ugwgwkconhsvhhzqg6pzfhbji/image;s=320x240
+clio,renault,renault clio 1.0 sce zen,2020,39000,14500,gasolina,manual,none
+clio,renault,renault clio 1.5 dci confort,2010,132323,7950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inq4dnvtchjuaxp2zjmtu1revlrmufqifq.9loh8upfkingcicuo1c7dx2ob_kdmw7ugdlub82f7rc/image;s=320x240
+clio,renault,renault clio 1.0 tce exclusive,2019,74500,13500,gasolina,manual,none
+clio,renault,renault clio sport tourer 1.5 dci limited,2017,116667,14950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imdla2vlawh2ngnrmy1tverwvexqvcj9.b5yddxtis5ib70ia7sev_3mv0xl_biqiaw4hjccymuo/image;s=320x240
+clio,renault,renault clio 1.2 16v pack,2006,178485,6249,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ije3ytj1bhh6bwjlyjitu1revlrmufqifq.xg3j1xc27icda09x0oklkqwh9ycadibhfh7d5bk3rx4/image;s=320x240
+clio,renault,renault clio,2018,80323,14950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imjhyxcwmmron21radetu1revlrmufqifq.pc--i_mjipposxzic4qevsl-aochsqk6ozyidqjsvpu/image;s=320x240
+clio,renault,renault clio,2019,66669,15650,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inhtzty3edn2nxjhetitu1revlrmufqifq.5pxcmp8jshh1xzjt5azrb8rzdmsgjmxcq_pikt-k-hy/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,17934,16450,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inl4bghrcjj1mth1cc1tverwvexqvcj9.x1lq7mywnngjgei_bkoz3x69djrkiwvh_4pr5j1oahu/image;s=320x240
+clio,renault,renault clio 1.0 tce rs line,2022,21605,19990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6indvotb0bnp3owx2dc1tverwvexqvcj9.ms_6n8r22ffavkpb9jolv5kwahgcave0kao_dwfdmws/image;s=320x240
+clio,renault,renault clio 1.0 tce rs line,2020,41711,17950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijnpmmtpaxl0dw1xyjetu1revlrmufqifq.s2mtfvqz0hlxx1xifwrxme2ybmfamn9yezlslco8ggc/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2017,106485,14950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijj5yzfxyjf0y2xpbzmtu1revlrmufqifq.zgoyzsbovwmlz34cnbsyx_6xidgldx_t-vmdcdib0ri/image;s=320x240
+clio,renault,renault clio 0.9 tce zen,2019,125000,12500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innua3hkzno2ohzjodmtu1revlrmufqifq.pphzfm53qea9sr0reonnv8xhy9mfiaqhj8cpfttgscs/image;s=320x240
+clio,renault,renault clio 1.5 dci confort,2016,92000,12500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im56mng4mw1hatlpyy1tverwvexqvcj9.3ymhluc4bft1ryg_y3owwackwpcmhdhljtixac6wyzk/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2022,26653,19500,gasolina,manual,none
+clio,renault,renault clio 1.0 tce intens,2020,53985,16900,gasolina,manual,none
+clio,renault,renault clio 1.2 16v confort,2010,112024,7950,gasolina,manual,none
+clio,renault,renault clio 1.0 tce rs line,2022,38000,20490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzna2r2atm2d3lkazetu1revlrmufqifq.x_d35lko3uu6i0f-l9rzbjw5ehqlp0_kztlxxr4dlyq/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci,2016,149000,11990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbhedvrehjsz3jretetu1revlrmufqifq.gtqs72x_darzbszdicuhsoknh7oniknlxc2xn29sbdg/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci,2017,143000,12490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imd6z2vjb3l5ohnuci1tverwvexqvcj9.nwayo2p8cqstnz1tnzxm3hhh_2leqfzbcdrxjqcnwp4/image;s=320x240
+clio,renault,renault clio 1.5 dci confort,2015,189500,11490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijnhcjlyb3p5ow52zzmtu1revlrmufqifq.-bduxsakbmhubjr5ztpizzps3c-yrf52caz0lrpaqe0/image;s=320x240
+clio,renault,renault clio sport tourer,2018,71000,13490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ing3axhnz25jm3byoc1tverwvexqvcj9.st03hw6cmxqzg70vktrx_5z44k8eagoaw0sngr228kc/image;s=320x240
+clio,renault,renault clio,2015,97008,12990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijjwzhrtyzm0z2tqni1tverwvexqvcj9.urbyj3jvhq1wyglu7p3bbf6gzfdo0fmesxouysxesqu/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2015,235255,6999,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imlqowxyzhgwzzrrctetu1revlrmufqifq.kywth5giujrn9rtyrc1kmmcjy4iimj2xestw9udycjc/image;s=320x240
+polo,vw,vw polo 1.4 tdi go+,2006,271000,5000,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im93dxy3dtz4d21hatitu1revlrmufqifq.y_s4rcx8moi6qktoiv2f0zhdabng_m6pteyczzkrqto/image;s=320x240
+clio,renault,renault clio 1.0 tce rs line,2022,28553,19990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im5vb3nxegg2atfqcs1tverwvexqvcj9.a4rxqgqxnhn2x-1l4orujye3siqiarnhk17fmn5l1vw/image;s=320x240
+clio,renault,renault clio 1.0 tce rs line,2022,30444,19990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im1yemmzmtfzdwrvatmtu1revlrmufqifq.gpv0juu8ekewds81gwxzuprz_ywey9rnmw7tft9iusy/image;s=320x240
+clio,renault,renault clio 1.0 tce rs line,2022,13850,19990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imuzdhj5ag53mhzoajitu1revlrmufqifq.8lx7hmdlr71r1lwceneujkedodqn-n3uqme7iyzaq-s/image;s=320x240
+clio,renault,renault clio 0.9 tce zen,2018,84000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijriy2dtzxaydmnpbzmtu1revlrmufqifq.9kocdp5fbuis20vrjodrbwgawmv-gobcn0qe9cffkhq/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2019,120000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innqdxfszza0bhvios1tverwvexqvcj9.hmk4jtigmhidufiooos3rvkclmlj79u5nblo9kphbbk/image;s=320x240
+clio,renault,renault clio 0.9 tce zen,2019,127000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infzyxfpag1negfody1tverwvexqvcj9.3yh53ozdgwz09h9klctsgtdclpngoomijdjqayrr9zc/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited,2019,80000,14990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inkxawprn2fzcmp5ndetu1revlrmufqifq.ngck0p5ncfwi5dmvgxbwd7a2l_2kbp79olugc2z5ayw/image;s=320x240
+clio,renault,renault clio 1.0 tce exclusive,2020,20000,18900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpqzjc2zjlqdzzomtetu1revlrmufqifq.rpeq5yde2qoqrt1n_jaa6qi1wu6_wsbqg5lh_dgybt0/image;s=320x240
+clio,renault,renault clio,2015,141000,11990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6impya3r3mmxlenhpmjitu1revlrmufqifq.01gruc1-66czttdk4xdmhvg4saw5qwvpi5up_wgs750/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci dynamique s,2016,41000,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6indlnwv1owm5z2cxytitu1revlrmufqifq.rqnkondngmt0ecki0haippuc81zd7ticqbtftvtvqvk/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci,2017,101000,13490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbudnnlbwv5z2xiazmtu1revlrmufqifq.hznivtrr0pfc_5c_3zmrlaocoiboelvrb8oyhny9uga/image;s=320x240
+clio,renault,renault clio 0.9 tce zen,2018,150022,10490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijf4am1wegrxaxv6ys1tverwvexqvcj9.ojzqebqtzv-bfu5n0ggzvc0xwfjjvqerdvqa6kjlnas/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2022,320,20750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injpmnfsmjnsz2qzctitu1revlrmufqifq.krjioxxv8-r9f7ulnyn9eynqjfrih3c7rw4o_unyrzs/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2022,21000,17990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inu2n3lod3m2zgfsyjetu1revlrmufqifq.j1w1x_q0guzdmupywntahuiwyrce5rh8aqd3d9baxem/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2017,126157,12750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijh0nme4bxbyyxk3zc1tverwvexqvcj9.2bm60gdl-wprjhgh960jiriyvzupbvul2l9fhjhoza8/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique s 82g,2017,113000,13890,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inbqbxqzn3o1cnbpztmtu1revlrmufqifq.bux7hyin0frnh06eedighklmautyj0xa0hyo13nmmww/image;s=320x240
+clio,renault,renault clio,2008,138000,4499,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijk1ntfpnghhntn5aditu1revlrmufqifq.mzrjokgwxiitlcv8egnoopwql4hwjnmddgil5ebjol8/image;s=320x240
+clio,renault,renault clio 1.5 dci limited edition,2018,150000,12500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijrhnwttcdgwnnridc1tverwvexqvcj9.9dqpmqefkvtwfioppfgercwmhv0odispwabxczobad0/image;s=320x240
+clio,renault,renault clio 1.6 t rs edc,2015,82000,19500,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iji0bwm4nhb5z2l0ms1tverwvexqvcj9.mlg8lnhuom1ytcu40ubo38rk_bk_omlkie58enqektw/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2019,88078,16800,diesel,manual,none
+clio,renault,renault clio,2018,86465,14950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inv0ymqyexc5zjvrztetu1revlrmufqifq.h35lhycphlqwr0srq3xeygzxuot-grpilaobrm7qcr4/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline,2021,45622,17490,gasolina,manual,none
+clio,renault,renault clio 1.5 dci limited,2019,107000,13900,diesel,manual,none
+polo,vw,vw polo 1.0 tsi life,2022,31928,21190,gasolina,manual,none
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,226406,11990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijlocje0zdvvajnqbs1tverwvexqvcj9.y9huhnxr7gzkmy3pypboamw16npgicau7edlcykbvdk/image;s=320x240
+clio,renault,renault clio blue dci 85 experience,2020,94000,16950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imz1chdtc3bvegcznjitu1revlrmufqifq.s6ac8npzcure8zfa9yolrdzbdq3wqru8ecdvgv2f7qy/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2017,151000,12950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im5hmduzexbjbdgzes1tverwvexqvcj9.qmof7pizlbmsxehje25c9kh6vfqrqbijq5aoqvewqb8/image;s=320x240
+polo,vw,vw polo 1.0 confortline nav,2015,162744,10499,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6immwn201adezbdgwmtmtu1revlrmufqifq.blcohclhhfsbsiwb4u4trlzwxxzttprbg59jt8xxd2k/image;s=320x240
+polo,vw,vw polo 1.0 tsi life,2022,30000,19350,gasolina,manual,none
+clio,renault,renault clio 1.0 sce zen,2020,21083,15900,gasolina,manual,none
+clio,renault,renault clio 1.0 tce intens,2020,71891,14850,gasolina,manual,none
+clio,renault,renault clio sport tourer 1.2 tce gt edc,2014,148305,13000,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inv5zmdjzjh2mw13mditu1revlrmufqifq.tselbkin6lku9p7j6qyosfor9gknshrh9idau-vcols/image;s=320x240
+polo,vw,vw polo 1.0 trendline,2016,114534,11700,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijvpdmd4mmxyogh4cdmtu1revlrmufqifq.scwtvil1xmhivccagii3kmwvt3voz2ofsj2dvvwjxke/image;s=320x240
+polo,vw,vw polo 1.0 comfortline,2021,86524,15990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imriamvhenjiexv0dzetu1revlrmufqifq.zpme4olglupgjm869ttm0vxzcfelt0htdvxxsexi0sy/image;s=320x240
+clio,renault,renault clio 1.5 dci confort,2015,281570,7890,diesel,manual,none
+clio,renault,renault clio 1.5 dci zen,2018,140761,13950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imrvegxlemrxbnzretetu1revlrmufqifq.gpsmkeyfpccpicz6caipyq0r-2shdpmpwlx_2moq6t0/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci gt line,2016,105000,15500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijrmmwnmohbwddiyctmtu1revlrmufqifq.8zq5lnzgey4rrl9lzkzcnus4o34fxelp4iacwu32dba/image;s=320x240
+clio,renault,renault clio 1.0 tce rs line,2022,30836,19980,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imc0ymg0ddfwbnm1zdetu1revlrmufqifq.8d53awmgo6byatalmbxxn05mo4frf5yqkthhawd1n3w/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline,2021,41750,17490,gasolina,manual,none
+clio,renault,renault clio 0.9 tce limited,2014,134071,12900,gasolina,manual,none
+clio,renault,renault clio 0.9 tce gt line,2017,90000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6indqdw8ymwpmmjhxdjitu1revlrmufqifq.wmh0wgyvrzmo-yz_ikv42-l-rr6ax3kwq8mivbcmuvy/image;s=320x240
+clio,renault,renault clio 1.5 blue dci rs line,2020,94000,19750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ino3ehj4y3b5dhbyyy1tverwvexqvcj9.zqz8l7g46ozzhldw2hcui4ielbdjmlero4lruaanfpg/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline dsg,2021,29763,17280,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imj2atzsatnxmzhhbzmtu1revlrmufqifq.v9ddhs1djzpdnewykbdl-gp3jn-qccdlzry1pcdtclk/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited,2018,91944,12800,gasolina,manual,none
+clio,renault,renault clio 1.0 tce limited,2022,17603,17480,gasolina,manual,none
+clio,renault,renault clio 1.0 tce rs line,2022,26479,19980,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ine1mwvkz205znbtodetu1revlrmufqifq.mrfw6nthhx3womkyz5o7jykdf2q7eqgkuntfqk5ggmy/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2022,21321,17980,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6indtowo0cdz1mgf4ejetu1revlrmufqifq.s7vloyy4o-cbj6ya-lniewgrro-xceya0-zxxdy9oa0/image;s=320x240
+polo,vw,vw polo 1.6 tdi highline,2018,146123,16550,diesel,manual,none
+clio,renault,renault clio 1.5 dci dynamique s,2015,121986,12900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ink1cmxqodl4a3doni1tverwvexqvcj9.fimptqzrjywqtwe_d-uxjwt0wspttw8wpztckyhh3zi/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited edition,2017,115000,13490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imt2cni5etvsota5mjetu1revlrmufqifq.rvp_6gvpkpzlmcmew-ka2mei69y9ikulcguzpubjaki/image;s=320x240
+clio,renault,renault clio 1.5 blue dci rs line,2021,68510,20980,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inf1cw03dgf3zzjsatitu1revlrmufqifq.wq6zsn4duhpoa-icx9t7opt9y005wu946fpzvfmcdxk/image;s=320x240
+clio,renault,renault clio 1.0 tce intens bi-fuel,2021,48440,18980,gpl,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijfzmglhntf4ajrpdi1tverwvexqvcj9.pznkqhddutd8ncianjrjhz05ax43rfyz4c5w4oheqmk/image;s=320x240
+clio,renault,renault clio 0.9 tce limited bi-fuel,2019,138445,13900,gpl,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innjyjrvb2xlewvtmditu1revlrmufqifq.pg-tafwxneoixjbhjhxuo8p6lrnguzxli514cyoezcs/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2017,107704,12990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imfqmxntohn0czixec1tverwvexqvcj9._7jlyi_8tlvp3c5ji6axjobfjngdieeroov7iwqnu84/image;s=320x240
+clio,renault,renault clio 0.9 tce limited edition,2019,75000,13980,gasolina,manual,none
+clio,renault,renault clio sport tourer 1.5 dci limited edition,2018,145420,12689,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijzkohz3ntg5dgvuyzitu1revlrmufqifq.i7bxyqyhur4ni8fi_0fmfbv2kb2b6aqsxukh0ookxc4/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline,2021,46100,16490,gasolina,manual,none
+polo,vw,vw polo 1.0 tsi confortline,2021,51247,18750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im4znmt1etztd2q4dzitu1revlrmufqifq.fqxuo0muksy5jysdcqnfpvemgqirthgsutho1u9-yey/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline,2021,41953,18900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iji5zwv2cddloxrrmi1tverwvexqvcj9.sger99k8z4krksbazf2fuywxr9nbzg8e3jxrbu51jtw/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline,2021,41990,16950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imfhbtcxn28zmxi5ci1tverwvexqvcj9._owfuqtap9orsoe-qtzvsupnfbjooicwlnqcc5cvs-e/image;s=320x240
+clio,renault,renault clio energy dci 90 start & stop dynamique,2013,198000,9990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imltc2robmtnohd6etitu1revlrmufqifq.xf4baev9_94ngxfifwvnj2mqy1ugihqep7fvi8wair8/image;s=320x240
+clio,renault,renault clio 1.0 tce rs line,2021,64433,18450,gasolina,manual,none
+clio,renault,renault clio 1.0 tce intens,2021,63917,16450,gasolina,manual,none
+polo,vw,vw polo 1.2 confortline,2011,139000,8490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ink0mtdhn2u1mhhvotetu1revlrmufqifq.hphruk_hosfteq-8zu08r_j8olkz-ejy-f74dicbx64/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited,2021,45838,16480,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infvzwtvb3k1zglkejitu1revlrmufqifq.7uosxzyrpjgaxoejsgwtyizykdcoo2hroeiap88_pie/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci gt line,2016,162930,11950,diesel,manual,none
+clio,renault,renault clio sport tourer 1.5 dci limited,2016,117636,13480,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iml0yxuynmf4d2n2zc1tverwvexqvcj9.eqrhy9vge3ofsv5rv4yp35x_eq0vlzkht7rhkt3apko/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,75000,16500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imgwbji3cgzmczhpnditu1revlrmufqifq.ve3x-evip5fazypm9w1ckxxakykou9dahrojvmgivv0/image;s=320x240
+clio,renault,renault clio sce 75 experience,2021,78000,14490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imfsdjhoamlxmmjoas1tverwvexqvcj9.izr4ebn2qszi3nkuk6ecvnkm9e_wcxduwgkps0hfmbq/image;s=320x240
+clio,renault,renault clio 1.6 e-tech intens,2021,42774,22780,hibrido,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inqyehb5ytewyjf4bs1tverwvexqvcj9.avmadlcg7dwt175vfcthyhsq0yd5vqut-66htgtqct8/image;s=320x240
+clio,renault,renault clio 1.5 dci limited edition,2017,111400,14690,diesel,manual,none
+polo,vw,vw polo 1.0 tsi confortline,2019,110640,13990,gasolina,manual,none
+clio,renault,renault clio sport tourer 1.5 dci dynamique s,2013,154535,10450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invkeg40dgq3bzjmmjetu1revlrmufqifq.zontimbamhbsgq7nrw3v67xltwpf8tbuygk08-czjra/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,46321,15490,gasolina,manual,none
+polo,vw,vw polo 1.0 tsi confortline,2021,59916,15900,gasolina,manual,none
+clio,renault,renault clio sport tourer dci 90 dynamique,2019,98000,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inqxcgf3ow5rcmfucditu1revlrmufqifq.5czbfrycerlay4ta17cfyiq51mjttt23omk_qxckhve/image;s=320x240
+polo,vw,vw polo 1.6 tdi confortline,2018,108160,15899,diesel,manual,none
+clio,renault,renault clio 1.0 tce intens,2019,60101,13880,gasolina,manual,none
+clio,renault,renault clio 1.5 dci limited,2018,131500,16900,diesel,manual,none
+clio,renault,renault clio 1.5 blue dci rs line,2020,97209,18900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzyedn6dhpvdxi5yi1tverwvexqvcj9.hyo9tgyq6ljni19wxaeppjiqkscslojfou882lf0rzg/image;s=320x240
+clio,renault,renault clio 1.5 dci gt line edc,2019,40000,16990,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inljetbqajnkz2nzmdetu1revlrmufqifq.rnet_emb8yt3xbxo3g4863-ccgwndbjf4tv0mxypodu/image;s=320x240
+clio,renault,renault clio,2020,82000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijz6d3z4odd5mhpsni1tverwvexqvcj9.1gezwtrdtltjniq3h3a4p6ljdc5o0bmsoh-6xxnswry/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited edition,2017,186261,10490,diesel,manual,none
+clio,renault,renault clio 1.0 tce intens,2021,64203,16250,gasolina,manual,none
+clio,renault,renault clio sport tourer 1.5 dci confort,2016,190000,10800,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inhkmws1mge2adu0dzmtu1revlrmufqifq.gp4gnqklwufktojwozk6hdayun6yqadgwmupkrj-0yq/image;s=320x240
+polo,vw,vw polo 2.0 tsi r wrc,2014,97381,27500,gasolina,manual,none
+clio,renault,renault clio 1.5 dci dynamique s,2016,173641,10900,diesel,manual,none
+clio,renault,renault clio 3.0 v6 sport,2002,60000,64999,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inyxcw93njb4cxfqnzetu1revlrmufqifq.52e82wcgcphpekavb90ofvdbbmejhmtdwjzlq49c6i8/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique,2009,245480,5780,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijh0ctllb3v4ewxxmjitu1revlrmufqifq.xpdor8s4cs-gznjlnayjg8s2i3rrk8s2jvkcj55nrwu/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2018,167000,12900,diesel,manual,none
+clio,renault,renault clio 1.5 dci gt line,2018,113000,14900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imo0czf2zxjsems2cjetu1revlrmufqifq.ijip2ehzdgjguptzpakqkh_9itgnbolgirevgd3lmdm/image;s=320x240
+clio,renault,renault clio 1.0 tce limited cvt,2021,22447,18500,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inziznfqb3bzdtd6cc1tverwvexqvcj9.gxiy02vbt3hwrekidvnikk_nefx2idzivukqrq8jpau/image;s=320x240
+clio,renault,renault clio 1.5 blue dci rs line,2021,71149,22150,diesel,manual,none
+clio,renault,renault clio 1.0 tce limited,2022,20834,20500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inb0ndnsdzbudxh6mzitu1revlrmufqifq.bud-khptcew9vpepkqbwceyook0dryiilnqfmk8zakk/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2019,62700,14750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im5ozxnvdzlvc2xqcy1tverwvexqvcj9.cepuemc8b7eoneedw5komh1gtet0-pcnjkugk64tgni/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2022,25502,18500,gasolina,manual,none
+clio,renault,renault clio 1.0 sce zen,2021,15490,15490,gasolina,manual,none
+clio,renault,renault clio 0.9 tce limited,2018,115000,11990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imwzm3j0bmduy3cway1tverwvexqvcj9.cjca6s3rrfv0j9brxtfsta2ugruiskpspoimqfzoyrs/image;s=320x240
+clio,renault,renault clio 0.9 tce confort,2015,134990,10999,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijm3c2m0etllnw9ibjmtu1revlrmufqifq.enb5jy4mxpclzpsam12jtbxhmp_wsgaidaf7y-0luyi/image;s=320x240
+clio,renault,renault clio sce 65 equilibre,2021,24000,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infkmtjwymjuyzjjytetu1revlrmufqifq.auryti_imqmgfcqw2gmqp0zvi6_8tzzmrtf73zpbnxo/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci gt line,2018,83000,14450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innpaznmynb4zhj3zjitu1revlrmufqifq.ono4g7ooqeyd-q8p69hrz5dad3uu5kctsvi-wx-nlfg/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited edition,2018,52000,14490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innid2r6aju2btbibjitu1revlrmufqifq.ghmqeou3paorl4tenmekv3r92ouwtabzxupqk4owcqg/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2021,58729,16740,gasolina,manual,none
+polo,vw,vw polo 1.6 gti,1999,137000,4900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijh6z242cnvhbtq1zy1tverwvexqvcj9.aegyhtcnwainprmvtt3lxewsaaz_qxarda086ugrie4/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique s,2010,200000,6990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im45d25uewvwyjhtyi1tverwvexqvcj9.jboraoprisggmq6u7qwhftpulxw7mhd5deefx8ch8iy/image;s=320x240
+clio,renault,renault clio,2021,20100,19500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inpjb2rta2pym2hxmjetu1revlrmufqifq.ajqr9fie9vhlwt0d86dgy8n4_qtbjdxhp14jm7mfogq/image;s=320x240
+polo,vw,vw polo 1.6 tdi highline,2009,241700,6900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imhhdjbqmndwaxz5yzitu1revlrmufqifq.f8eh_ifhn3px2xazf1kxjd0_jihvrt984tbjwi6-wvw/image;s=320x240
+polo,vw,vw polo 1.6 tdi blue motion trendline,2018,158000,15800,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imnwy2j0zwu0mdvhatmtu1revlrmufqifq.uzkmjet_8qkrc00of4yzvvbhwshdupnhcx3mczf0h6k/image;s=320x240
+clio,renault,renault clio 1.5 blue dci rs line,2019,111281,16890,diesel,manual,none
+polo,vw,vw polo 1.2 confortline,2010,150552,7850,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imrhdty2c2jwdxq0njitu1revlrmufqifq.oktmufh6p6kp2blmk20e8c-mjxwrynt9ygp0f-ktyx4/image;s=320x240
+clio,renault,renault clio 1.5 dci confort,2016,145000,12980,diesel,manual,none
+clio,renault,renault clio sport tourer 1.5 dci limited,2019,159209,13980,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infwcji2mwh0cghtmjetu1revlrmufqifq._wsk686qwhinnj-zuybkipjjqcghtf9dbc__7svwx4w/image;s=320x240
+polo,vw,vw polo 1.0 confortline,2015,40000,10900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijz1bg1jm3ltczf3es1tverwvexqvcj9.8_j4qzpyrft865tytn1m01qyp_u4dx-0zyniehwy5t8/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2018,124151,11650,diesel,manual,none
+clio,renault,renault clio 0.9 tce limited,2019,14500,13500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inh6bxixenr0edzzmdetu1revlrmufqifq.okor94h6cdfob9svxokkkxhplsz1-xhaf8ailkzlgp4/image;s=320x240
+clio,renault,renault clio 1.0 tce exclusive,2021,34872,17480,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijiyzhzwddy1axa4atetu1revlrmufqifq.agua3inwdjcntd-8p39iiwtg_rjnilrcbjw89sde5u0/image;s=320x240
+clio,renault,renault clio 1.5 blue dci rs line,2021,52821,21480,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imwzmxj2dhfwn2xqlvnurfzutfbuin0.efzsqc81rrtc6kprxxnucnjxadihd5huei54bztrdra/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2018,264603,8990,diesel,manual,none
+clio,renault,renault clio 1.0 tce intens,2020,1,15990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inc5oxixymo0cmhhztitu1revlrmufqifq.b6kiqgjcwe4oyxtzuiihlcgblrpffphwfbiox3ve5u8/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2019,79500,13990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijn5c2d0mzhycgi0ntitu1revlrmufqifq.yh6ouemtfwzt7wpvab_kstxutwbvtx56xn6hkro_r08/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2018,129185,14000,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im85bxnwcjz5mjd1otetu1revlrmufqifq.yusb53ztz_z-mxwv8atrl0fcdwivyh6d5sb6nptfvlq/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique s 82g,2016,189860,10500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzsmxa5ywxzcgntnditu1revlrmufqifq.mg184n76w0dwxhdxu3wqdrhezul6uwoc0fys1at_miu/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique s,2014,219000,9990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ino3dtjjmnu0enrqmtmtu1revlrmufqifq.olzkwghgmz2wjsai9n_gp7eg9yq9vwwrqcfh64ek284/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,31500,17000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ija0zm03zthtcgvjedetu1revlrmufqifq.ffuj_evsfyb0mm8oaqhsw10qtekmzdhnr3uyv7jhtqc/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2018,167457,14750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inj1mna1bmr0njlmai1tverwvexqvcj9._yvebfu1iglnhdirmtz_zsarp_cgxo0e5nvtdpmlcqy/image;s=320x240
+clio,renault,renault clio sport tourer,2017,136846,14950,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ind1mtqwbgtnztz0djitu1revlrmufqifq.bwqujexixbisaks2j0nu0ru12kejg4we7ynuvyka3za/image;s=320x240
+clio,renault,renault clio sport tourer,2017,140893,14950,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imllcdzvnxfhbgy1ns1tverwvexqvcj9.rnvckw6c5eomcpbviwsvehovdm60giyipd7ysnk6ay0/image;s=320x240
+clio,renault,renault clio,2018,106489,15500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imiynwjqcjzjn2p1os1tverwvexqvcj9.op3hhvwrs56ed8n0z9asizuy58q5aexgwrtz_xptq4m/image;s=320x240
+clio,renault,renault clio sport tourer,2017,132485,14950,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijd4zth4m3jldzjyejetu1revlrmufqifq.gmgol2exyozvylravgdcakgc5acvqkvki9f6sordkwo/image;s=320x240
+clio,renault,renault clio 1.0 tce intens bi-fuel,2020,37848,18490,gpl,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijg2azridny0ymezytetu1revlrmufqifq.rdcm-ick5unflz5wrqtzffmskdad25dm7fjx_rzrm8c/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2016,50000,11000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imn4axfjbxb5b3dlndetu1revlrmufqifq.oarcpqcly9nowjnsaqf3o3bfhsadwgebgnl8rxjso9w/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited edition,2018,105826,12890,diesel,manual,none
+clio,renault,renault clio sport tourer 1.5 dci gt line,2017,116000,13400,diesel,manual,none
+clio,renault,renault clio 1.5 dci limited,2019,74000,14500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijnjdzduowq0dty4btetu1revlrmufqifq.xqm3ecnwo6vqdct2ebc_d8ujaf3bn-u6ntwg326yqfi/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2016,143000,10250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imw1dmu2dje0oxhnmzmtu1revlrmufqifq.s_ft_uqlsm7yadlvhipljumql37xsy_tg4zttljmbnq/image;s=320x240
+clio,renault,renault clio,2018,108656,14850,diesel,automatica,none
+clio,renault,renault clio 1.0 tce limited bi-fuel,2021,39587,19490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imn2nxz3ow8xenfpzi1tverwvexqvcj9.es8wnczdvh0nk5xmrjrxcwvaszkd7xiqjd-s8h8uvs0/image;s=320x240
+clio,renault,renault clio 1.0 tce intens bi-fuel,2020,31090,18990,gpl,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imcznxvpohmwbm8zmdetu1revlrmufqifq.5cvofay-geslowq8ldpgui8fwbwsrl9y6pien6ckysq/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2017,139501,11750,diesel,manual,none
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,120420,12980,diesel,manual,none
+clio,renault,renault clio 1.0 tce rs line,2022,20366,19499,gasolina,manual,none
+clio,renault,renault clio sport tourer 1.5 dci gt line,2018,140200,14990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imyzm3lvcdh3ogxycc1tverwvexqvcj9.alo_dlxkmw2x2bynome3lbxw0xz9xs2rwl2cyzdwale/image;s=320x240
+polo,vw,vw polo 1.6 tdi confortline,2018,105807,16199,diesel,manual,none
+polo,vw,vw polo 1.6 tdi confortline,2018,98610,16399,diesel,manual,none
+clio,renault,renault clio 1.5 dci limited,2018,122000,13900,diesel,manual,none
+clio,renault,renault clio 1.5 dci dynamique s,2016,170000,10990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzuaxphoxu1mzrpadmtu1revlrmufqifq.arycsxsurjdyd_x7lmcjjcah5ylzzbydds2budmp2uk/image;s=320x240
+polo,vw,vw polo 1.0 tsi life,2022,36898,18490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imsxbjfmzhz3cmtzec1tverwvexqvcj9.n8gchp0zujba9uevrw2edznvkece3tepk8sunzjqopm/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2020,32000,14800,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijn6awczdxvvnxlpotitu1revlrmufqifq.dquvmraqugy7koakyycl4o1qvyr50148ou4v9enwen4/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited edition,2017,55000,11990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imw1dnvkadr5c3y2mi1tverwvexqvcj9.ftundgx2ctbka3fyiqalsl0r7xwlvtfuywbmh-eswuq/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2018,80000,12999,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijltdgtuym02bzm3ec1tverwvexqvcj9.maejqijh0igyrhtddtzm3mh-hhvzcflhvrrysjchjlk/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2021,46223,16740,gasolina,manual,none
+clio,renault,renault clio 1.0 tce rs line,2020,41511,17950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imn4zjduehzlzjfjcditu1revlrmufqifq.fgqtp-gznpbf5velz0jwpdsuq0vfwni2n_tszvpiraq/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2021,27124,16990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imdybny2yjd0bgryay1tverwvexqvcj9.dez6_178tzi3iai-30mvuseoe5khycuza-2v2xjjb8i/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2022,18488,17890,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imo5mwzjn3j1odl3odetu1revlrmufqifq.penzx5l6oyvaqbhxom0epiizimczf-fjwytn4psfoaa/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2019,259146,10290,diesel,manual,none
+clio,renault,renault clio 0.9 tce limited,2019,51500,13990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijdzdhfpdwu1mwltbjitu1revlrmufqifq.cxlgi4dzul2apjkguidlk80jrlgzgnjtf6y4qombjvk/image;s=320x240
+clio,renault,renault clio 0.9 tce limited bi-fuel,2019,89000,14990,gpl,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imqxenvxetvqy2vhajmtu1revlrmufqifq.jmwekdzf-2ifggax-ovcqbsy8ger3p1tcr0uyysrxeq/image;s=320x240
+clio,renault,renault clio 1.2 tce gt line,2016,57000,16500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imhza2r5ztjzdgzpmzetu1revlrmufqifq.h7joilb5dw5bmrytbxy2twjujqphqgxu4_neb8cxtkm/image;s=320x240
+polo,vw,vw polo 1.0 tsi,2021,45000,18750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijjzajixegd6yxnsay1tverwvexqvcj9.a9ywi4a31sbpbze14gtszr9deec_3lm3py3zdql6hqu/image;s=320x240
+polo,vw,vw polo 1.0,2021,38800,17550,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imrsawoyotlzajqzatmtu1revlrmufqifq.49kcgrj_ol9mzeq8npov_so_j-0o6-s4v8xpagree_e/image;s=320x240
+polo,vw,vw polo 1.0 confortline,2021,70365,16950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innham43zmrjym9wmjitu1revlrmufqifq.exeayatkadkkb6bwsoivga8lar1jkbkqxn-c4zieyzq/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2022,27000,18950,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6indymw80m3g2mxo1bzetu1revlrmufqifq.6esvbw2hyzewlolpfixksdsio69_d1i_likfffezr8e/image;s=320x240
+polo,vw,vw polo 1.6 tdi confortline,2018,31444,17700,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijl2a2lzntvkaxcwctmtu1revlrmufqifq.sjggzzt4zmw8xubfiuzd7ciaelv8q0n1htxrfaey394/image;s=320x240
+polo,vw,vw polo 1.4 tdi confortline,2007,219853,6990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijhwam0weja4otm2zjetu1revlrmufqifq.uv6p-6dn1dmix3wd4ljpulko0gc6xtjpcjk26bsfrho/image;s=320x240
+polo,vw,vw polo,2011,193000,8950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im04n256cwdlytrqmy1tverwvexqvcj9._cybezirr0zzklifxl8t18gx5s1exjv8u9ejs9gbyeo/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,125464,13480,diesel,manual,none
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,104120,13500,diesel,manual,none
+polo,vw,vw polo 1.4 tdi bluemotion,2015,119507,12490,diesel,manual,none
+clio,renault,renault clio 1.5 dci zen,2018,164619,11190,diesel,manual,none
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,98000,15900,diesel,manual,none
+clio,renault,renault clio 1.5 dci gt line,2018,100208,16500,diesel,manual,none
+polo,vw,vw polo 1.0 confortline,2020,79980,15750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijl6og9hcmpvmxi5bditu1revlrmufqifq.iiyacyi74vs7ysc73zspw7g8r537oc2x0ycqenuainc/image;s=320x240
+polo,vw,vw polo 1.6 tdi confortline,2019,110541,15900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzszww5dw5wanzses1tverwvexqvcj9.e0hf-9gmdntvga9ivghj9ywmwlephgvkz3mlgfwgnf4/image;s=320x240
+clio,renault,renault clio 1.5 blue dci rs line,2020,164159,16490,diesel,manual,none
+clio,renault,renault clio 1.5 dci confort,2013,167000,9750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ino5m20wd3l1mxb0ay1tverwvexqvcj9.0l_qf6oztvijjlhvc9kylzudzi4-i-2edlnswkhrq20/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2018,123000,12480,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ija2bmjjedlxczq5azetu1revlrmufqifq.2iihguajjqlhsftttlnsyjht7owbtrljodtbtsijwe0/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2018,163385,14500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inrrzznpyzf3cmf5by1tverwvexqvcj9.94gdx0dfi02k4nqdvufxwz_leaizpyaot06hx_jom1y/image;s=320x240
+polo,vw,vw polo 1.4 tdi trendline,2015,137000,11990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im04nde4bxeynhhrny1tverwvexqvcj9.tiopcamffn2em9o0jrkyry6kmcb3a7fxvvvn8iriuru/image;s=320x240
+clio,renault,renault clio 1.5 blue dci zen,2021,140000,17990,diesel,manual,none
+clio,renault,renault clio 1.0 tce limited,2022,30901,19300,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijzxdwx3cjb1bm00cjmtu1revlrmufqifq.9zogh41iwbvdupadw-pf7oqfovmnpnjlwk1y3xxigta/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique s edc,2017,100000,14980,diesel,automatica,none
+clio,renault,renault clio (energy) dci 90 start & stop intens,2018,143000,13950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijzlc25sywv5zxhuyi1tverwvexqvcj9.jvsqaoteajisghmcxmkh-yn8vgb8yvy7ptzjrmrrauq/image;s=320x240
+clio,renault,renault clio 1.5 dci limited edition,2018,167206,13000,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imt5atz0bwm0mwnsmdetu1revlrmufqifq.kpn3m0yr-y-21nrd7lj27whewevu0dumnzwhgbcywb0/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2019,138356,16250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innzagh1amo4ag42dzitu1revlrmufqifq.qzwv1h1lzhmfofauekmdef7htru8wywcw97suopqms0/image;s=320x240
+clio,renault,renault clio 1.5 blue dci zen,2019,145000,15490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imryoxq2bjq2y2m4ec1tverwvexqvcj9.h9f4giuyhpm3qsd4m-szcmgvburbnardq5n3ogmhznw/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2019,80700,18900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im9tmw1rmmtydwfpny1tverwvexqvcj9.v-wywhtltsnuczzjabmdjtaeb3gk5hy2kj4gm86v0s4/image;s=320x240
+polo,vw,vw polo 1.2 tdi street,2014,160000,11750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im51exjpdnhiyzdnnjitu1revlrmufqifq.h_isc6dybht8vzys8kkwno2l4bmphm4a7xpewlkszeu/image;s=320x240
+clio,renault,renault clio,2020,141500,16990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijy3z256z3jlmwtvzzetu1revlrmufqifq.dsausasz4skz2cyjlljjpotxnrbzhzvcdppzsdjdvac/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline,2021,65265,15850,gasolina,manual,none
+clio,renault,renault clio 1.5 blue dci intens,2020,72579,17890,diesel,manual,none
+clio,renault,renault clio 1.5 dci limited edition,2017,153500,11490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijl0bxjwbxcydgjzzjetu1revlrmufqifq.-n8bga3gx_6vslev8-cxzqnntzvyryyactx1odo-2-q/image;s=320x240
+clio,renault,renault clio 0.9 tce limited edition,2020,97261,13980,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijlkzgr6nwhqn2hhdjmtu1revlrmufqifq.f3iuylkiykbxvjyqkblcukzf27-jene9wbhsxfhaem8/image;s=320x240
+polo,vw,vw polo 1.6 tdi confortline,2018,106252,15999,diesel,manual,none
+polo,vw,vw polo 1.0 tsi opf active,2021,7000,19900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inzjzzv2mnz6edqyetitu1revlrmufqifq.i67v_cjlbyn1-jihdpmx8lbngwizlydgsokvs_dww4y/image;s=320x240
+polo,vw,vw polo 1.0 trendline,2015,100000,11500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inz5m2vuehk5nzd2djmtu1revlrmufqifq.8bbzr9vhcdo-cpozh4y6ouhmkf4m4fntkfdq31qala8/image;s=320x240
+clio,renault,renault clio 1.5 dci limited edc,2019,160000,14950,diesel,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im1vz2hvdtdnbdhpbdmtu1revlrmufqifq.vxj9z4byodsejkckcyul--ylc-vk1k9ckyudbmoa7z8/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique s,2010,154000,7900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijcwcmlxdjyxnwludi1tverwvexqvcj9.0e-ruseu3bkmfj9taweajzwzzqn-kkvfn8ic8w9ri_s/image;s=320x240
+clio,renault,renault clio 1.5 blue dci rs line,2020,140000,18990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imlqmgnimtjncwy1my1tverwvexqvcj9.cakr0z0ea_hv5wigeeexkz0nawzxtf3i-fhwrx-fqvq/image;s=320x240
+polo,vw,vw polo 1.6 tdi trendline pack,2009,240000,10500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ije5ndqymmhqem5wdy1tverwvexqvcj9.chpcboddom75zug7lzsskg2pgosvh9nm4azniyghcak/image;s=320x240
+polo,vw,vw polo 1.0 tsi life,2022,42936,19500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imuzd2lhymo1ang3btitu1revlrmufqifq.x6hw5otufat0-febkdk5pn75famejrfgugll6lzxfwy/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2017,97319,13990,diesel,manual,none
+polo,vw,vw polo 1.0 tsi confortline,2021,56301,16490,gasolina,manual,none
+clio,renault,renault clio 1.2 16v confort,2010,118000,6000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imq5bzbqcwp0enn6odmtu1revlrmufqifq.5vxycg2lz8x31me2nhhahws3lieg7onye1_isxvh25e/image;s=320x240
+clio,renault,renault clio 1.0 sce zen,2020,20000,15750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inc3dzbpbmjvd3owzzmtu1revlrmufqifq.ovth2lo-lekvyjwdjv8dlkynnopveeno2_mvd9-x9v4/image;s=320x240
+clio,renault,renault clio 0.9 tce limited,2018,97000,12900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6iji0b3a0bgk1agxrdc1tverwvexqvcj9.pxxv3le-cpqv_leu57_ywuw_ypv5rhuip7xmp-diaze/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited edition,2019,86000,12500,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im5odtfyajh5mw5lbtetu1revlrmufqifq.snqke4xaia89yfkkg-aed2xk7l-r65opbn_ntslh62a/image;s=320x240
+clio,renault,renault clio 1.5 dci business,2012,287113,4999,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inlsehmyehgyawdymzmtu1revlrmufqifq.fvogmwk07txc8zuyvlllxjrurvgahl1swhwnoiduaho/image;s=320x240
+clio,renault,renault clio 1.2 tce gt j15,2010,99900,6750,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imjyzhr5dtf5yxnyai1tverwvexqvcj9.omwl2etmtxjk1ylcam6xggtblgrqhj6ihmomoslp6oq/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited,2020,42354,13999,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infzbxponzvwcxlvejitu1revlrmufqifq.kfn4xc-iaq791twh08muy5iaykk3so-sw5kxj07hjwe/image;s=320x240
+polo,vw,vw polo 1.4 tdi lounge,2016,335000,9990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6injzdxe4dze1otd5nzitu1revlrmufqifq.spkw8iohombv5oc6_jwyqwgdyspyqxzubbn8crzhc2g/image;s=320x240
+clio,renault,renault clio 1.0 tce intens,2021,30487,19250,gasolina,manual,none
+clio,renault,renault clio break 1.5 dci dynamique s,2008,140000,6450,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijhvzjzxdwpmohhmdy1tverwvexqvcj9.sodd1bg0lgkphsacq8uuyqpzqfp0er3qgun21bt-1iy/image;s=320x240
+clio,renault,renault clio 1.0 tce limited,2021,37353,17900,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ine3d2k2d3g1mtf0ytitu1revlrmufqifq.1ucuqig3cqwtpwsqdzml-gjuayrzvhcgfz0mrskcg_c/image;s=320x240
+clio,renault,renault clio,2015,239740,8990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inp5owfsbtk0amfnazmtu1revlrmufqifq.edhywhxhobhjyrq3zlfpw004a2yl3ya8geexwvmydva/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2018,115770,16500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzznm42zgp4emw4ztitu1revlrmufqifq.nw4y2ws3xgvlmt4a9kw9fg7devpntabscixsygwbgqs/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci gt line,2018,69255,17250,diesel,manual,none
+polo,vw,vw polo 1.0 confortline,2017,130000,12990,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6indibhdoctcxc29mni1tverwvexqvcj9.csxi_4wusywvah_twlwro7yhd7i2fy3jhjbe-t0ibtk/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci limited,2018,63000,14990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijezahbpdjuyzw5pys1tverwvexqvcj9.p9w69mg8pxgmatwjalxdabcjzksdwajdmvuqje3bf4q/image;s=320x240
+polo,vw,vw polo 1.6 tdi confortline,2018,79000,16750,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inz2chc3b3g2yxlqntetu1revlrmufqifq.zru1teahg9udwwsnmigcxqfwrgse-vjzh1qdbeulmv4/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2019,74358,14399,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inb4cmw3bgq2amr0zzetu1revlrmufqifq.dg221a1lytgctt_phxkfhpxvjkpatfj0ptxikkipy6q/image;s=320x240
+clio,renault,renault clio sport tourer 0.9 tce limited,2018,73000,12790,gasolina,manual,none
+polo,vw,vw polo 1.0 tsi confortline,2021,52821,18400,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imrvedg4c2twmmwzytmtu1revlrmufqifq.2dtnfeecjvk3zq2skfzymnqdrudghk3137ur3g3r1t0/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2019,67200,15990,diesel,manual,none
+polo,vw,vw polo 1.4 tdi blue motion technology lounge,2017,112000,13900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imw0agjwztbkdnf6zdmtu1revlrmufqifq.ubqady8jmjzdkgyxfqn9ruet3ymngiioeel2xpomxj8/image;s=320x240
+polo,vw,vw polo 1.0 tsi life,2021,36215,18590,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imx1owdtbgnmyxo1cdmtu1revlrmufqifq.1g4p6vzihukw51rnmtwgnpoohkru8xj0oaezgrxw4ki/image;s=320x240
+polo,vw,vw polo 1.0 tsi life,2021,45606,18590,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6innzejn1cmuxyjfjntmtu1revlrmufqifq.txh07gx7w7xmreigsaqbogn_sspeoubdxgtt0yomg6u/image;s=320x240
+polo,vw,vw polo 1.0 tsi life,2021,15700,18900,gasolina,manual,none
+clio,renault,renault clio 1.0 tce rs line,2020,30246,19900,gasolina,manual,none
+clio,renault,renault clio 0.9 tce limited,2019,86673,15900,gasolina,manual,none
+clio,renault,renault clio sport tourer 0.9 tce confort,2017,125410,14900,gasolina,manual,none
+polo,vw,vw polo 2.0 tsi gti dsg,2020,9000,33900,gasolina,automatica,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijlhag14zwxvotrjazetu1revlrmufqifq.qholoootez4jc4qqh7zbz3umqtxuv6jlv4ouvamqjca/image;s=320x240
+polo,vw,vw polo 1.0 tsi confortline,2021,41000,16590,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijhhz3c2amjkcmd3ndmtu1revlrmufqifq.8eftlwfflxzkkbmq7zqefmnzawjxw1td7n6qpg3vbiq/image;s=320x240
+clio,renault,renault clio sce 75 experience,2021,80000,14490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inr3eghqc256ogr2mjitu1revlrmufqifq._ypyyr38wq-aqthk3ct6wgzplacrnndaedbcs9ia_tg/image;s=320x240
+clio,renault,renault clio 1.0 tce exclusive,2021,57825,15900,gasolina,manual,none
+clio,renault,renault clio 1.5 blue dci limited,2022,21492,22400,diesel,manual,none
+clio,renault,renault clio 0.9 tce limited edition,2016,115901,13000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6im5kaxjod3n4mxqyodetu1revlrmufqifq.mk8aoqaiz_0vmpkzte5ydmyltiqtxn2bhpxbtbcbf40/image;s=320x240
+clio,renault,renault clio 1.5 blue dci rs line,2019,84400,17150,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inj3dhhyahzhbmhzazmtu1revlrmufqifq.ugdnpjgsvmtminx6fu-4apqdwb3bw-wp3cnl35-cgrg/image;s=320x240
+polo,vw,vw polo 1.0 confortline,2001,125000,3250,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijg3cmfidnzloxrmdtitu1revlrmufqifq.-min6gxdxgwpwsgbjbfhdrgv3da5fomwsyukp10fy7k/image;s=320x240
+clio,renault,renault clio 1.5 dci confort authentique,2004,230000,3500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijm1dzq1ada5nzjvby1tverwvexqvcj9.4tzdy8zrch_hc0drk4ztapxxekzetayrsqqqcxgx5me/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique s,2011,133000,8980,diesel,manual,none
+clio,renault,renault clio 1.0 tce limited,2022,13300,19700,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imxobhh3ctjtmjfwnzmtu1revlrmufqifq.fwgzrdfjos08wujsjm58d-pdc-agree-tvttvdrfu6q/image;s=320x240
+clio,renault,renault clio 1.2 16v dynamique,2006,110000,5000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inywows3mzk1zwdrmzetu1revlrmufqifq._alxxpt7gxm2efcq6e31brb6p6dksyi1zob59wiy_dy/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci dynamique s,2014,302681,8900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imu2a21sdmvtmhu3nditu1revlrmufqifq.ydmrasgpc1uqdfenyushtbtkqmcuokbnck8zybhcwiy/image;s=320x240
+clio,renault,renault clio sport tourer energy dci 90 start & stop limited,2014,222000,8500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inlimw1pnni5cnm3zjetu1revlrmufqifq.je-xkdl4llaoxtfs5znhffbasox4wv04nlukrvpvvvq/image;s=320x240
+clio,renault,renault clio 1.5 dci limited edition,2017,135000,12850,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6invxb3b2nm5xzxf4zditu1revlrmufqifq.clanj1nu9hhcnbpooczegxn49ica7zol090esgemlby/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci zen,2018,174355,9995,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ime2odfynjrmowi1zjmtu1revlrmufqifq.nuc2kqk9l-kx0mmjmskkvmv2c9doct79uemr5sk7egk/image;s=320x240
+clio,renault,renault clio 1.5 dci comfort,2014,212000,9800,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ink2dxnmc2xsexziatetu1revlrmufqifq.yictwzmf-pkcf377jfd7v3v7newyatak04tpfajtrgu/image;s=320x240
+clio,renault,renault clio 1.5 dci dynamique,2012,270000,3900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imzxy2m1c3b3cdl6btitu1revlrmufqifq.xy5ggp2cudtoetigo_qpoxjat2vw9uiafc1p0obg2eu/image;s=320x240
+clio,renault,renault clio tce 90 dynamique,2018,135000,12490,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijljdwjqa3f4bdvpny1tverwvexqvcj9.bqa1u4qc7hl6bwwqbi0aol_j5gzpxtduwbz173lwfgy/image;s=320x240
+clio,renault,renault clio dci 75 expression,2017,133000,12245,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inaxzgu4azg4czh1dc1tverwvexqvcj9._rdg0c0yljvgzx61boddx_ecffaguaevqmo5twjzn48/image;s=320x240
+polo,vw,vw polo 1.6 tdi confortline,2019,141045,16490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6inrrmxdiazbwenhlmjetu1revlrmufqifq.ruhbrtiqs7odt2q_uj4cgkrmtnewiocmr7os3iom2_s/image;s=320x240
+clio,renault,renault clio 1.5 blue dci rs line,2020,120000,17990,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijbly3zlatk5ohp4ejetu1revlrmufqifq.rbtu-jzo33zbg7kq7x1pvureka1abigvcgkn-uybibg/image;s=320x240
+clio,renault,renault clio sport tourer 1.5 dci zen,2019,135422,12900,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6impkchqwn2jhb3vrzc1tverwvexqvcj9.w70tag1teg8rjqo6tqfcvkcul52qn5hagl-pynyir-o/image;s=320x240
+polo,vw,vw polo 1.2 tsi lounge,2015,125842,12990,gasolina,manual,none
+clio,renault,renault clio 1.5 dci limited,2018,149105,16490,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijy4cmoydhdhawlydc1tverwvexqvcj9.nnb7xlwp7dvywxegql_ypuu99hzmuzkn6m96sf8dw4i/image;s=320x240
+clio,renault,renault clio 1.5 dci limited edition,2019,153000,13950,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6infkanrkdtfvb3dmnjetu1revlrmufqifq.p0kqrutny_phcdodcqh1dto181ijjcsodg0uyavkld0/image;s=320x240
+clio,renault,renault clio 0.9 tce dynamique s,2017,150731,12940,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6ijnwmnp6djayagx4ztitu1revlrmufqifq.qamc2jrnmhwggp06llai5dnik4hwgt9zxx4u4oudp3m/image;s=320x240
+clio,renault,renault clio 1.5 dci limited,2017,135000,12500,diesel,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imvkodc2cw5rnnizetetu1revlrmufqifq.nr5gae6eym-s_lgr_kxbk65udyi6zd7eupjxae_e-h8/image;s=320x240
+clio,renault,renault clio 2.0 16v sport,2007,100900,20000,gasolina,manual,https://ireland.apollo.olxcdn.com/v1/files/eyjmbii6imiyynvocnvxzwqzmditu1revlrmufqifq.tnede_z3xcvk5d9xplxomfqrdwcygrycotggmes59ie/image;s=320x240
+clio,renault,renault clio 1.5 dci zen,2019,76486,15790,diesel,manual,none
